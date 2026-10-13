@@ -101,11 +101,11 @@ Purposes of Ordinance..
 ## PART I
 
 OFFSHORE BANKING
-4.
-5.
-6.
-7.
-8.
+4\.
+5\.
+6\.
+7\.
+8\.
 
 Offshore Banking
 ..
@@ -136,22 +136,22 @@ Qualified foreign bank
 ## PART II
 
 LICENSING REQUIREMENTS
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
+9\.
+10\.
+11\.
+12\.
+13\.
+14\.
+15\.
+16\.
+17\.
+18\.
+19\.
+20\.
+21\.
+22\.
+23\.
+24\.
 
 Consent of Minister ..
 ..
@@ -246,9 +246,9 @@ Dividends
 ## PART III
 
 ABANDONED PROPERTY
-29.
-30.
-31.
+29\.
+30\.
+31\.
 
 Abandoned Property ..
 ..
@@ -395,14 +395,14 @@ Offence re-abandoned property
 ## PART IV
 
 ADMINISTRATION OF LICENSEES
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
+32\.
+33\.
+34\.
+35\.
+36\.
+37\.
+38\.
+39\.
 
 Director
 ..
@@ -448,17 +448,17 @@ Insider information ..
 ## PART V
 
 AUDIT AND INSPECTION
-40.
-41.
-42.
-43.
-44.
-45.
-46.
-47.
-48.
-49.
-50.
+40\.
+41\.
+42\.
+43\.
+44\.
+45\.
+46\.
+47\.
+48\.
+49\.
+50\.
 
 Financial Statements ..
 ..
@@ -503,9 +503,9 @@ Remedial action
 
 OFFENCES
 
-51.
-52.
-53.
+51\.
+52\.
+53\.
 
 Unlicenced Offshore Banking
 Misleading advertising
@@ -635,9 +635,9 @@ Contravention of section 42 ..
 ## PART VII
 
 GENERAL
-56.
-57.
-58.
+56\.
+57\.
+58\.
 
 Extending time
 ..
@@ -657,33 +657,33 @@ Use of “bank” in names
 ## PART VIII
 
 WINDING UP
-59.
-60.
-61.
-62.
-63.
-64.
-65.
-66.
-67.
-68.
-69.
-70.
-71.
-72.
-73.
-74.
-75.
-76.
-77.
-78.
-79.
-80.
-81.
-82.
-83.
-84.
-85.
+59\.
+60\.
+61\.
+62\.
+63\.
+64\.
+65\.
+66\.
+67\.
+68\.
+69\.
+70\.
+71\.
+72\.
+73\.
+74\.
+75\.
+76\.
+77\.
+78\.
+79\.
+80\.
+81\.
+82\.
+83\.
+84\.
+85\.
 
 Voluntary winding up ..
 ..
@@ -851,14 +851,14 @@ Persons resident outside Nevis
 ## PART X
 
 TAX EXEMPTIONS
-88.
-89.
-90.
-91.
-92.
-93.
-94.
-95.
+88\.
+89\.
+90\.
+91\.
+92\.
+93\.
+94\.
+95\.
 
 Exemption from tax ..
 ..
@@ -896,11 +896,11 @@ Employee benefits
 ## PART XI
 
 MISCELLANEOUS AND CONSEQUENTIAL
-96.
-97.
-98.
-99.
-100.
+96\.
+97\.
+98\.
+99\.
+100\.
 
 Application of Companies Act Cap. 335
 Bankruptcy Act Cap. 9
@@ -1196,7 +1196,7 @@ association acceptable to the Minister,
 
 have authorized and paid up capital in
 accordance with the requirements of section
-22.
+22\.
 
 of
 
@@ -2165,7 +2165,7 @@ months or to both.
 Insider
 information.
 
-39.
+39\.
 
 (1)
 
@@ -2242,7 +2242,7 @@ Central Bank may require.
 
 Confidentiality.
 
-41.
+41\.
 
 (1)
 
@@ -2281,9 +2281,9 @@ of balance sheets.
 
 Auditor
 
-42.
+42\.
 
-43.
+43\.
 
 In this ordinance, unless the context otherwise requires"auditor" means a person who
 
@@ -2377,7 +2377,7 @@ records.
 Offence and
 and penalty.
 
-47.
+47\.
 
 The remuneration of an auditor shall be paid by the licensee
 to which he is appointed and, if the auditor is appointed
@@ -2433,11 +2433,11 @@ material particular, the licensee shall be guilty of an offence and
 liable on summary conviction to a fine not exceeding five thousand
 dollars.
 
-48.
+48\.
 
 Repealed.
 
-49.
+49\.
 
 If any of the matters referred to in section 47 are not produced,
 or the information relating thereto is not given, to the examiner by the
@@ -2483,7 +2483,7 @@ Unlicensed
 Offshore
 Banking
 
-51.
+51\.
 
 (1)
 
@@ -2550,7 +2550,7 @@ statement
 and
 obstruction.
 
-53.
+53\.
 
 A licensee shall, in respect of its business, furnish the Central Bank
 with copies of all its advertisements.
@@ -2582,7 +2582,7 @@ Disclosure of
 confidential
 information.
 
-54.
+54\.
 
 A person referred to in section 39(1) who discloses confidential
 information contrary to that section is guilty of an offence and
@@ -2605,7 +2605,7 @@ GENERAL
 Extending
 time.
 
-56.
+56\.
 
 At the request of a licensee, the Minister may extend the time
 within which any document or information required from the
@@ -2613,7 +2613,7 @@ licensee under this Ordinance must be sent to the Central Bank.
 
 Regulations.
 
-57.
+57\.
 
 The Minister may make such regulations as are necessary for the
 purpose of this Ordinance and, in particular, may make regulations
@@ -2623,7 +2623,7 @@ Ordinance to be prescribed.
 Use of “bank”
 in names.
 
-58.
+58\.
 
 (1)
 
@@ -2685,9 +2685,9 @@ winding-up.
 Notice of
 winding-up.
 
-60.
+60\.
 
-61.
+61\.
 
 (a)
 
@@ -2751,9 +2751,9 @@ Distribution
 of remaining
 assets.
 
-62.
+62\.
 
-63.
+63\.
 
 (2)
 
@@ -2894,11 +2894,11 @@ High Court.
 Notice of
 application.
 
-66.
+66\.
 
-67.
+67\.
 
-68.
+68\.
 
 Within thirty days after the Central Bank has seized the
 administration and control of a licensee under this Ordinance, the
@@ -2944,7 +2944,7 @@ to the depositors and other creditors of the licensee.
 Appointment
 of custodian.
 
-69.
+69\.
 
 If the High Court orders the compulsory winding-up or
 reorganization of a licensee pursuant to an application under
@@ -2954,7 +2954,7 @@ responsible to the Court and to supervise the winding-up or reorganization of th
 Function of
 custodian.
 
-70.
+70\.
 
 (1)
 
@@ -3074,9 +3074,9 @@ custodian.
 Compulsory
 winding-up.
 
-74.
+74\.
 
-75.
+75\.
 
 (i)
 
@@ -3115,9 +3115,9 @@ contracts.
 Right of
 lessor.
 
-76.
+76\.
 
-77.
+77\.
 
 The custodian of a licensee described in subsection (1) may
 not, without an order of the High Court to do so,
@@ -3257,9 +3257,9 @@ of assets.
 Priority
 of claims.
 
-81.
+81\.
 
-82.
+82\.
 
 (1)
 
@@ -3352,7 +3352,7 @@ basis among the claimants in that class.
 Distribution
 of shareholders.
 
-83.
+83\.
 
 The assets of a licensee being compulsorily wound-up that
 remain after the final distribution to claimants pursuant to section
@@ -3362,7 +3362,7 @@ the licensee in proportion to their respective rights.
 Abandoned
 funds.
 
-84.
+84\.
 
 (1)
 
@@ -3422,7 +3422,7 @@ Persons
 resident
 outside Nevis
 
-87.
+87\.
 
 For the purposes of this Ordinance, the following are
 residents of Nevis, namely:
@@ -3469,7 +3469,7 @@ TAX EXEMPTIONS
 Exemption
 from tax.
 
-88.
+88\.
 
 (1)
 
@@ -3490,7 +3490,7 @@ Transfer
 of assets
 exemption.
 
-89.
+89\.
 
 (3)
 
@@ -3546,7 +3546,7 @@ Withholding
 tax and report re
 dividends etc
 
-90.
+90\.
 
 (1)
 
@@ -3566,9 +3566,9 @@ Cap. 73.
 Tax
 agreement.
 
-91.
+91\.
 
-92.
+92\.
 
 (2)
 
@@ -3647,7 +3647,7 @@ or license required in Nevis.
 Customs
 duty.
 
-94.
+94\.
 
 The Minister may by order exempt a licensee in respect of its
 business from all or so much of any duty payable under the
@@ -3662,7 +3662,7 @@ the ordinary course of business.
 Employee
 benefits
 
-95.
+95\.
 
 (1)
 
@@ -3712,28 +3712,28 @@ Act Cap. 335.
 
 Bankruptcy.
 
-97.
+97\.
 
 The Bankruptcy Act does not apply to a licensee.
 
 Banking
 Act.
 
-98.
+98\.
 
 The Banking Act does not apply to a licensee in respect of its
 offshore banking business.
 
 Exemptions.
 
-99.
+99\.
 
 The provisions of this Ordinance set out here under do not apply to
 a licensee that is a qualified foreign bank, namely:
 
 Commencement.
 
-100.
+100\.
 
 The provisions of the Companies Act relating to the
 winding-up of a company do not apply to a licensee.

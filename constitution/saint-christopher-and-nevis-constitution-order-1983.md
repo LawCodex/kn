@@ -57,7 +57,7 @@ of Her Privy Council, to order, and it is hereby ordered as follows:
 
 Citation and commencement.
 1.- (1) This Order may be cited as the Saint Christopher and Nevis Constitution Order
-1983.
+1983\.
 (2) This Order shall come into operation on 23rd June 1983.
 
 ### 2.

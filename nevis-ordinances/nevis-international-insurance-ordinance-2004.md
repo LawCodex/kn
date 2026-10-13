@@ -23,8 +23,8 @@ Island of Nevis.
 ## PART I
 
 Preliminary
-1.
-2.
+1\.
+2\.
 
 Short title and commencement.
 Interpretation.
@@ -32,17 +32,17 @@ Interpretation.
 ## PART II
 
 Administration of Ordinance
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
+3\.
+4\.
+5\.
+6\.
+7\.
+8\.
+9\.
+10\.
+11\.
+12\.
+13\.
 
 Appointment of Registrar of International Insurance and Deputy Registrar.
 Registration of International Insurance Companies.
@@ -59,13 +59,13 @@ Notification of Changes.
 ## PART III
 
 Records, Accounts and Long-Term Business
-14.
-15.
-16.
-17.
-18.
-19.
-20.
+14\.
+15\.
+16\.
+17\.
+18\.
+19\.
+20\.
 
 Keeping of business records.
 Annual Accounts.
@@ -80,24 +80,24 @@ Solvency margins for reinsurer and captive insurer.
 ## PART IV
 
 Regulation of Registered Insurers
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
+21\.
+22\.
+23\.
+24\.
+25\.
+26\.
+27\.
+28\.
+29\.
+30\.
+31\.
+32\.
+33\.
+34\.
+35\.
+36\.
+37\.
+38\.
 
 Restriction of business.
 Shares not to be issued or transferred without approval.
@@ -122,10 +122,10 @@ Responsibility of employer for breach of security.
 
 Taxation and Exemptions
 
-39.
-40.
-41.
-42.
+39\.
+40\.
+41\.
+42\.
 
 Profits and dividends.
 Exemption from stamp duty.
@@ -135,13 +135,13 @@ Power of exemption.
 ## PART VI
 
 Supplementary
-43.
-44.
-45.
-46.
-47.
-48.
-49.
+43\.
+44\.
+45\.
+46\.
+47\.
+48\.
+49\.
 
 Indemnity.
 False statements.
@@ -1908,4 +1908,4 @@ GOVERNMENT PRINTERY
 ST KITTS W I
 
 Insurance Act
-1968.
+1968\.

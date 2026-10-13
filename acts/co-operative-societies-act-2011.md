@@ -773,7 +773,7 @@ the co-operative society, including any of the records listed in section 21(2).
 (2) Members of a co-operative society, their agents and their legal
 representatives may, during the normal business hours of the co-operative society, examine
 any of the records specified in section 21(2)(a) to (h) and the returns specified in section
-147.
+147\.
 
 ### 23.
 
@@ -3815,7 +3815,7 @@ set out in subsection (1), the Registrar may call the special meeting
 members’ interests in the co-operative society; and
 (b) to ascertain whether the members wish to continue the business
 of the co-operative society and to comply with sections 130 and
-132.
+132\.
 (3) Where
 (a) a quorum of members is not present at a special meeting called under
 subsection (2); or
@@ -5496,26 +5496,26 @@ APPEALS TRIBUNAL
 ## PART 1
 
 Constitution
-1.
+1\.
 
 Membership
 The Co-operative Societies Appeals Tribunal shall consist of three persons, one of
 whom shall be an attorney-at-law of at least five years standing who shall be the
 Chairperson of the Tribunal.
 
-2.
+2\.
 
 Appointment
 The members of the Tribunal shall be appointed by the Minister, after consultation
 with the apex body, for a period of not more than three years and shall be eligible for
 re-appointment.
 
-3.
+3\.
 
 Resignation
 A member may at any time resign his membership by notice in writing to the Minister.
 
-4.
+4\.
 
 Inability
 (1) If the Minister is satisfied that a member
@@ -5526,25 +5526,25 @@ the Minister may by notice published in the Gazette, declare the office of the
 member to be vacant and thereupon, the office shall become vacant.
 (2) In case of the temporary absence or inability of a member to act, the Minister may
 appoint a suitable person to act in that member’s place.
-5.
+5\.
 
 Publication
 The Minister shall publish, in the Gazette, notice of the appointment and cessation of
 appointment of a member.
 
-6.
+6\.
 
 Remuneration
 The members of the Tribunal shall receive such remuneration as the Minister may
 prescribe.
 
-7.
+7\.
 
 Validity of proceedings
 The validity of any proceedings of the Tribunal shall not be affected by any vacancy
 among the members or any defect in the appointment of a member.
 
-8.
+8\.
 
 Rules
 Subject to this Schedule, the Tribunal shall regulate its own procedure and may make
@@ -5554,7 +5554,7 @@ rules for that purpose.
 
 Procedure
 
-1.
+1\.
 
 Initial Procedure
 (1) An appeal to the Tribunal shall be by notice in writing, and sent or delivered to the
@@ -5564,7 +5564,7 @@ other members of the Tribunal.
 (3) The chairperson of the Tribunal may appoint a secretary and such other officers as
 he thinks fit for the purposes of the appeal.
 
-2.
+2\.
 
 Statements to be provided
 (1) The appellant shall, within 14 days of the lodging of the notice of appeal, provide
@@ -5583,7 +5583,7 @@ of such response shall be sent by the chairperson of the Tribunal to the appella
 and to any other person interested in the appeal of whom he or she has notice.
 (3) The chairperson shall send copies of all statements and responses to the other
 members of the Tribunal as soon as he or she receives them.
-3.
+3\.
 
 Further particulars
 On application by any person interested in the appeal to whom a copy of the written
@@ -5594,14 +5594,14 @@ him or her with further particulars in writing within such time as the chairpers
 direct and the chairperson, on receipt of such particulars shall provide copies of such
 particulars to the other interested parties and to the other members of the Tribunal.
 
-4.
+4\.
 
 Notice of hearing
 The chairperson of the Tribunal shall, in consultation with the other members of the
 Tribunal, fix a date and place for the hearing of the appeal and shall give not less than
 7 days’ notice thereof to the appellant, the Registrar and any other interested party.
 
-5.
+5\.
 
 Procedure at hearing
 (1) At a hearing before the Tribunal, the appellant, the Registrar and any other interested
@@ -5622,7 +5622,7 @@ may give such directions with a view to the determination of the appeal as the
 Tribunal thinks just and proper.
 (6) Proceedings of the Tribunal shall be held in public.
 
-6.
+6\.
 
 Decision of Tribunal
 (1) The decision on any matter of the majority of the Tribunal shall be the decision of
@@ -5635,13 +5635,13 @@ other interested party.
 (3) The Tribunal may, on the application of any person, award costs to any party to an
 appeal in such amount as the Tribunal shall assess at the hearing.
 
-7.
+7\.
 
 General provision as to procedure
 Save as otherwise expressly provided by this Act, the procedure at any hearing before
 the Tribunal shall be such as the Tribunal may determine.
 
-8.
+8\.
 
 Proof of decisions of the Tribunal
 The production in any proceedings in any court of a document purporting to be certified
@@ -5697,11 +5697,11 @@ The supervisory committee will have ____________ members.
 
 B. Economic Advisability of Organizing Proposed Credit Union
 GENERAL INFORMATION
-1.
+1\.
 
 Potential membership:
 
-2.
+2\.
 
 Potential Interest
 •
@@ -5728,11 +5728,11 @@ Number pledging systematic savings:
 
 Total amount pledged (per month): $
 
-3.
+3\.
 
 Number of persons attending the charter-organization meeting.
 
-4.
+4\.
 
 Attach a business plan containing, at a minimum, the following elements:
 •
@@ -5817,93 +5817,93 @@ Common Bond of:
 • Association
 • Residence in a defined neighborhood or district
 Specific Information – Philosophical Common Bond Applicants
-1.
+1\.
 
 Explain how the credit union will be able to transact business effectively with the
 members.
 
 Specific Information – Occupational Sponsor Applicants
-1.
+1\.
 
 How long has the sponsor company been in existence?
 
-2.
+2\.
 
 What was the highest number of employees during the past three years?
 Lowest number during the past three years? If a large variance, explain.
 
-3.
+3\.
 
 Are there any contemplated changes in the corporate structure of the company?
 If yes, explain.
 
-4.
+4\.
 
 Have there been any significant changes in the corporate structure in the past
 three years? If yes, explain.
 
-5.
+5\.
 
 Are there any negotiations now in progress between management and labor that could
 lead to work stoppages? If yes, explain.
 
-6.
+6\.
 
 If the credit union cannot operate on the employer’s property, explain how the credit
 union will be able to transact business effectively with the members.
 
-7.
+7\.
 
 If the employees to be served by the credit union work in more than one location or
 city, identify each location with the corresponding number of employees working at
 each.
 
-8.
+8\.
 
 Are there other employees of the company who are not being included in the proposed
 field of membership?
 
-9.
+9\.
 
 If so, give the number and location of the other employees and explain why they are not
 included in the proposed credit union’s field of membership.
 
 Specific Information – Associational Sponsor Applicants
-1.
+1\.
 
 State the purpose and goals of the organization sponsoring this charter.
 
-2.
+2\.
 
 List the types of activities and their frequency, which the organization sponsors that
 provide contact among the members and from which common loyalties, mutual benefits,
 and mutual interests are developed.
 
-3.
+3\.
 
 In what year was the organization established? Is it incorporated? Where is the
 headquarters located?
 
-4.
+4\.
 
 Give statistics as to trends in membership during the last five years.
 
-5.
+5\.
 
 What is the frequency of membership meetings? Average attendance and Dues
 required ($).
 
-6.
+6\.
 
 State the geographic territory where members reside.
 
-7.
+7\.
 
 Submit a copy of the current bye-laws of the association, the constitution, articles of
 incorporation, or equivalent documentation and recent financial statements, i.e. balance
 sheet, and income and expense statement, with this application.
 
-8.
+8\.
 
 If the by-laws, constitution, articles of incorporation, or equivalent documentation
 provide for more than one type of membership and if all classes of membership are to
@@ -5911,12 +5911,12 @@ be included in the credit union’s field of membership, provide justification f
 inclusion of other than “regular” members.
 
 Specific Information – Residential Applicants
-1.
+1\.
 
 Explain the nature of the community, neighborhood, or rural district where members
 live.
 
-2.
+2\.
 
 Define the borders of the community, neighborhood, or rural district in which residents
 are eligible for membership.

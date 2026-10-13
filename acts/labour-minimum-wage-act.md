@@ -86,12 +86,12 @@ LABOUR (MINIMUM WAGE) ACT
 
 ## ARRANGEMENT OF SECTIONS
 
-1.
-2.
-3.
-4.
-5.
-6.
+1\.
+2\.
+3\.
+4\.
+5\.
+6\.
 
 Short title
 Regulation of wages
@@ -279,12 +279,12 @@ this Act shall be void.
 LABOUR (MINIMUM WAGE) (ADVISORY COMMITTEES) RULES
 Short Title.
 
-1.
+1\.
 These Rules may be cited as the Labour (Minimum Wage) (Advisory
 Committees) Rules.
 Interpretation.
 
-2.
+2\.
 
 In these Rules—
 
@@ -292,7 +292,7 @@ In these Rules—
 “Committee” means an Advisory Committee appointed under section 2 of the Act.
 Powers and Duties of Committee.
 
-3.
+3\.
 (1) Any Committee appointed under the Act shall have full power to
 investigate the conditions of employment in respect of the particular occupation
 which has necessitated its appointment and to make recommendations to the Minister
@@ -312,7 +312,7 @@ possible after the conclusion of their investigation or, if the Minister has req
 interim report, as soon as conveniently possible after the receipt of such request.
 Attendance of Witnesses, etc.
 
-4.
+4\.
 (1) Any person may, by notice in writing signed by the Chairperson, be
 required—
 (a) to attend any meeting of a Committee and give evidence on oath or
@@ -335,12 +335,12 @@ by a Committee or any member thereof shall, on summary conviction, be liable to 
 penalty not exceeding two hundred dollars.
 Appointment of Chairperson.
 
-5.
+5\.
 The Minister shall appoint the Chairperson of every Committee appointed
 under the Act.
 Voting.
 
-6.
+6\.
 All questions arising at any meeting of a Committee shall be determined by a
 majority of votes of all members present including the Chairperson and in the case of
 an equality of votes the question shall be determined by the casting vote of the
@@ -363,12 +363,12 @@ __________
 LABOUR (MINIMUM WAGE) (SHOP EMPLOYEES) ORDER
 Citation.
 
-1.
+1\.
 This Order may be cited as the Labour (Minimum Wage) (Shop Employees)
 Order.
 Minimum Rate of Wages Payable to Shop Employees.
 
-2.
+2\.
 The minimum wage to be paid to a shop employee shall not be less than nine
 dollars per hour.
 \*
@@ -377,7 +377,7 @@ dollars per hour.
 
 Overtime Rate.
 
-3.
+3\.
 
 The overtime rate to be paid to a shop employee shall be as follows—
 (a) for a rest day or public holiday, double the rate in respect of the hours
@@ -399,19 +399,19 @@ __________
 LABOUR (MINIMUM WAGE) (MANUFACTURING SECTOR) ORDER
 Citation.
 
-1.
+1\.
 This Order may be cited as the Labour (Minimum Wage) (Manufacturing
 Sector) Order.
 Minimum rate of wages payable to workers in the manufacturing sector.
 
-2.
+2\.
 The minimum wage to be paid to a worker in the manufacturing sector (entry
 level) shall be nine dollars per hour.
 (Amended by S.R.O.s 38/2008 and 37/2014)
 
 Overtime rate.
 
-3.
+3\.
 
 The overtime rate to be paid to a worker in the manufacturing sector shall be—
 (a) for a Sunday or public holiday, double the rate in respect of the hours
@@ -422,7 +422,7 @@ hours worked.
 
 Calculation of overtime.
 
-4.
+4\.
 (1) Overtime for a worker employed in a manufacturing sector shall be
 calculated on a daily basis.
 (2) A worker in the manufacturing sector shall be paid overtime allowance for
@@ -440,17 +440,17 @@ rate for the hours he or she was absent from duty with reasonable cause.
 
 Citation.
 
-1.
+1\.
 This Order may be cited as the Labour (Minimum Wage) (Domestic Workers)
 Order.
 Interpretation.
 
-2.
+2\.
 In this Order, “full time” means a period of not less than thirty hours per week
 and “part time” means a period of less than thirty hours per week.
 Minimum rate of wages payable to domestic workers.
 
-3.
+3\.
 (1) The minimum wage to be paid to a full-time domestic worker shall not be
 less than six dollars and twenty-five cents per hour except that the total wages for any
 week or part thereof shall not be less than two hundred dollars.
@@ -465,7 +465,7 @@ per week shall not be less than one hundred and fifty dollars;
 exceeding twenty-nine hours per week, seven dollars per hour.
 Overtime Rate.
 
-4.
+4\.
 
 (1) The overtime rate to be paid to a domestic worker shall be—
 (a) for a rest day or public holiday, double the rate in respect of the hours
@@ -490,12 +490,12 @@ OTHER RELATED WORKERS) ORDER
 
 Citation.
 
-1.
+1\.
 This Order may be cited as the Labour (Minimum Wage) (Hotel, Casino,
 Restaurant, and other related workers) Order.
 Interpretation.
 
-2.
+2\.
 
 In this Order unless the context otherwise requires—
 
@@ -508,21 +508,21 @@ category of work;
 “worker” means a hotel, casino, restaurant, and other related worker.
 Minimum rate of wages payable to unskilled workers.
 
-3.
+3\.
 The minimum wage to be paid to unskilled workers shall be nine dollars per
 hour.
 (Amended by S.R.O.s 40/2008 and 38/2014)
 
 Minimum rate of wages payable to semi-skilled workers.
 
-4.
+4\.
 The minimum wage to be paid to semi-skilled workers shall be nine dollars per
 hour.
 (Amended by S.R.O.s 40/2008 and 38/2014)
 
 Overtime Rate.
 
-5.
+5\.
 
 The overtime rate to be paid to a worker shall be as follows—
 (a) in the case of a worker who is paid daily, overtime shall be paid at the
@@ -544,7 +544,7 @@ S.R.O. 26/1994 Revoked and Replaced by S.R.O. 11/2004
 
 Service Charge.
 
-6.
+6\.
 Any service charge collected by a Hotel, Casino, or Restaurant shall be
 distributed to the relevant workers subject to any statutory deductions that may be in
 force.
@@ -558,19 +558,19 @@ __________
 LABOUR (MINIMUM WAGE) (SECURITY GUARDS) ORDER
 Citation.
 
-1.
+1\.
 This Order may be cited as the Labour (Minimum Wage) (Security Guards)
 Order.
 Minimum rate of wages payable to security guards.
 
-2.
+2\.
 The minimum wage to be paid to a security guard (entry level) shall be nine
 dollars per hour.
 (Amended by S.R.O.s 36/2008 and 35/2014)
 
 Overtime rate.
 
-3.
+3\.
 
 The overtime rate to be paid to a security guard shall be—
 (a) for a Sunday or public holiday, double the rate in respect of the hours
@@ -589,25 +589,25 @@ hours in a week shall be deemed to be overtime.
 LABOUR (MINIMUM WAGE) (WATCHMEN) ORDER
 Citation.
 
-1.
+1\.
 
 This Order may be cited as the Labour (Minimum Wage) (Watchmen) Order.
 
 Interpretation.
 
-2.
+2\.
 In this Order the term “watchman” shall not include security guards as defined
 under the Private Investigators and Security Guards Act, Cap. 19.18;
 Minimum rate of wages payable to watchmen.
 
-3.
+3\.
 The minimum wage to be paid to a watchman shall not be less than nine
 dollars per hour.
 (Amended by S.R.O.s 37/2008 and 36/2014)
 
 Overtime Rate.
 
-4.
+4\.
 (1) The overtime rate to be paid to a watchman to whom paragraph 3 applies
 shall be—
 (a) for a rest day or public holiday, double the rate in respect of the hours
@@ -623,12 +623,12 @@ hours worked.
 LABOUR (MINIMUM WAGE) (NATIONAL MINIMUM WAGE) ORDER
 Citation.
 
-1.
+1\.
 This Order may be cited as the Labour (Minimum Wage) (National Minimum
 Wage) Order.
 National minimum wage.
 
-2.
+2\.
 
 The national minimum wage to be paid to a worker other than—
 (a) a worker in a hotel, casino, restaurant or other related worker;
@@ -644,7 +644,7 @@ shall be nine dollars per hour.
 
 Overtime rates.
 
-3.
+3\.
 (1) The overtime rate to be paid to a worker to whom paragraph 2 applies shall
 be—
 (a) for a rest day or a public holiday, double the rate in respect of the

@@ -70,9 +70,9 @@ COMPANIES ORDINANCE
 ## PART I
 
 PRELIMINARY
-1.
-2.
-3.
+1\.
+2\.
+3\.
 
 Short title
 Interpretation
@@ -83,19 +83,19 @@ Prohibition: Commercial Enterprises
 FORMATION AND OPERATION OF COMPANIES
 DIVISION A
 Incorporation of Companies
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
+4\.
+5\.
+6\.
+7\.
+8\.
+9\.
+10\.
+11\.
+12\.
+13\.
+14\.
+15\.
+16\.
 
 Incorporation
 Formalities
@@ -113,15 +113,15 @@ Pre-incorporation agreements
 
 DIVISION B
 Corporate Capacity and Powers
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
+17\.
+18\.
+19\.
+20\.
+21\.
+22\.
+23\.
+24\.
+25\.
 
 Capacity and powers
 Powers reduced
@@ -136,38 +136,38 @@ Company seals
 DIVISION C
 Share Capital
 Shares
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
-41.
-42.
-43.
-44.
-45.
-46.
-47.
-48.
-49.
-50.
-51.
-52.
-53.
-54.
-55.
-56.
-57.
+26\.
+27\.
+28\.
+29\.
+30\.
+31\.
+32\.
+33\.
+34\.
+35\.
+36\.
+37\.
+38\.
+39\.
+40\.
+41\.
+42\.
+43\.
+44\.
+45\.
+46\.
+47\.
+48\.
+49\.
+50\.
+51\.
+52\.
+53\.
+54\.
+55\.
+56\.
+57\.
 
 Nature of shares
 If only one class of shares
@@ -204,13 +204,13 @@ Lien on shares
 
 DIVISION D
 Management of Companies
-58.
-59.
-60.
-61.
-62.
-63.
-64.
+58\.
+59\.
+60\.
+61\.
+62\.
+63\.
+64\.
 
 Duty of directors to manage company
 Secretary
@@ -220,26 +220,26 @@ Number of directors
 Restricted powers
 By-law powers
 
-65.
-66.
-67.
-68.
-69.
-70.
-71.
-72.
-73.
-74.
-75.
-76.
-77.
-78.
-79.
-80.
-81.
-82.
-83.
-84.
+65\.
+66\.
+67\.
+68\.
+69\.
+70\.
+71\.
+72\.
+73\.
+74\.
+75\.
+76\.
+77\.
+78\.
+79\.
+80\.
+81\.
+82\.
+83\.
+84\.
 
 Companies Ordinance
 
@@ -265,12 +265,12 @@ Validity of acts
 Resolution in writing
 
 Liabilities of Directors
-85.
-86.
-87.
-88.
-89.
-90.
+85\.
+86\.
+87\.
+88\.
+89\.
+90\.
 
 Liability for share issue
 Liability for other acts
@@ -280,12 +280,12 @@ Defence to liability
 Time limit on liability
 
 Contractual Interest
-91.
-92.
-93.
-94.
-95.
-96.
+91\.
+92\.
+93\.
+94\.
+95\.
+96\.
 
 Interests in contracts
 Interest declaration
@@ -295,19 +295,19 @@ Designation of offices, etc.
 Borrowing powers
 
 Duty of Directors and Officers
-97.
-98.
+97\.
+98\.
 
 Duty of care
 Dissenting to resolutions
 
 Indemnities
-99.
-100.
-101.
-102.
-103.
-104.
+99\.
+100\.
+101\.
+102\.
+103\.
+104\.
 
 Indemnifying directors, etc.
 For derivative action
@@ -320,15 +320,15 @@ Revision Date: 31 Dec 2017
 
 DIVISION E
 Shareholders of Companies
-105.
-106.
-107.
-108.
-109.
-110.
-111.
-112.
-113.
+105\.
+106\.
+107\.
+108\.
+109\.
+110\.
+111\.
+112\.
+113\.
 
 Shareholders and their meetings
 Meeting outside Nevis
@@ -341,15 +341,15 @@ Special business
 Shareholder meetings: waiver of notice and telephone participation
 
 Proposals and Proxies
-114.
-115.
-116.
-117.
-118.
-119.
-120.
-121.
-122.
+114\.
+115\.
+116\.
+117\.
+118\.
+119\.
+120\.
+121\.
+122\.
 
 “Proposals” of shareholders
 Proxy circular
@@ -362,23 +362,23 @@ Right to omit proposal
 Registrar’s notice
 
 Shareholder Lists
-123.
-124.
+123\.
+124\.
 
 List of shareholders
 Examination of list
 
 Quorum
-125.
+125\.
 
 Quorum at meetings
 
 Voting the Shares
-126.
-127.
-128.
-129.
-130.
+126\.
+127\.
+128\.
+129\.
+130\.
 
 Right to vote share
 Representative of other body
@@ -387,44 +387,44 @@ Voting method at meetings
 Resolution in writing
 
 Compulsory Meeting
-131.
-132.
+131\.
+132\.
 
 Requisitioned shareholders meeting
 Court-called meeting
 
 Controverted Affairs
-133.
+133\.
 
 Court review controversy
 
 Shareholder Agreements
-134.
-135.
+134\.
+135\.
 
 Pooling agreement
 Unanimous shareholder agreement
 
 Shareholder Approvals
-136.
+136\.
 
 Extraordinary transactions
 
 DIVISION F
 Proxies
-137.
+137\.
 
 Definitions
 
 Proxy Holders
-138.
-139.
-140.
-141.
-142.
-143.
-144.
-145.
+138\.
+139\.
+140\.
+141\.
+142\.
+143\.
+144\.
+145\.
 
 Proxy appointment
 Revocation of proxy
@@ -436,28 +436,28 @@ Exemption by Registrar
 Proxy attending meeting
 
 Share Registrants
-146.
-147.
+146\.
+147\.
 
 Registrant’s duty
 Governing prohibition
 
 Remedial Powers
-148.
+148\.
 
 Restraining order
 
 DIVISION G
 Financial Disclosure
 Comparative Financial Statements
-149.
-150.
-151.
-152.
-153.
-154.
-155.
-156.
+149\.
+150\.
+151\.
+152\.
+153\.
+154\.
+155\.
+156\.
 
 Annual financial returns
 Exemption for information
@@ -469,16 +469,16 @@ Declaration of solvency
 Audit Committee
 
 Company Auditor
-157.
-158.
-159.
-160.
-161.
-162.
-163.
-164.
-165.
-166.
+157\.
+158\.
+159\.
+160\.
+161\.
+162\.
+163\.
+164\.
+165\.
+166\.
 
 Purposes of sections 158 to 161
 Eligibility for appointment
@@ -491,14 +491,14 @@ Cessation of office
 Removal of auditor
 Filling auditor vacancy
 
-167.
-168.
-169.
-170.
-171.
-172.
-173.
-174.
+167\.
+168\.
+169\.
+170\.
+171\.
+172\.
+173\.
+174\.
 
 LAWS OF SAINT CHRISTOPHER
 AND NEVIS
@@ -517,17 +517,17 @@ Privilege of auditor
 DIVISION H
 Corporate Records
 Registered Office of Company
-175.
-176.
+175\.
+176\.
 
 Registered office
 Notice of address
 
 Company Registers and Records
-177.
-178.
-179.
-180.
+177\.
+178\.
+179\.
+180\.
 
 Records of company
 Register of directors and secretaries
@@ -535,11 +535,11 @@ Register of directors’ holdings
 Extension of section to associates of directors
 
 Substantial Shareholders Register
-181.
-182.
-183.
-184.
-185.
+181\.
+182\.
+183\.
+184\.
+185\.
 
 Substantial shareholder
 Substantial shareholder to give notice to company
@@ -548,32 +548,32 @@ Company to keep register of substantial shareholders
 Offence
 
 Records of Trusts
-186.
+186\.
 
 Trust notices
 
 Accounts, Minutes and Other Records
-187.
+187\.
 
 Other records
 
 Form of Records
-188.
+188\.
 
 Records form
 
 Care of Records
-189.
-190.
+189\.
+190\.
 
 Duty of care for records
 Access to records
 
 Shareholders’ Lists
-191.
-192.
-193.
-194.
+191\.
+192\.
+193\.
+194\.
 
 Basic list of shareholders
 Options list
@@ -582,12 +582,12 @@ Annual returns
 
 DIVISION I
 Transfer of Shares and Debentures
-195.
-196.
-197.
-198.
-199.
-200.
+195\.
+196\.
+197\.
+198\.
+199\.
+200\.
 
 Transferring of shares
 Restrictions on transfers
@@ -598,18 +598,18 @@ Effect of certificate
 
 DIVISION J
 Take-over Bids
-201.
-202.
-203.
-204.
-205.
-206.
-207.
-208.
-209.
-210.
-211.
-212.
+201\.
+202\.
+203\.
+204\.
+205\.
+206\.
+207\.
+208\.
+209\.
+210\.
+211\.
+212\.
 
 Definitions
 Offeror rights
@@ -627,19 +627,19 @@ Additional orders
 DIVISION K
 Fundamental Company Changes
 Altering Articles
-213.
-214.
-215.
-216.
-217.
-218.
-219.
-220.
-221.
-222.
-223.
-224.
-225.
+213\.
+214\.
+215\.
+216\.
+217\.
+218\.
+219\.
+220\.
+221\.
+222\.
+223\.
+224\.
+225\.
 
 Fundamental amendment to articles
 Proposal to amend articles
@@ -656,23 +656,23 @@ Articles of amalgamation
 Certificate of amalgamation
 
 Dissenters’ Rights and Obligations
-226.
-227.
-228.
+226\.
+227\.
+228\.
 
 Dissent by shareholder
 Demand for payment
 Suspension of rights
 
-229.
-230.
-231.
-232.
-233.
-234.
-235.
-236.
-237.
+229\.
+230\.
+231\.
+232\.
+233\.
+234\.
+235\.
+236\.
+237\.
 
 Offer to pay for share
 Application to court
@@ -686,19 +686,19 @@ Arrangements
 
 DIVISION L
 Civil Remedies
-238.
-239.
-240.
+238\.
+239\.
+240\.
 
 Definitions
 Derivative actions
 Court powers
 
 Restraining Oppression
-241.
-242.
-243.
-244.
+241\.
+242\.
+243\.
+244\.
 
 Oppression restrained
 Staying action
@@ -706,11 +706,11 @@ Interim costs
 Rectification of records
 
 Other Remedial Actions
-245.
-246.
-247.
-248.
-249.
+245\.
+246\.
+247\.
+248\.
+249\.
 
 Directions for Registrar
 Refusal by Registrar
@@ -723,19 +723,19 @@ Summary application
 PROTECTION OF CREDITORS AND INVESTORS
 DIVISION A
 Registration of Charges
-250.
-251.
-252.
-253.
-254.
-255.
-256.
-257.
-258.
-259.
-260.
-261.
-262.
+250\.
+251\.
+252\.
+253\.
+254\.
+255\.
+256\.
+257\.
+258\.
+259\.
+260\.
+261\.
+262\.
 
 Registration with Registrar
 Contents of charge statements
@@ -751,9 +751,9 @@ Satisfaction and payment
 Rectification of error
 Retention of copy
 
-263.
-264.
-265.
+263\.
+264\.
+265\.
 
 Inspection of copies
 Registration of receiver
@@ -761,21 +761,21 @@ External company: Application of Division
 
 DIVISION B
 Trust Deeds and Debentures
-266.
-267.
-268.
-269.
-270.
-271.
-272.
-273.
-274.
-275.
-276.
-277.
-278.
-279.
-280.
+266\.
+267\.
+268\.
+269\.
+270\.
+271\.
+272\.
+273\.
+274\.
+275\.
+276\.
+277\.
+278\.
+279\.
+280\.
 
 Definitions
 Application of Division
@@ -794,12 +794,12 @@ No exculpation
 Rights of trustees
 
 Trust Deeds
-281.
-282.
-283.
-284.
-285.
-286.
+281\.
+282\.
+283\.
+284\.
+285\.
+286\.
 
 Need for trust deed
 Kinds of debentures
@@ -809,24 +809,24 @@ Contents of trust deed
 Contents of debentures
 
 Realisation of Security
-287.
+287\.
 
 Equity realisation
 
 DIVISION C
 Receivers and Receiver-Managers
-288.
-289.
-290.
-291.
-292.
-293.
-294.
-295.
-296.
-297.
-298.
-299.
+288\.
+289\.
+290\.
+291\.
+292\.
+293\.
+294\.
+295\.
+296\.
+297\.
+298\.
+299\.
 
 Disqualified receivers
 Functions of receivers
@@ -841,8 +841,8 @@ Liability of receivers, etc.
 Notice of receivership
 Floating charges priorities
 
-300.
-301.
+300\.
+301\.
 
 Statement of affairs
 Contents of statement
@@ -850,20 +850,20 @@ Contents of statement
 DIVISION D
 Prospectuses
 Interpretation
-302.
-303.
+302\.
+303\.
 
 Definitions
 Application of Division
 
 Prospectus Requirements
-304.
-305.
-306.
-307.
-308.
-309.
-310.
+304\.
+305\.
+306\.
+307\.
+308\.
+309\.
+310\.
 
 Prohibition re public issue
 Contents of prospectus
@@ -874,51 +874,51 @@ Responsibility re certificate
 Evidence
 
 Registration of Prospectus
-311.
+311\.
 
 Registration of prospectus
 
 Other Requirements
-312.
-313.
+312\.
+313\.
 
 Prospectus presumed
 Expert’s consent
 
 Liability for Prospectus Claims
-314.
+314\.
 
 Liability on prospectus
 
 Subscription List and Minimum Subscription
-315.
-316.
-317.
+315\.
+316\.
+317\.
 
 Subscription lists
 Minimum subscription
 Escrow of subscription money
 
 Remedial Actions
-318.
-319.
+318\.
+319\.
 
 Rescission of contract
 Time limit on allotment
 
 Statements in Lieu of Prospectus
-320.
-321.
+320\.
+321\.
 
 Restriction on allotment
 Statements in lieu of prospectus
 
 DIVISION E
 Insider Trading
-322.
-323.
-324.
-325.
+322\.
+323\.
+324\.
+325\.
 
 “Insider” defined
 Presumed insider
@@ -930,18 +930,18 @@ Time limit on action
 OTHER REGISTERED COMPANIES
 DIVISION A
 Companies Without Share Capital
-326.
-327.
-328.
-329.
-330.
-331.
-332.
-333.
-334.
-335.
-336.
-337.
+326\.
+327\.
+328\.
+329\.
+330\.
+331\.
+332\.
+333\.
+334\.
+335\.
+336\.
+337\.
 
 Application of Ordinance
 “Member” defined
@@ -958,29 +958,29 @@ Dissolution and distribution
 
 DIVISION B
 External Companies
-338.
-339.
-340.
-341.
-342.
-343.
-344.
-345.
-346.
-347.
-348.
-349.
-350.
-351.
-352.
-353.
-354.
-355.
-356.
-357.
-358.
-359.
-360.
+338\.
+339\.
+340\.
+341\.
+342\.
+343\.
+344\.
+345\.
+346\.
+347\.
+348\.
+349\.
+350\.
+351\.
+352\.
+353\.
+354\.
+355\.
+356\.
+357\.
+358\.
+359\.
+360\.
 
 External companies carrying on business
 Exceptions
@@ -1010,16 +1010,16 @@ Revision Date: 31 Dec 2017
 
 DIVISION C
 Former-Act Companies
-361.
-362.
-363.
-364.
-365.
-366.
-367.
-368.
-369.
-370.
+361\.
+362\.
+363\.
+364\.
+365\.
+366\.
+367\.
+368\.
+369\.
+370\.
 
 Former-Act company
 Effect of corporate instrument
@@ -1037,13 +1037,13 @@ Effect of earlier references
 WINDING-UP
 DIVISION A
 Preliminary
-371.
-372.
-373.
-374.
-375.
-376.
-377.
+371\.
+372\.
+373\.
+374\.
+375\.
+376\.
+377\.
 
 Modes of winding-up
 Liability of members
@@ -1055,17 +1055,17 @@ Contributories in case of bankruptcy of members
 
 DIVISION B
 Winding-up by the Court
-378.
-379.
-380.
-381.
-382.
-383.
-384.
-385.
-386.
-387.
-388.
+378\.
+379\.
+380\.
+381\.
+382\.
+383\.
+384\.
+385\.
+386\.
+387\.
+388\.
 
 Circumstances in which company may be wound-up by court
 Definition of inability to pay debts
@@ -1080,11 +1080,11 @@ Actions stayed on winding-up order
 Effect of winding-up order
 
 Official Receiver
-389.
-390.
-391.
-392.
-393.
+389\.
+390\.
+391\.
+392\.
+393\.
 
 Meaning of Official Receiver
 Statement of company’s affairs
@@ -1092,18 +1092,18 @@ Report by Official Receiver
 Power of Court to appoint liquidators
 Appointment and powers of provisional liquidator
 
-394.
-395.
-396.
-397.
-398.
-399.
-400.
-401.
-402.
-403.
-404.
-405.
+394\.
+395\.
+396\.
+397\.
+398\.
+399\.
+400\.
+401\.
+402\.
+403\.
+404\.
+405\.
 
 Companies Ordinance
 
@@ -1127,9 +1127,9 @@ Control of Registrar over liquidators
 Release of liquidator
 
 Committees of Inspection
-406.
-407.
-408.
+406\.
+407\.
+408\.
 
 Meetings of creditors and contributories to determine whether committee of
 inspection shall be appointed
@@ -1137,25 +1137,25 @@ Constitution and proceedings of committee of inspection
 Powers of court where no committee of inspection
 
 General Powers of Court
-409.
-410.
-411.
-412.
-413.
-414.
-415.
-416.
-417.
-418.
-419.
-420.
-421.
-422.
-423.
-424.
-425.
-426.
-427.
+409\.
+410\.
+411\.
+412\.
+413\.
+414\.
+415\.
+416\.
+417\.
+418\.
+419\.
+420\.
+421\.
+422\.
+423\.
+424\.
+425\.
+426\.
+427\.
 
 Power to stay winding-up, etc.
 Settlement of list of contributories and application of assets
@@ -1180,18 +1180,18 @@ Power to enforce orders and appeals from orders
 
 DIVISION C
 Voluntary Winding-Up
-428.
-429.
-430.
-431.
+428\.
+429\.
+430\.
+431\.
 
 Winding-up resolutions
 Notice of resolution to wind-up voluntarily
 Commencement of voluntary winding-up
 Effect of voluntary winding-up on business status of company
 
-432.
-433.
+432\.
+433\.
 
 LAWS OF SAINT CHRISTOPHER
 AND NEVIS
@@ -1202,13 +1202,13 @@ Avoidance of transfers, etc. after commencement of voluntary winding-up
 Statutory declaration of solvency in case of proposal of winding-up voluntarily
 
 Provisions Applicable Only To Members’ Voluntary Winding-Up
-434.
-435.
-436.
-437.
-438.
-439.
-440.
+434\.
+435\.
+436\.
+437\.
+438\.
+439\.
+440\.
 
 Power of company to appoint and fix remuneration of liquidators
 Power to fill vacancy in office of liquidator
@@ -1220,14 +1220,14 @@ Final meeting and dissolution
 Alternative provisions as to annual and final meetings in case of insolvency
 
 Provisions Applicable to a Creditors’ Voluntary Winding-up
-441.
-442.
-443.
-444.
-445.
-446.
-447.
-448.
+441\.
+442\.
+443\.
+444\.
+445\.
+446\.
+447\.
+448\.
 
 Meeting of creditors
 Appointment of liquidator
@@ -1240,14 +1240,14 @@ year
 Final meeting of company and of creditors
 
 Provisions Applicable to Every Voluntary Winding-up
-449.
-450.
-451.
-452.
-453.
-454.
-455.
-456.
+449\.
+450\.
+451\.
+452\.
+453\.
+454\.
+455\.
+456\.
 
 Distribution of property of company
 Powers and duties of liquidator in voluntary winding-up
@@ -1261,20 +1261,20 @@ Saving for rights of creditors and contributories
 DIVISION D
 Provisions Applicable to Every Mode of Winding-Up
 Proof and Ranking of Claims
-457.
-458.
+457\.
+458\.
 
 Debts of all descriptions to be proved
 Preferential payments
 
 Effect of Winding-Up on Antecedent and Other Transactions
-459.
-460.
-461.
-462.
-463.
-464.
-465.
+459\.
+460\.
+461\.
+462\.
+463\.
+464\.
+465\.
 
 Fraudulent preference
 Liabilities and rights of certain fraudulently preferred persons
@@ -1287,13 +1287,13 @@ Duties of bailiff as to goods taken in execution
 [Nevis Ordinances]
 
 Offences
-466.
-467.
-468.
-469.
-470.
-471.
-472.
+466\.
+467\.
+468\.
+469\.
+470\.
+471\.
+472\.
 
 Offences by officers of companies in liquidation
 Penalty for falsification of books
@@ -1304,16 +1304,16 @@ Power of court to assess damages against delinquent directors, etc.
 Prosecution of delinquent officers and members of a company
 
 Supplementary Provisions as to Winding-Up
-473.
-474.
-475.
-476.
-477.
-478.
-479.
-480.
-481.
-482.
+473\.
+474\.
+475\.
+476\.
+477\.
+478\.
+479\.
+480\.
+481\.
+482\.
 
 Disqualification for appointment as liquidator
 Notification that a company is in liquidation
@@ -1327,10 +1327,10 @@ Meetings to ascertain wishes of creditors or contributories
 Affidavits, etc.
 
 Provisions as to Dissolution
-483.
-484.
-485.
-486.
+483\.
+484\.
+485\.
+486\.
 
 Power of court to declare dissolution of company void
 Registrar may strike defunct company off register
@@ -1338,17 +1338,17 @@ Outstanding assets of defunct company to vest in Official Receiver
 Disposal of moneys
 
 Rules
-487.
+487\.
 
 Rules
 
 DIVISION E
 Winding-up of Unregistered Companies
-488.
-489.
-490.
-491.
-492.
+488\.
+489\.
+490\.
+491\.
+492\.
 
 “Unregistered company”
 Winding-up of unregistered companies
@@ -1361,32 +1361,32 @@ Outstanding property of defunct unregistered company
 ADMINISTRATION AND GENERAL
 DIVISION A
 Functions of the Registrar
-493.
-494.
-495.
-496.
+493\.
+494\.
+495\.
+496\.
 
 Responsibility
 Service upon the Registrar
 Register of companies
 Inspection of register
 
-497.
-498.
-499.
-500.
-501.
-502.
-503.
-504.
-505.
-506.
-507.
-508.
-509.
-510.
-511.
-512.
+497\.
+498\.
+499\.
+500\.
+501\.
+502\.
+503\.
+504\.
+505\.
+506\.
+507\.
+508\.
+509\.
+510\.
+511\.
+512\.
 
 Notice to directors, etc.
 Presumption of receipt
@@ -1406,22 +1406,22 @@ Refusal power
 Filing form
 
 Removal from Register
-513.
-514.
+513\.
+514\.
 
 Striking off register
 Liability continues
 
 Service
-515.
+515\.
 
 Service on company
 
 Company Names
-516.
-517.
-518.
-519.
+516\.
+517\.
+518\.
+519\.
 
 Reservation of name
 Prohibited name
@@ -1431,12 +1431,12 @@ Amalgamated company
 DIVISION B
 Investigation of Companies
 Investigation
-520.
-521.
-522.
-523.
-524.
-525.
+520\.
+521\.
+522\.
+523\.
+524\.
+525\.
 
 Investigation order
 Court powers
@@ -1446,9 +1446,9 @@ Incriminating evidence
 Privilege absolute
 
 Inquiries
-526.
-527.
-528.
+526\.
+527\.
+528\.
 
 Ownership interest
 Client privileges
@@ -1457,22 +1457,22 @@ Inquiries
 DIVISION C
 Regulations
 
-529.
+529\.
 
 Regulations
 
 DIVISION D
 Offences and Penalties
-530.
-531.
-532.
-533.
-534.
-535.
-536.
-537.
-538.
-539.
+530\.
+531\.
+532\.
+533\.
+534\.
+535\.
+536\.
+537\.
+538\.
+539\.
 
 Name offence
 Abuse of corporate status
@@ -1488,35 +1488,35 @@ Civil remedies unaffected
 DIVISION E
 Construction and Interpretation of Ordinance
 Corporate Relationships
-540.
-541.
-542.
+540\.
+541\.
+542\.
 
 Affiliated corporations
 “Control”
 “Holding” and “subsidiary”
 
 Public Distribution of Corporate Securities
-543.
-544.
+543\.
+544\.
 
 “Distribution” to public
 “Offer” to the public
 
 Corporate and Other Expressions
-545.
+545\.
 
 Definition of technical words
 
 DIVISION F
 Incidental and Consequential Matters
-546.
-547.
-548.
-549.
-550.
-551.
-552.
+546\.
+547\.
+548\.
+549\.
+550\.
+551\.
+552\.
 
 Repeal
 References to Companies Act
@@ -1675,7 +1675,7 @@ Where, through inadvertence or otherwise, a company—
 contravenes section 11,
 
 the Registrar may direct the company to change its name in accordance with section
-213.
+213\.
 Continued name.
 
 ### 13.

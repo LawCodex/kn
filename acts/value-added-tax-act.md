@@ -24,12 +24,12 @@ Section
 
 ## PART I – PRELIMINARY MATTERS
 
-1.
-2.
-3.
-4.
-5.
-6.
+1\.
+2\.
+3\.
+4\.
+5\.
+6\.
 
 Short title and commencement.
 Interpretation.
@@ -40,11 +40,11 @@ Definition of taxable activity.
 
 ## PART II – ADMINISTRATION
 
-7.
-8.
-9.
-10.
-11.
+7\.
+8\.
+9\.
+10\.
+11\.
 
 Duties of the Comptroller.
 Secrecy.
@@ -54,19 +54,19 @@ Import declaration and payment of tax for importation of services.
 
 ## PART III - REGISTRATION
 
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
+12\.
+13\.
+14\.
+15\.
+16\.
+17\.
+18\.
+19\.
+20\.
+21\.
+22\.
+23\.
+24\.
 
 Criteria for registration.
 Determination of value based on related persons.
@@ -86,11 +86,11 @@ Return of certificate of registration.
 
 Imposition of Tax, Taxable Persons
 
-25.
-26.
-27.
-28.
-29.
+25\.
+26\.
+27\.
+28\.
+29\.
 
 Imposition of tax and persons liable.
 Rate of tax.
@@ -100,9 +100,9 @@ Time of importation of goods and services.
 
 (ii)
 Exempt Imports and Zero rated Imports
-30.
-31.
-32.
+30\.
+31\.
+32\.
 
 Exempt imported goods.
 Exempt imported services.
@@ -110,11 +110,11 @@ Zero rated imports.
 
 ## PART V – RULES RELATING TO SUPPLIES
 
-33.
-34.
-35.
-36.
-37.
+33\.
+34\.
+35\.
+36\.
+37\.
 
 Zero rated supplies.
 Exempt Supplies.
@@ -124,13 +124,13 @@ Value of supply.
 
 ## PART VI – CALCULATION OF TAX PAYABLE
 
-38.
-39.
-40.
-41.
-42.
-43.
-44.
+38\.
+39\.
+40\.
+41\.
+42\.
+43\.
+44\.
 
 Tax payable for a tax period.
 Input tax deduction.
@@ -142,11 +142,11 @@ Tax credits and debit notes.
 
 ## PART VII – TAX PERIOD, RETURNS AND ASSESSMENTS
 
-45.
-46.
-47.
-48.
-49.
+45\.
+46\.
+47\.
+48\.
+49\.
 
 Tax period.
 Returns.
@@ -156,17 +156,17 @@ General provisions relating to assessments.
 
 ## PART VIII – PAYMENT AND RECOVERY OF TAX
 
-50.
-51.
-52.
-53.
-54.
-55.
-56.
-57.
-58.
-59.
-60.
+50\.
+51\.
+52\.
+53\.
+54\.
+55\.
+56\.
+57\.
+58\.
+59\.
+60\.
 
 Due date for payment of tax.
 Allocation of payments.
@@ -182,9 +182,9 @@ Duties of receivers.
 
 ## PART IX – CARRY FORWARDS, REFUNDS AND INTEREST
 
-61.
-62.
-63.
+61\.
+62\.
+63\.
 
 Carry forward of excess credits and refund of tax.
 Interest on overpayment of tax.
@@ -194,11 +194,11 @@ Other persons eligible for tax refund.
 
 ## PART X – OBJECTIONS AND APPEALS
 
-64.
-65.
-66.
-67.
-68.
+64\.
+65\.
+66\.
+67\.
+68\.
 
 Objections.
 Appeals to Appeal Commissioners.
@@ -210,15 +210,15 @@ Burden of proof.
 
 OF TAXABLE PERSONS
 
-69.
-70.
-71.
-72.
-73.
-74.
-75.
-76.
-77.
+69\.
+70\.
+71\.
+72\.
+73\.
+74\.
+75\.
+76\.
+77\.
 
 Persons acting in a representative capacity.
 Power to appoint representatives.
@@ -232,12 +232,12 @@ Branches.
 
 ## PART XII – RECORDS AND INVESTIGATIONS
 
-78.
-79.
-80.
-81.
-82.
-83.
+78\.
+79\.
+80\.
+81\.
+82\.
+83\.
 
 Meaning of records.
 Record – keeping.
@@ -250,17 +250,17 @@ Access to records, computers and goods.
 
 Criminal Proceedings
 
-84.
-85.
-86.
-87.
-88.
-89.
-90.
-91.
-92.
-93.
-94.
+84\.
+85\.
+86\.
+87\.
+88\.
+89\.
+90\.
+91\.
+92\.
+93\.
+94\.
 
 Sanction for prosecution.
 Time limit for proceedings to be taken.
@@ -275,10 +275,10 @@ General penalty.
 Compounding of offences.
 Civil penalties
 
-95.
-96.
-97.
-98.
+95\.
+96\.
+97\.
+98\.
 
 General provisions.
 Failure to register or to display certificate.
@@ -287,15 +287,15 @@ Tax invoice.
 
 (iv)
 Civil penalties – Cont’d
-99.
-100.
-101.
-102.
-103.
-104.
-105.
-106.
-107.
+99\.
+100\.
+101\.
+102\.
+103\.
+104\.
+105\.
+106\.
+107\.
 
 Failure to file return.
 Failure to comply with notice for recovery of tax.
@@ -309,22 +309,22 @@ Publication of names of defaulters.
 
 ## PART XIV – MISCELLANEOUS PROVISIONS
 
-108.
-109.
-110.
-111.
-112.
-113.
-114.
-115.
-116.
-117.
-118.
-119.
-120.
-121.
-122.
-123.
+108\.
+109\.
+110\.
+111\.
+112\.
+113\.
+114\.
+115\.
+116\.
+117\.
+118\.
+119\.
+120\.
+121\.
+122\.
+123\.
 
 Inclusion of taxpayer‘s identification number in returns etc.
 Forms, notices and authentication of documents.
@@ -345,10 +345,10 @@ Repeals and Saving.
 
 ## PART XV – TRANSITIONAL PROVISIONS
 
-124.
-125.
-126.
-127.
+124\.
+125\.
+126\.
+127\.
 
 General.
 Transitional requirement for registration.
@@ -5357,12 +5357,12 @@ whether prices for supplies are in contravention of the provisions of subsection
 
 (Section 30)
 EXEMPT IMPORTED GOODS
-1.
+1\.
 
 The goods specified in Paragraphs 2 to 21, shall be exempt imported goods pursuant to
 the provisions of section 30 of this Act to the extent provided in regulations.
 
-2.
+2\.
 
 (1) Subject to sub-paragraph (2), imported goods, including packing containers, which
 are exported and thereafter returned to or brought back by the exporter or any
@@ -5389,14 +5389,14 @@ provisions of section 33; or
 where that supply would have been charged with tax at the rate of zero percent
 under the provisions of section 33 if the supply had taken place on or after the
 coming into force of value added tax.
-4.
+4\.
 
 Bona fide unsolicited gifts of food which do not exceed 45 kilograms, and this exemption
 does not apply to
 (a) goods contained in passengers’ baggage; or
 (b) wine, spirits or manufactured tobacco.
 
-5.
+5\.
 
 Passenger allowance of:
 (a) 1.5 litres of spirits or wine or proportionate mixes and 250 grams of manufactured
@@ -5408,22 +5408,22 @@ pursuant to a Customs Declaration Form issued and approved by the Comptroller of
 Customs in accordance with the Customs (Control and Management) Act, Cap. 20.40 or
 any Act that may replace it.
 
-6.
+6\.
 
 Goods which are shipped or conveyed into Saint Christopher and Nevis for
 transshipment or conveyance to any other country, but not entered into Saint
 Christopher and Nevis for Customs purposes.
 
-7.
+7\.
 
 Goods imported by Saint Christopher and Nevis nationals returning home for permanent
 residence as may be provided in regulations made under this Act.
 
-8.
+8\.
 
 Containers temporarily imported under Customs Tariff Heading 8609.00.
 
-9.
+9\.
 
 To the extent provided in paragraphs (a), (b), and (c), but only if the imported items are
 covered by paragraph 10 of the List of Conditional Duty Exemptions of the Common
@@ -5548,7 +5548,7 @@ ZERO-RATED SUPPLIES
 
 ## Part I – Preliminary
 
-1.
+1\.
 
 In this Schedule, unless the context otherwise requires,
 “export country” means
@@ -5576,7 +5576,7 @@ Christopher and Nevis and seaports in export countries or between seaports in
 export countries;
 “intellectual property right” means any patent, design, trade mark, copyright, knowhow, confidential information, trade secret, or similar rights;
 
-2.
+2\.
 
 The classification and description of goods specified in this Schedule which bear the
 heading numbers as designated in the Customs Tariff are to be interpreted in accordance
@@ -5584,7 +5584,7 @@ with the rules of interpretation set out in Part I of the Customs Tariff.
 
 ## Part II – Zero Rated Supply of Goods
 
-3.
+3\.
 
 (1) The supply of goods specified in sub-paragraphs (2) to (12) of this paragraph
 shall, to the extent provided in regulations made under this Act, be zero rated
@@ -5644,7 +5644,7 @@ Nevis.
 
 ## Part III – Zero Rated Supply of Services
 
-4.
+4\.
 
 (1) The supply of services specified in sub-paragraphs (2) to (9) of this paragraph
 shall, to the extent provided in regulations made under this Act, be zero rated
@@ -5709,7 +5709,7 @@ performing the services.
 
 ## Part IV – Miscellaneous Provisions
 
-5.
+5\.
 
 (1) A supply made by a registered person to another registered person of a taxable
 activity, or part of a taxable activity, as a going concern, where
@@ -5741,7 +5741,7 @@ re-imported to Saint Christopher and Nevis by the supplier.
 
 (Section 34)
 EXEMPT SUPPLIES
-1.
+1\.
 
 In this Schedule, unless the context otherwise requires,
 “ancillary transport services” mean stevedoring services, lashing and securing
@@ -5841,13 +5841,13 @@ across the territory of Saint Christopher and Nevis;
 and Nevis; or
 (c) from a place in Saint Christopher and Nevis to a place outside Saint Christopher
 and Nevis;
-2.
+2\.
 
 To the extent provided in regulations made under this Act, the supplies specified in
 paragraphs 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26 and
 27 of this Schedule shall be exempt supplies for the purposes of section 34 of this Act.
 
-3.
+3\.
 
 (1) For the purposes of this paragraph,
 (a) “cheque” includes a postal order, money order, traveller’s cheque, or any
@@ -6013,12 +6013,12 @@ treated as students.
 (a) the rental of facilities by an educational institution to an outside group;
 (b) commissions and other fees received from the placement of coin-operated
 machines on the institution’s property.
-5.
+5\.
 
 A sale of real property, including land, attributable to a dwelling subject to stamp duty
 as may be provided in regulations made under this Act.
 
-6.
+6\.
 
 A supply of an accommodation in a dwelling
 (a) under a lease or rental of the accommodation;
@@ -6030,20 +6030,20 @@ land; or
 occupy the accommodation as a benefit of his or her office or employment and his
 or her right thereto is limited to the tenure of his or her employment or the term of
 his or her office or a period agreed upon by the supplier and the recipient.
-7.
+7\.
 
 A supply of any goods or services by the Federal Government or the Nevis Island
 Administration, if the consideration for the supply is nominal in amount or not intended
 to recover cost as determined by the Comptroller.
 
-8.
+8\.
 
 A supply of any goods or services by an approved charitable organization, or an
 association not for gain in connection with a taxable activity, where the consideration
 for the goods or services is nominal in amount or not intended to recover the cost of
 such goods or services as determined by the Comptroller.
 
-9.
+9\.
 
 A supply of water provided to a residential dwelling for domestic use by the Nevis
 Island Administration Water Department or the Saint Christopher and Nevis Water

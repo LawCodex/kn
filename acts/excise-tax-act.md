@@ -22,7 +22,7 @@ Act,Act,
 2010
 – 4.
 Excise
-2010.
+2010\.
 
 I assent,
 CUTHBERT M SEBASTIAN

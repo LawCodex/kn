@@ -534,7 +534,7 @@ Application
 of this
 Ordinance
 
-3.
+3\.
 
 Any limited liability company formed or subject to this
 Ordinance which does business in Nevis shall be subject to and
@@ -545,7 +545,7 @@ Form of
 instruments
 filing
 
-4.
+4\.
 
 (1) Whenever any provision of this Ordinance requires any
 instrument to be filed with the Registrar of Companies,
@@ -645,7 +645,7 @@ organization
 and other
 documents
 
-6.
+6\.
 
 (1) The Minister of Finance is hereby empowered to
 promulgate and shall so promulgate a schedule of fees for
@@ -689,7 +689,7 @@ allow a reasonable opportunity for such action to be taken.
 Information
 and records
 
-10.
+10\.
 (1) Each member of a limited liability company has the
 right, at his own expense and subject to such reasonable standards (including standards
 governing what information and documents are to be furnished) as may be set forth in
@@ -753,7 +753,7 @@ agent for
 service of
 process
 
-14.
+14\.
 
 (1) A limited liability company subject to this Ordinance
 shall at all times have a registered agent in St. Christopher
@@ -809,7 +809,7 @@ Companies or
 his appointee
 as agent for
 
-15.
+15\.
 
 (1) Whenever a limited liability company subject to this
 Ordinance fails to maintain an authorized agent in Nevis, or
@@ -871,7 +871,7 @@ company.
 
 Liability to
 
-19.
+19\.
 
 (1) The limited liability company shall be solely liable for
 
@@ -933,7 +933,7 @@ if any, as shall be stated.
 
 Company
 
-23.
+23\.
 
 (1) Except as otherwise provided in subsection (2) of this
 
@@ -971,7 +971,7 @@ Nevis.
 reserved names and those of all limited liability companies subject to this Ordinance
 together with those other names required to be kept by the Registrar of Companies by
 law.
-25.
+25\.
 
 (1) Any person or any agent thereof may reserve a name with the
 Registrar of Companies provided said reservation is made in accordance with
@@ -1053,7 +1053,7 @@ Amendment of
 articles of
 organization
 
-29.
+29\.
 
 (1) A limited liability company may amend its articles of
 organization at any time to add or change a provision that is
@@ -1084,7 +1084,7 @@ limited liability company name shall be changed, no suit brought by or against
 the limited liability company under its former name shall abate for that reason.
 Restated
 
-30.
+30\.
 
 (1) At any time after its articles of organization have been
 
@@ -1108,7 +1108,7 @@ the full and true articles of organization as in effect on the date filed.
 Operating
 Agreement
 
-31.
+31\.
 
 (1) The members of a limited liability company may enter into an
 operating agreement which may contain any provision relating to the business of
@@ -1141,7 +1141,7 @@ obligation to contribute cash or property or to perform services.
 Liability
 for capital
 
-33.
+33\.
 
 (1) A promise by a member to contribute to the limited liability
 company is not enforceable unless set forth in a writing signed by
@@ -1213,7 +1213,7 @@ MEMBERS' INTERESTS
 Admission of
 members
 
-37.
+37\.
 
 (1) Subject to subsection (2), a person may become a member in
 a limited liability company:
@@ -1244,7 +1244,7 @@ Classes and
 series of
 member’s interest
 
-39.
+39\.
 
 (1) Members' interest in a limited liability company may be:
 (a) of one or more classes or one or more series within any class thereof;
@@ -1262,7 +1262,7 @@ Termination of
 a member’s
 interest
 
-40.
+40\.
 
 (1) As used in this section "Bankruptcy" includes, unless
 otherwise provided in the operating agreement, a member or
@@ -1345,7 +1345,7 @@ Assignment of
 member’s
 interest
 
-42.
+42\.
 (1) Unless provided otherwise in the operating agreement and
 subject to the restrictions in subsection (2), a member's interest in a
 limited liability company is assignable in whole or in part:
@@ -1384,7 +1384,7 @@ Rights of
 judgement
 creditor
 
-43.
+43\.
 
 (1) On application to a court of competent jurisdiction by any
 judgment creditor of a member of a limited liability company, the
@@ -1416,7 +1416,7 @@ of the limited
 liability
 company
 
-44.
+44\.
 
 (1) Unless otherwise provided in the operating agreement and
 subject to subsection (2), management of the business and affairs
@@ -1434,7 +1434,7 @@ business and affairs of the limited liability company as set forth in subsection
 (1).
 Voting
 
-45.
+45\.
 
 (1) Unless otherwise provided in this Ordinance or the operating agreement:
 (a) if the management of a limited liability company is vested in the
@@ -1464,7 +1464,7 @@ Agency of
 managers and
 members
 
-46.
+46\.
 
 (1) Unless otherwise provided in the operating agreement, if
 management of the limited liability company is vested in the
@@ -1546,7 +1546,7 @@ Indemnification
 of members
 or managers
 
-50.
+50\.
 (1) A limited liability company shall have power to indemnify
 and hold harmless any person who was or is a party or is threatened to be
 made a party to any threatened, pending or completed action, suit or proceeding
@@ -1583,7 +1583,7 @@ against such liability under the provisions of this section.
 DISSOLUTION
 When dissolved
 
-51.
+51\.
 
 (1) A limited liability company is dissolved and its affairs shall be wound up
 upon the happening of the first to occur of the following:
@@ -1620,7 +1620,7 @@ registration fee
 or appoint
 registered agent
 
-53.
+53\.
 (1) On the failure of a limited liability company to pay the annual
 registration fee or maintain a registered agent for a period of one year the
 Registrar shall remove the limited liability company from the register.
@@ -1640,7 +1640,7 @@ limited liability
 company after
 dissolution
 
-54.
+54\.
 
 (1) All limited liability companies whether they expire by their
 own limitations or are otherwise dissolved, shall nevertheless be
@@ -1680,7 +1680,7 @@ Agency power
 of managers
 after dissolution
 
-55.
+55\.
 (1) Except as provided in subsections (3) and (4), after
 dissolution of the limited liability company, each of the managers having
 authority to wind up the limited liability company's business and affairs can bind the
@@ -1705,7 +1705,7 @@ claims against
 limited liability
 company
 
-56.
+56\.
 (1) Any time within one year after dissolution, a limited liability
 company may give notice requiring all creditors and claimants, including
 any with unliquidated or contingent claims and any with whom the
@@ -1763,7 +1763,7 @@ liability company prior to dissolution.
 
 Articles of
 
-58.
+58\.
 
 (1) After dissolution of the limited liability company pursuant to
 
@@ -1788,7 +1788,7 @@ a corporation to
 a limited liability
 company
 
-59.
+59\.
 (1) Whenever used in this section and in section 60,
 "corporation" means a corporation formed under the Nevis Business
 Corporation Ordinance or redomiciled in Nevis.
@@ -1824,7 +1824,7 @@ company as provided in this Ordinance.
 Effects of
 conversion
 
-60.
+60\.
 (1) A corporation that has been converted pursuant to this Part is
 for all purposes the same entity that existed before the conversion.
 (2) When a conversion takes effect:
@@ -1851,7 +1851,7 @@ limited liability company.
 Merger or
 consolidation
 
-61.
+61\.
 
 (1) Whenever used in this part:
 "consolidation" means a procedure whereby any one or more limited liability
@@ -1919,7 +1919,7 @@ subsection (1) of section 62, if not effective upon filing; and
 respect to each party to the merger or consolidation.
 (8) The articles of merger or articles of consolidation shall be filed with
 the Registrar of Companies in accordance with the provisions of section
-4.
+4\.
 (9) If the surviving or consolidated limited liability company is to be
 governed by the laws of any jurisdiction other than Nevis:
 (a) it shall file with the Registrar of Companies a certificate of merger or
@@ -1935,7 +1935,7 @@ Effects of
 merger or
 consolidation
 
-62.
+62\.
 (1) The merger or consolidation shall be effective upon the filing
 of the articles of merger or consolidation with the Registrar of
 Companies or on such date subsequent thereto, not to exceed thirty days, as shall be set
@@ -2002,7 +2002,7 @@ When transfer
 of domicile
 is permitted
 
-65.
+65\.
 (1) Any Foreign Limited Liability Company may, subject to and
 upon compliance with the further provisions of this Part, transfer its
 domicile into Nevis, and may perform the acts described in the provisions of this Part,
@@ -2091,7 +2091,7 @@ obligations
 and
 liabilities
 
-70.
+70\.
 (1) A Foreign Limited Liability Company that has been redomiciled pursuant to this Part is for all purposes the same entity that
 existed before the re-domiciliation.
 (2) When a re-domiciliation takes effect:
@@ -2230,7 +2230,7 @@ emergency
 transfer of
 domicile.
 
-78.
+78\.
 (1) Any Foreign Limited Liability Company may apply for
 emergency transfer of domicile to Nevis by filing with the Registrar of
 Companies:
@@ -2306,7 +2306,7 @@ the limited liability company authorizing such withdrawal.
 ## PART XV
 
 TAX EXEMPTION
-83.
+83\.
 
 Exemption.
 
@@ -2396,7 +2396,7 @@ defended as if this Ordinance had not been enacted.
 
 Regulations
 
-86.
+86\.
 
 (1) The Minister may make regulations with respect to the duties to be
 performed by the Registrar of Companies under this Ordinance.

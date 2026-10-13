@@ -23,21 +23,21 @@ Section
 
 ## PART I – PRELIMINARY MATTERS
 
-1.
-2.
+1\.
+2\.
 
 Short title.
 Interpretation.
 
 ## PART II – ESTABLISHMENT AND CONSTITUTION
 
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+3\.
+4\.
+5\.
+6\.
+7\.
+8\.
+9\.
 
 Registration.
 Registration documents.
@@ -51,10 +51,10 @@ Foundation established by will.
 
 SUBSCRIPTION PROVISIONS
 
-10.
-11.
-12.
-13.
+10\.
+11\.
+12\.
+13\.
 
 Multiform.
 Purpose or object.
@@ -65,9 +65,9 @@ Subscriptions.
 
 NAME PROVISIONS
 
-14.
+14\.
 15
-16.
+16\.
 
 Foundation names.
 Change of name.
@@ -77,10 +77,10 @@ Directions to change name.
 
 REGISTERED AGENT
 
-17.
-18.
-19.
-20.
+17\.
+18\.
+19\.
+20\.
 
 Management board.
 Secretary.
@@ -89,8 +89,8 @@ Registered office.
 
 ## PART VI – THE SUPERVISORY BOARD
 
-21.
-22.
+21\.
+22\.
 
 Supervisory board.
 Powers of supervisory board.
@@ -99,27 +99,27 @@ Powers of supervisory board.
 
 ## PART VII – ADMINISTRATION AND MANAGEMENT
 
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
-41.
-42.
-43.
+23\.
+24\.
+25\.
+26\.
+27\.
+28\.
+29\.
+30\.
+31\.
+32\.
+33\.
+34\.
+35\.
+36\.
+37\.
+38\.
+39\.
+40\.
+41\.
+42\.
+43\.
 
 Administration and management.
 Powers, privileges, etc.
@@ -145,8 +145,8 @@ Declaration of interests.
 
 ## PART VIII – ACCOUNTS AND AUDIT
 
-44.
-45.
+44\.
+45\.
 
 Accounts.
 Auditor.
@@ -155,9 +155,9 @@ Auditor.
 
 ALIENATION AND FORFEITURE OF BENEFITS
 
-46.
-47.
-48.
+46\.
+47\.
+48\.
 
 Forced heirship.
 Restriction on alienation.
@@ -165,19 +165,19 @@ Forfeiture of benefits.
 
 ## PART X – POWERS OF INVESTIGATION
 
-49.
-50.
-51.
-52.
-53.
-54.
-55.
-56.
-57.
-58.
-59.
-60.
-61.
+49\.
+50\.
+51\.
+52\.
+53\.
+54\.
+55\.
+56\.
+57\.
+58\.
+59\.
+60\.
+61\.
 
 Grounds for investigation.
 Reporting.
@@ -197,14 +197,14 @@ Appeal.
 
 ## PART XI –CONTINUATION OR TRANSFORMATION
 
-62.
-63.
-64.
-65.
-66.
-67.
-68.
-69.
+62\.
+63\.
+64\.
+65\.
+66\.
+67\.
+68\.
+69\.
 
 Overseas foundation.
 Constitution.
@@ -219,14 +219,14 @@ Certificate of discontinuance.
 
 OR MERGER
 
-70.
-71.
-72.
-73.
-74.
-75.
-76.
-77.
+70\.
+71\.
+72\.
+73\.
+74\.
+75\.
+76\.
+77\.
 
 Interpretation.
 Conversion plan.
@@ -239,12 +239,12 @@ Effect of conversion or consolidation or merger.
 
 ## PART XIII – DISSOLUTION AND REVOCATION
 
-78.
-79.
-80.
-81.
-82.
-83.
+78\.
+79\.
+80\.
+81\.
+82\.
+83\.
 
 Grounds for dissolution.
 Court dissolution.
@@ -255,15 +255,15 @@ Creditor's rights.
 
 ## PART XIV – REGISTRAR
 
-84.
-85.
-86.
-87.
-88.
-89.
-90.
-91.
-92.
+84\.
+85\.
+86\.
+87\.
+88\.
+89\.
+90\.
+91\.
+92\.
 
 Registrar and Registry.
 Official seal.
@@ -277,12 +277,12 @@ Failure to deliver documents.
 
 ## PART XV – GENERAL PROVISIONS
 
-93.
-94.
-95.
-96.
-97.
-98.
+93\.
+94\.
+95\.
+96\.
+97\.
+98\.
 
 Taxation.
 Stamp duties.
@@ -295,24 +295,24 @@ Order to produce records.
 
 ## PART XV – GENERAL PROVISIONS - Cont'd
 
-99.
-100.
-101.
-102.
-103.
-104.
-105.
-106.
-107.
-108.
-109.
-110.
-111.
-112.
-113.
-114.
-115.
-116.
+99\.
+100\.
+101\.
+102\.
+103\.
+104\.
+105\.
+106\.
+107\.
+108\.
+109\.
+110\.
+111\.
+112\.
+113\.
+114\.
+115\.
+116\.
 
 Professional privilege.
 Right to silence.
@@ -338,7 +338,7 @@ No. 2 of 2004.
 Multiform
 Foundations
 Ordinance,
-2004.
+2004\.
 Multiform
 Foundations
 Ordinance,

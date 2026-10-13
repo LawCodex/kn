@@ -83,10 +83,10 @@ PROTECTION OF EMPLOYMENT ACT
 ## PART I
 
 PRELIMINARY
-1.
-2.
-3.
-4.
+1\.
+2\.
+3\.
+4\.
 
 Short title
 Interpretation
@@ -96,13 +96,13 @@ Terms and conditions of employment to be in writing on request
 ## PART II
 
 TERMINATION OF EMPLOYMENT
-5.
-6.
-7.
-8.
-9.
-10.
-11.
+5\.
+6\.
+7\.
+8\.
+9\.
+10\.
+11\.
 
 Termination of employment
 Sale of business not to affect rights of employee
@@ -115,26 +115,26 @@ Prohibition against termination of employment
 ## PART III
 
 SEVERANCE PAYMENT, LONG SERVICE GRATUITY AND SERVICE CHARGE
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31.
+12\.
+13\.
+14\.
+15\.
+16\.
+17\.
+18\.
+19\.
+20\.
+21\.
+22\.
+23\.
+24\.
+25\.
+26\.
+27\.
+28\.
+29\.
+30\.
+31\.
 
 Severance Payments Fund
 Source of funds
@@ -158,12 +158,12 @@ Employment may be treated as terminated
 Rate of severance payment
 Determination of claim
 
-32.
-33.
-34.
-35.
-36.
-37.
+32\.
+33\.
+34\.
+35\.
+36\.
+37\.
 
 Protection of Employment Act
 
@@ -182,11 +182,11 @@ Service charge
 ## PART IV
 
 MATERNITY LEAVE
-38.
-39.
-40.
-41.
-42.
+38\.
+39\.
+40\.
+41\.
+42\.
 
 Period for which maternity leave must be granted
 Qualifying period of employment for maternity leave
@@ -199,16 +199,16 @@ illness consequent hereto
 ## PART V
 
 NATIONAL TRIPARTITE COMMITTEE ON LABOUR STANDARDS
-43.
-44.
-45.
-46.
-47.
-48.
-49.
-50.
-51.
-52.
+43\.
+44\.
+45\.
+46\.
+47\.
+48\.
+49\.
+50\.
+51\.
+52\.
 
 Esatblishment of the Committee
 Tenure of office of members
@@ -224,14 +224,14 @@ Allowances and expenses
 ## PART VI
 
 MISCELLANEOUS
-53.
-54.
-55.
-56.
-57.
-58.
-59.
-60.
+53\.
+54\.
+55\.
+56\.
+57\.
+58\.
+59\.
+60\.
 
 Delegation of functions
 Powers of the Commissioner
@@ -903,7 +903,7 @@ by any written law;
 (d) the days of her absence due to any injury or illness medically certified
 arising out of or in the course of her employment; and
 (e) any period of cessation of work falling under the provisions of section
-10.
+10\.
 
 (3) Where a change of employer occurs in any business, ship, estate, factory
 or other enterprise in which an employee is employed, service rendered by that
@@ -1200,12 +1200,12 @@ PROTECTION OF EMPLOYMENT (WRITTEN TERMS AND
 CONDITIONS OF EMPLOYMENT) REGULATIONS
 Citation.
 
-1.
+1\.
 These Regulations may be cited as the Protection of Employment (Written
 Terms and Conditions of Employment) Regulations.
 Terms and Conditions of Employment.
 
-2.
+2\.
 For the purposes of subsection (2) of section 4 of the Act, the terms and
 conditions of employment which must be provided in writing shall be as follows—
 (a) the name and address of the employer;
@@ -1227,7 +1227,7 @@ terminate the contract if different from provisions under the Act;
 maternity) if better than the provisions under the Act.
 Work Rules.
 
-3.
+3\.
 At the commencement of his or her employment, every employee shall be
 instructed by his or her employer, in such manner as may be appropriate, in the work
 rules of the establishment, including the legal and other provisions regarding safety,
@@ -1235,7 +1235,7 @@ health and welfare, which the employee will be required to observe in the course
 his or her employment.
 Transitional and Savings Arrangements.
 
-4.
+4\.
 (1) Nothing in these Regulations shall be interpreted as implying or permitting
 any change in the date of commencement of the employment of any employee whose
 employment began before the appointed day.
@@ -1247,7 +1247,7 @@ ineffectual.
 declaration, the Act is brought into force.
 Miscellaneous.
 
-5.
+5\.
 (1) Nothing in these Regulations shall be interpreted to prohibit the employer
 from committing additional terms and conditions of employment to writing.
 (2) The written statement of the terms and conditions of employment may be
@@ -1271,12 +1271,12 @@ REGULATIONS
 PRELIMINARY
 Citation.
 
-1.
+1\.
 These Regulations may be cited as the Protection of Employment (Severance
 Payments) Regulations.
 Interpretation.
 
-2.
+2\.
 
 In these Regulations, unless the context otherwise requires—
 
@@ -1295,7 +1295,7 @@ Labour.
 PAYMENT OF CONTRIBUTIONS
 Liability for Contribution.
 
-3.
+3\.
 (1) Subject to the provisions of Section 3 of the principal Act, a contribution
 for severance payments shall be paid by the employer in respect of every employee
 and no deduction shall be made by the employer from the wages of the employee on
@@ -1305,7 +1305,7 @@ respect of the wages paid or to be paid to any employee employed by him or her s
 be determined by the Commissioner.
 Rate of Contribution.
 
-4.
+4\.
 (1) In respect of each period of one month beginning on the 1st day of
 September, 1986 for which an employee is paid wages, his or her employer shall pay
 a contribution equal to one percent of the wages paid or payable to the employee
@@ -1316,7 +1316,7 @@ of the same gross earnings received by such employee for purposes of computing t
 contribution payable by the employee under the Social Security Act, Cap. 22.10.
 Calculation of Contribution.
 
-5.
+5\.
 Every employer shall record in such form as may be authorised by the
 Commissioner the following particulars regarding every payment of wages which he
 or she makes to every employee, namely—
@@ -1333,7 +1333,7 @@ Commissioner, after consultation with the Director, shall take those particulars
 account and waive or vary the requirements under this Regulation accordingly.
 Payment of Contributions.
 
-6.
+6\.
 (1) At the end of every month in which wages are paid, or within one month
 thereafter, the employer shall pay, by means acceptable to the Director, the
 contributions payable by the employer under these Regulations in respect of wages
@@ -1362,7 +1362,7 @@ shall be forwarded by him or her through the Commissioner, to the Accountant
 General for deposit in the Fund.
 Employer Failing to pay Contributions Due.
 
-7.
+7\.
 
 (1) If, within the time prescribed by regulation 6(1)—
 (a) an employer has not paid any contribution which he or she is liable to
@@ -1395,14 +1395,14 @@ amount an employer is liable to pay to the Director until the contrary is proved
 
 Nil Returns.
 
-8.
+8\.
 An employer, who does not pay to the Director any contributions on the date
 due because that employer did not employ any employee or because that employer
 has ceased to operate a business during that period relevant to that date shall instead
 send to the Director a statement to that effect.
 Register of Employers.
 
-9.
+9\.
 For the purpose of these Regulations, the Commissioner, in consultation with
 the Director, shall compile and maintain a register of employers who are liable to pay
 a contribution under these Regulations.
@@ -1487,7 +1487,7 @@ her—
 (c) the form in which the investments are held and their rate of yield.
 Books of Commissioner.
 
-18.
+18\.
 
 The Commissioner shall show in the books kept by him or her—
 (a) the amount received by him or her from the Director for the Fund;
@@ -1497,7 +1497,7 @@ to investments and interest earned thereof;
 (c) any amount paid or met out of the Fund.
 Reconciliation of Accounts.
 
-19.
+19\.
 
 Within one month of each financial year, the Commissioner shall—
 (a) prepare a statement reconciling his or her accounts with that of the
@@ -1625,12 +1625,12 @@ LONG SERVICE GRATUITY AND SERVICE CHARGE REGULATIONS
 PRELIMINARY MATTERS
 Citation.
 
-1.
+1\.
 These Regulations may be cited as the Long Service Gratuity and Service
 Charge Regulations.
 Interpretation.
 
-2.
+2\.
 
 In these Regulations, unless the context otherwise requires—
 
@@ -1648,7 +1648,7 @@ a period of ten or more years;
 section 3 of the Small Business Development Act, Cap. 20.61.
 Application of Regulations.
 
-3.
+3\.
 (1) Subject to subregulation (2) of this Regulation, these Regulations shall
 apply to the following categories of employees—
 (a) an employee who retires at the retirement age set out in the Social
@@ -1662,7 +1662,7 @@ employer.
 hospitality sectors.
 Entitlement to long service gratuity.
 
-4.
+4\.
 (1) In accordance with the provisions of section 36 of the Act, and subject to
 the provisions of these Regulations, an employee who—
 
@@ -1685,7 +1685,7 @@ subregulation (1)(c) shall be made to the estate of the deceased or to a named
 beneficiary of the deceased employee.
 Non- entitlement to long service gratuity.
 
-5.
+5\.
 An employee who would otherwise qualify for long service gratuity shall not
 so qualify in any of the following cases—
 (a) if the employee is dismissed from the service of the employer in
@@ -1701,7 +1701,7 @@ employee shall be entitled to severance payment.
 PAYMENT OF LONG SERVICE GRATUITY
 Procedure for claiming long service gratuity.
 
-6.
+6\.
 (1) A claimant for long service gratuity shall, before making any claim, obtain
 from his or her employer a certificate of—
 (a) termination of service;
@@ -1742,14 +1742,14 @@ necessary, consult the employee and the employer or a Committee, where there is
 one.
 Payment of the long service gratuity.
 
-7.
+7\.
 After the Commissioner is satisfied that the claim is in order and appropriate
 he or she shall immediately authorise the payment of the long service gratuity, and
 ensure that the payment is made within a period of ninety days as provided by section
 36(5) of the Act.
 Computation of long service gratuity.
 
-8.
+8\.
 (1) Long service gratuity shall, as provided by section 36(1) of the Act, be
 calculated at the same rate as severance payment.
 (2) Without prejudice to the generality of subregulation (1), in calculating
@@ -1765,7 +1765,7 @@ working days from the date the certificate was issued to the concerned employee.
 PROCEDURE RELATING TO PAYMENT OF SERVICE CHARGE
 Pooling of service charge.
 
-9.
+9\.
 (1) For the purposes of section 37 of the Act, the provisions of this Regulation
 and Regulations 10 and 11 shall have effect in relation to the payment of service
 charge.
@@ -2122,13 +2122,13 @@ __________
 GUIDELINES ON DISTRIBUTION OF SERVICE CHARGE
 The employees and the employer or Committee, where one exists may use any one or
 in combination of the guidelines set out in this Schedule.
-1.
+1\.
 
 Pool Split: This is where all service charges are combined and divided
 between the employees based on the length of service or the complexity of
 their jobs, or amount of direct involvement with guests or direct selling ability.
 
-2.
+2\.
 
 Department Split:
 This is where service related employees split the

@@ -636,7 +636,7 @@ subsequently acquired, and are retained uncancelled by the corporation.
 Application of
 Ordinance
 
-3.
+3\.
 
 (1) Any corporation or company created prior to the
 effective date of this Ordinance may at anytime subject
@@ -657,7 +657,7 @@ Form of
 instrument
 filing;
 
-4.
+4\.
 
 (1) Whenever any provision of this Ordinance requires any
 instrument to be filed with the Registrar of Companies,
@@ -775,7 +775,7 @@ this Ordinance shall, when certified by him, be taken and received
 in all courts, public offices and official bodies as prima facie
 evidence of the facts therein stated and of the execution of such
 instruments.
-6.
+6\.
 
 (1) The Minister of Finance is hereby empowered to
 promulgate and shall so promulgate a schedule of fees for
@@ -1010,7 +1010,7 @@ agent for
 service of
 process
 
-17.
+17\.
 
 (1) A corporation subject to this Ordinance shall at all
 times have a registered agent in St. Christopher and Nevis.
@@ -1076,7 +1076,7 @@ his appointee
 as agent for
 service of process
 
-18.
+18\.
 
 (1) Whenever a corporation subject to this Ordinance fails
 to maintain an authorized agent in Nevis, or whenever said
@@ -1137,7 +1137,7 @@ organize a corporation under this Ordinance.
 
 Corporate name
 
-22.
+22\.
 
 (1) Except as otherwise provided in subsection (2) of this
 section, the name of a corporation:
@@ -1187,7 +1187,7 @@ by the Registrar of Companies by law.
 Registration
 of name
 
-24.
+24\.
 
 (1) Any person, natural or corporate, or any agent thereof
 may reserve a name with the Registrar of Companies
@@ -1356,7 +1356,7 @@ under this Ordinance.
 Organization
 meeting
 
-29.
+29\.
 (1) Within a reasonable time after the filing of the articles
 of incorporation, an organization meeting shall be held either
 within or without Nevis. The said organization meeting shall be
@@ -1381,7 +1381,7 @@ each incorporator, transferee or director signs an instrument
 setting forth the action so taken.
 Bylaws.
 
-30.
+30\.
 
 (1) Every corporation formed under this Ordinance shall
 have bylaws.
@@ -1413,7 +1413,7 @@ Classes
 and series
 of shares.
 
-31.
+31\.
 (1) Every corporation shall have power to issue the number
 of shares stated in its articles of incorporation. Such shares may be
 of one or more classes or one or more series within any class
@@ -1480,7 +1480,7 @@ Restrictions
 on transfer
 of shares.
 
-32.
+32\.
 
 (1) A restriction on the transfer of shares of a corporation
 may be imposed either by the articles of incorporation or
@@ -1523,7 +1523,7 @@ the directors shall treat it as such.
 Subscription
 for shares
 
-33.
+33\.
 
 (1) A subscription for shares of a corporation to be
 organized shall be irrevocable for a period of six months
@@ -1570,7 +1570,7 @@ unless otherwise provided in a subscription agreement.
 Consideration
 for shares.
 
-34.
+34\.
 
 (1) Consideration for the issue of shares shall consist of
 money or other property, tangible or intangible, or labor or
@@ -1602,7 +1602,7 @@ the issuance of such shares.
 Payment for
 shares
 
-35.
+35\.
 
 (1) Neither obligations of the subscriber for future
 payments nor future service shall constitute payment or part
@@ -1630,7 +1630,7 @@ such shares not fully paid or assessable.
 Determination
 of stated capital.
 
-37.
+37\.
 
 (1) Upon issue by a corporation of shares with a par value
 not in excess of the authorized shares, the consideration
@@ -1662,7 +1662,7 @@ Form and
 content of
 certificates
 
-38.
+38\.
 
 (1) The shares of a corporation shall be represented by
 certificates signed by the president, vice president, or
@@ -1724,7 +1724,7 @@ Dividends in
 cash, stock or
 other property.
 
-39.
+39\.
 (1) A corporation may declare and pay dividends in cash,
 stock or other property on its outstanding shares, except when
 currently the corporation is insolvent or would thereby be made
@@ -1749,7 +1749,7 @@ having such preferences in involuntary liquidation.
 Share
 dividends.
 
-40.
+40\.
 
 (1) A corporation may make pro rata distribution of its
 authorized but unissued shares to holders of any class or
@@ -1791,7 +1791,7 @@ redemption by
 corporation of
 its own shares
 
-41.
+41\.
 
 (1) A corporation, subject to any restrictions contained in
 its articles of incorporation, may purchase its own shares or
@@ -1830,7 +1830,7 @@ Reacquired
 
 shares.
 
-42.
+42\.
 
 (1) Shares that have been issued and have been purchased,
 redeemed or otherwise reacquired by a corporation shall be
@@ -1876,7 +1876,7 @@ stated capital
 by action of
 the board
 
-43.
+43\.
 (1) Except as otherwise provided in the articles of
 incorporation, the board may at any time reduce the stated capital
 of a corporation by eliminating from stated capital amounts
@@ -1917,7 +1917,7 @@ Management
 by business of
 corporation
 
-44.
+44\.
 
 (1) Subject to limitations of the articles of incorporation
 and of this Ordinance as to action which shall be authorized
@@ -1955,7 +1955,7 @@ Quorum;
 action by the
 board.
 
-46.
+46\.
 (1) The number of directors constituting the entire board
 shall not be less than three, except that where all the shares of a
 corporation are held by fewer than three shareholders, the number
@@ -1981,7 +1981,7 @@ Election
 and term of
 directors
 
-47.
+47\.
 
 (1) At each annual meeting of shareholders, directors shall
 be elected to hold office until the next annual meeting
@@ -1995,7 +1995,7 @@ been elected and qualified.
 
 Classification
 
-48.
+48\.
 
 (1) The articles of incorporation or the specific provisions
 
@@ -2035,7 +2035,7 @@ Newly created
 directorships
 and vacancies
 
-49.
+49\.
 
 (1) Newly created directorships resulting from an increase
 in the number of directors and vacancies occurring in the
@@ -2056,7 +2056,7 @@ hold office for the unexpired term of his predecessor.
 Removal of
 directors
 
-50.
+50\.
 
 (1) Any or all of the directors may be removed for cause by
 vote of the shareholders. The articles of incorporation or
@@ -2090,7 +2090,7 @@ class.
 Quorum
 action by the
 
-51.
+51\.
 
 (1) Unless a greater proportion is required by the articles of
 incorporation, a majority of the entire board present, in
@@ -2152,7 +2152,7 @@ provision permitted by subsection (6).
 Meetings of
 of the board
 
-52.
+52\.
 
 (1) Meetings of the board, regular or special, may be held
 at any place within or without Nevis, unless otherwise
@@ -2178,7 +2178,7 @@ protesting the lack of notice.
 Executive and
 other committees
 
-53.
+53\.
 
 (1) If the articles of incorporation or the bylaws so provide,
 the board, by resolution adopted by a majority vote of the
@@ -2212,7 +2212,7 @@ D
 irtec
 or
 
-54.
+54\.
 conflicts of
 interest
 
@@ -2274,7 +2274,7 @@ Indemnification
 of directors
 and officers
 
-56.
+56\.
 
 (I) A corporation shall have power to indemnify any person
 who was or is a party or is threatened to be made a party to
@@ -2370,7 +2370,7 @@ condition of such corporation.
 
 Officers
 
-58.
+58\.
 
 (1) Every corporation shall have (i) a president and
 treasurer, or a managing director, and (ii), a secretary, who
@@ -2409,7 +2409,7 @@ residents of Nevis.
 Removal
 of officers
 
-59.
+59\.
 
 (1) Any officer elected or appointed by the board may be
 removed by the board with or without cause except as
@@ -2430,7 +2430,7 @@ SHAREHOLDERS
 Meetings of
 shareholders
 
-60.
+60\.
 
 (1) Meetings of shareholders may be held at such place,
 either within or without Nevis, as may be designated in the
@@ -2472,7 +2472,7 @@ Notice of
 meetings of
 Shareholders
 
-61.
+61\.
 
 (1) Whenever under the provisions of this Ordinance
 shareholders are required or permitted to take any action at
@@ -2557,7 +2557,7 @@ more than sixty days prior to any other action.
 
 Proxies
 
-65.
+65\.
 
 (1) Every shareholder entitled to vote at a meeting of
 shareholders or to express consent or dissent without a
@@ -2631,7 +2631,7 @@ representing such shares.
 Quorum of
 shareholders
 
-66.
+66\.
 
 (1) Unless otherwise provided in the articles of
 incorporation, a majority of shares entitled to vote,
@@ -2649,7 +2649,7 @@ Vote of
 shareholders
 required
 
-67.
+67\.
 
 (1) Directors shall, except as otherwise required by this
 Ordinance or by the articles of incorporation as permitted
@@ -2681,7 +2681,7 @@ to quorum
 and vote of
 shareholders
 
-68.
+68\.
 
 (1) The articles of incorporation may contain a provision
 specifying either or both of the following:
@@ -2735,7 +2735,7 @@ may vote at such meeting.
 Qualification
 of voters
 
-70.
+70\.
 
 (1) Every registered shareholder as of the record date and
 every holder of bearer shares who, as of the record date,
@@ -2787,7 +2787,7 @@ elections and in all proceedings, over the provisions of this
 Ordinance which authorize any action by the shareholders.
 Voting Trusts
 
-71.
+71\.
 
 (1) Any shareholder, under an agreement in writing, may
 transfer his shares to a voting trustee for the purpose of
@@ -2885,7 +2885,7 @@ the vote as certified by them.
 Preemptive
 rights
 
-74.
+74\.
 
 (1) Except as otherwise provided in the articles of
 incorporation or in this section, in the event of:
@@ -2945,7 +2945,7 @@ right may be exercised.
 Shareholders
 derivative actions
 
-75.
+75\.
 
 (1) An action may be brought in the right of a corporation
 to procure a judgment in its favor, by a holder of shares or
@@ -3014,7 +3014,7 @@ minutes and
 records of
 shareholders
 
-76.
+76\.
 
 (1) Every corporation formed under this Ordinance shall
 keep correct and complete books and records of account
@@ -3040,7 +3040,7 @@ right to
 inspect books
 and records
 
-77.
+77\.
 
 (1) Any shareholder or holder of a voting trust certificate,
 in person or by attorney or other agent, may, during the
@@ -3137,7 +3137,7 @@ assets plus the par value of all other issued shares with par value.
 Procedure for
 amendment
 
-83.
+83\.
 
 (1) Amendment of the articles of incorporation may be
 authorized by vote of the holders of a majority of all
@@ -3208,7 +3208,7 @@ of Companies in accordance with the provisions of section
 Effectiveness
 of amendment
 
-86.
+86\.
 
 (1) Upon filing of the articles of amendment with the
 Registrar of Companies, the amendment shall become
@@ -3248,7 +3248,7 @@ Restated
 articles of
 amendment
 
-88.
+88\.
 
 (1) At any time after its articles of incorporation have been
 amended, a corporation may by action of its board, without
@@ -3300,7 +3300,7 @@ consolidation
 of domestic
 corporations
 
-90.
+90\.
 
 (1) Two or more domestic corporations may merge or
 consolidate as provided in this part.
@@ -3388,7 +3388,7 @@ Merger of
 subsidiary
 corporations
 
-91.
+91\.
 
 (1) Any domestic corporation owning at least ninety
 percent of the outstanding shares of each class of another
@@ -3446,7 +3446,7 @@ Effect of
 merger or
 consolidation
 
-92.
+92\.
 
 (1) The merger or consolidation shall be effective upon
 Effect of the filing of the articles of merger or
@@ -3510,7 +3510,7 @@ of domestic
 and foreign
 corporations
 
-93.
+93\.
 
 (1) One or more foreign corporations may be merged or
 consolidated with one or more domestic corporations in the
@@ -3565,7 +3565,7 @@ exchange other
 disposition
 of assets
 
-94.
+94\.
 
 (1) A sale, lease, exchange or other disposition of all or
 substantially all the assets of a corporation, if not made in
@@ -3628,7 +3628,7 @@ right to receive
 payment for
 shares
 
-96.
+96\.
 
 (1) A shareholder intending to enforce his rights under
 section 87 of Part IX or section 95 of Part X to receive
@@ -3777,7 +3777,7 @@ Manner of
 effecting
 dissolution
 
-97.
+97\.
 
 (1) Except as otherwise provided in its articles of
 incorporation, a corporation may be dissolved if, at a
@@ -3842,7 +3842,7 @@ Companies. Upon filing with the Registrar of Companies, the
 corporation shall be dissolved.
 
 Dissolution
-99.
+99\.
 on failure to pay
 annual registration
 fee or appoint
@@ -3885,7 +3885,7 @@ affairs of
 corporation after
 dissolution
 
-100.
+100\.
 
 (1) All corporations, whether they expire by their own
 limitations or are otherwise dissolved, shall nevertheless be
@@ -3935,7 +3935,7 @@ Settlement of
 claims against
 corporation
 
-101.
+101\.
 
 (1) Any time within one year after dissolution, a
 corporation may give notice requiring all creditors and
@@ -4013,7 +4013,7 @@ When transfer
 domicile is
 permitted
 
-103.
+103\.
 
 (1) Any Foreign Corporation may, subject to and upon
 compliance with the further provisions of this Part, transfer
@@ -4238,7 +4238,7 @@ for temporary
 transfer of
 domicile
 
-117.
+117\.
 
 (1) Any Foreign Corporation may apply for emergency
 transfer of domicile to Nevis by filing with the Registrar of
@@ -4330,7 +4330,7 @@ the directors of the corporation authorizing such withdrawal.
 TAX EXEMPTION
 Exemptions
 
-123.
+123\.
 
 (1) Any corporation subject to this Ordinance which does
 no business in Nevis shall not be subject to any corporate
@@ -4438,7 +4438,7 @@ default
 126\. Any person, natural or corporate, found in default of one or
 more provisions shall be liable upon summary conviction to a fine
 not to exceed two thousand dollars.
-127.
+127\.
 
 (1) The Minister may appoint a person or persons to be
 Deputy Registrar of Companies.

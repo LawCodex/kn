@@ -84,9 +84,9 @@ PUBLIC SERVICE ACT
 ## PART I
 
 PRELIMINARY MATTERS
-1.
-2.
-3.
+1\.
+2\.
+3\.
 
 Short title
 Interpretation
@@ -95,8 +95,8 @@ Application of the Act
 ## PART II
 
 MANAGEMENT OF THE PUBLIC SERVICE
-4.
-5.
+4\.
+5\.
 
 Head of the Public Service
 Permanent Secretaries Committee
@@ -104,17 +104,17 @@ Permanent Secretaries Committee
 ## PART III
 
 PUBLIC SERVICE COMMISSION
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
+6\.
+7\.
+8\.
+9\.
+10\.
+11\.
+12\.
+13\.
+14\.
+15\.
+16\.
 
 Advisory committees
 Teaching Service Committee
@@ -133,10 +133,10 @@ Exemption from taxes
 APPOINTMENT OF PUBLIC OFFICERS
 Division I
 Appointments to offices specified in section 78 of the Constitution
-17.
-18.
-19.
-20.
+17\.
+18\.
+19\.
+20\.
 
 Non-application of Division I
 Appointments to offices specified in section 78 of the Constitution
@@ -146,16 +146,16 @@ appointments to offices under section 18
 
 Division II
 Appointments to offices specified in section 79 of the Constitution
-21.
-22.
+21\.
+22\.
 
 Appointment to offices specified in section 79 of the Constitution
 Notification of vacancy specified in section 21
 
-23.
-24.
-25.
-26.
+23\.
+24\.
+25\.
+26\.
 
 Public Service Act
 
@@ -174,9 +174,9 @@ Minister
 
 Division III
 Appointments to offices specified in section 83 of the Constitution
-27.
-28.
-29.
+27\.
+28\.
+29\.
 
 Appointments to offices specified in section 83 of the Constitution
 Notification of vacancy specified in section 27
@@ -186,14 +186,14 @@ appointments to offices specified in section 27
 ## PART V
 
 DISCIPLINING OF PUBLIC OFFICERS
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
+30\.
+31\.
+32\.
+33\.
+34\.
+35\.
+36\.
+37\.
 
 Application of this Part
 Forms of discipline
@@ -207,15 +207,15 @@ Disciplinary proceedings for dismissal
 ## PART VI
 
 REMOVAL OF PUBLIC OFFICERS FROM THE PUBLIC SERVICE
-38.
-39.
-40.
-41.
-42.
-43.
-44.
-45.
-46.
+38\.
+39\.
+40\.
+41\.
+42\.
+43\.
+44\.
+45\.
+46\.
 
 Application of this Part
 Reasons for termination of appointment
@@ -230,11 +230,11 @@ Procedure for termination
 ## PART VII
 
 HUMAN RESOURCE DEVELOPMENT AND MANAGEMENT OF TRAINING
-47.
-48.
-49.
-50.
-51.
+47\.
+48\.
+49\.
+50\.
+51\.
 
 Policy of training
 Training Committee
@@ -245,8 +245,8 @@ Reports
 ## PART V III
 
 MISCELLANEOUS PROVISIONS
-52.
-53.
+52\.
+53\.
 
 Appeals by public officers
 Regulations etc.
@@ -1308,12 +1308,12 @@ PUBLIC SERVICE (RECRUITMENT AND APPOINTMENT) CODE
 ## PART I
 
 PRELIMINARY
-1.
-2.
-3.
-4.
-5.
-6.
+1\.
+2\.
+3\.
+4\.
+5\.
+6\.
 
 Citation
 Interpretation
@@ -1325,33 +1325,33 @@ Application of existing enactments
 ## PART II
 
 APPOINTMENTS ON RECRUITMENT, PROMOTION, OR TRANSFERS
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
+7\.
+8\.
+9\.
+10\.
+11\.
+12\.
+13\.
+14\.
+15\.
+16\.
+17\.
+18\.
+19\.
+20\.
+21\.
+22\.
+23\.
+24\.
+25\.
+26\.
+27\.
+28\.
+29\.
+30\.
+31\.
+32\.
+33\.
 
 Application of principles of merit, impartiality and integrity
 Notification of vacancies within the Public Service
@@ -1382,13 +1382,13 @@ Appointments on contract
 Seniority as between posts
 Seniority as between officers in the same grade
 
-34.
-35.
-36.
-37.
-38.
-49.
-40.
+34\.
+35\.
+36\.
+37\.
+38\.
+49\.
+40\.
 
 Public Service Act
 
@@ -1408,12 +1408,12 @@ Acting appointments
 ## PART III
 
 RESIGNATION, RETIREMENT, AND TERMINAL BENEFITS ETC.
-41.
-42.
-43.
-44.
-45.
-46.
+41\.
+42\.
+43\.
+44\.
+45\.
+46\.
 
 Resignation
 Reasons for refusal of resignation
@@ -1431,12 +1431,12 @@ PUBLIC SERVICE (RECRUITMENT AND APPOINTMENT) CODE
 PRELIMINARY
 Citation.
 
-1.
+1\.
 This Code may be cited as the Public Service (Recruitment and Appointment)
 Code.
 Interpretation.
 
-2.
+2\.
 
 (1) In this Code, unless the context otherwise requires—
 
@@ -1494,7 +1494,7 @@ considered to be best capable of performing the duties.
 the Act.
 Purpose of the Code.
 
-3.
+3\.
 
 (1) This Code seeks to—
 (a) govern the methods to be used in the recruitment and promotion of
@@ -1530,21 +1530,21 @@ objective basis between candidates at each stage of the selection
 process, which criteria shall be relevant to the job.
 Recruitment principles.
 
-4.
+4\.
 The Code seeks to ensure that recruitment and appointments to the Public
 Service are made on the basis of merit, impartiality and the highest standards of
 integrity, and in addition the Code seeks to ensure that consideration is also given to
 seniority and experience where the nature of work so requires.
 Application of the Code.
 
-5.
+5\.
 This Code shall apply to all public officers, except in cases where, by virtue of
 the Constitution or any other law in force in Saint Christopher and Nevis, specific
 provision is made with respect to a particular public office or category of public
 office.
 Application of existing enactments.
 
-6.
+6\.
 The process in respect of appointment on recruitment, promotion or transfer
 shall be in accordance with this Code in so far as the provisions of the Code are not
 inconsistent with the provisions of the Constitution, the Act and the Public Service
@@ -1555,7 +1555,7 @@ Commission Regulations.
 APPOINTMENT ON RECRUITMENT, PROMOTION, AND TRANSFERS
 Application of principles of merit, impartiality and integrity.
 
-7.
+7\.
 (1) Subject to subsection (3), the appointment on recruitment or promotion of
 an individual to a public office shall be made on the basis of the following principles,
 that is to say—
@@ -1577,7 +1577,7 @@ Department; or
 (b) when employing a physically or mentally challenged person.
 Notification of vacancies within the Public Service.
 
-8.
+8\.
 (1) Vacancies within the Public Service shall first be advertised or published
 within the Public Service in Saint Christopher and Nevis for a period of two weeks.
 (2) After the provisions of subsection (1) are complied with, vacancies may be
@@ -1596,7 +1596,7 @@ qualities required; and
 based on relevant criteria that is applied to all candidates.
 Eligibility for appointment to the Public Service.
 
-9.
+9\.
 
 (1) To be eligible for appointment in the Public Service a person shall—
 (a) not, subject to subsection (2), be less than sixteen years or more than
@@ -1615,7 +1615,7 @@ of the School or College he or she last attended;
 the age of fifty-two years may be appointed on contract for specialised work.
 Appointment on recruitment or promotion.
 
-10.
+10\.
 
 An appointment on recruitment or promotion shall not be made, unless—
 (a) the vacancy in the public service, or a vacancy in an office with the
@@ -2102,7 +2102,7 @@ notice.
 Officer, the Accountant-General and the Director of Audit.
 Reasons for refusal of resignation.
 
-42.
+42\.
 
 The appropriate authority may refuse to accept the request for resignation, if—
 (a) it is conditional;
@@ -2134,7 +2134,7 @@ of benefits due to the deceased shall be made upon presentation of letters of
 administration of the estate.
 Performance review and development system.
 
-46.
+46\.
 
 The Head of the Public Service shall ensure that—
 
@@ -2172,45 +2172,45 @@ PUBLIC SERVICE (CONDUCT AND ETHICS OF OFFICERS) CODE
 
 ## ARRANGEMENT OF SECTIONS
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
+1\.
+2\.
+3\.
+4\.
+5\.
+6\.
+7\.
+8\.
+9\.
+10\.
+11\.
+12\.
+13\.
+14\.
+15\.
+16\.
+17\.
+18\.
+19\.
+20\.
+21\.
+22\.
+23\.
+24\.
+25\.
+26\.
+27\.
+28\.
+29\.
+30\.
+31\.
+32\.
+33\.
+34\.
+35\.
+36\.
+37\.
+38\.
+39\.
 
 Citation
 Interpretation
@@ -2253,27 +2253,27 @@ Representation by officers
 Engaging in political activities
 Engaging in trade union activities
 
-40.
-41.
-42.
-43.
-44.
-45.
-46.
-47.
-48.
-49.
-50.
-51.
-52.
-53.
-54.
-55.
-56.
-57.
-58.
-59.
-60.
+40\.
+41\.
+42\.
+43\.
+44\.
+45\.
+46\.
+47\.
+48\.
+49\.
+50\.
+51\.
+52\.
+53\.
+54\.
+55\.
+56\.
+57\.
+58\.
+59\.
+60\.
 
 Public Service Act
 
@@ -3113,13 +3113,13 @@ PUBLIC SERVICE CODE OF DISCIPLINE
 
 ## ARRANGEMENT OF SECTIONS
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1\.
+2\.
+3\.
+4\.
+5\.
+6\.
+7\.
 
 Citation
 Interpretation
@@ -3347,13 +3347,13 @@ PUBLIC SERVICE STANDING ORDERS
 ## PART I
 
 PRELIMINARY
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1\.
+2\.
+3\.
+4\.
+5\.
+6\.
+7\.
 
 Citation
 Interpretation
@@ -3366,19 +3366,19 @@ Liability of officer to disciplinary action
 ## PART II
 
 SALARIES AND ACTING ALLOWANCES
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
+8\.
+9\.
+10\.
+11\.
+12\.
+13\.
+14\.
+15\.
+16\.
+17\.
+18\.
+19\.
+20\.
 
 Salaries to be determined by Parliament
 Incremental salary scale
@@ -3398,21 +3398,21 @@ Subsistence and transport allowances payable to acting officers
 
 LEAVE, MEDICAL LEAVE, ETC.
 Leave
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
+21\.
+22\.
+23\.
+24\.
+25\.
+26\.
+27\.
+28\.
+29\.
+30\.
+31\.
+32\.
+33\.
+34\.
+35\.
 
 Types of leave to which public officers are eligible
 Leave to be granted subject to certain conditions
@@ -3431,15 +3431,15 @@ Leave prior to resignation
 Leave without pay
 
 Medical Leave, Maternity Leave, Paternity Leave, and Family Emergency Leave
-36.
-37.
-38.
-39.
-40.
-41.
-42.
-43.
-44.
+36\.
+37\.
+38\.
+39\.
+40\.
+41\.
+42\.
+43\.
+44\.
 
 Circumstances in which medical leave may be granted
 Medical leave in excess of two consecutive working days to require production
@@ -3454,13 +3454,13 @@ Medical Officer to make a report in certain circumstances
 Maternity, paternity, and family emergency leave
 
 Other Forms of Leave
-45.
-46.
-47.
-48.
-49.
-50.
-51.
+45\.
+46\.
+47\.
+48\.
+49\.
+50\.
+51\.
 
 Leave on urgent private affairs
 Granting of leave on urgent private affairs
@@ -3471,11 +3471,11 @@ Assistance when granted leave to attend course of training or study
 Examination fees may be paid by the Government
 
 Miscellaneous Provisions
-52.
-53.
-54.
-55.
-56.
+52\.
+53\.
+54\.
+55\.
+56\.
 
 Leave registers and leave accounts
 On death of an officer, cash equivalent of earned leave payable
@@ -3487,17 +3487,17 @@ Return to duty to be reported
 
 ADVANCES, SUBSISTENCE, TRAVELLING AND OTHER ALLOWANCES
 Advances
-57.
-58.
+57\.
+58\.
 
 Advances in general
 Advances to officers travelling on duty
 
 Subsistence Allowance
-59.
-60.
-61.
-62.
+59\.
+60\.
+61\.
+62\.
 
 Subsistence allowance on travel duty
 Subsistence allowance payable in respect of journeys within Saint Christopher
@@ -3507,13 +3507,13 @@ Subsistence allowance when travelling on duty outside Saint Christopher and
 Nevis
 
 Travelling Allowance
-63.
-64.
-65.
-66.
-67.
-68.
-69.
+63\.
+64\.
+65\.
+66\.
+67\.
+68\.
+69\.
 
 Travelling officers
 Mileage allowance
@@ -3527,13 +3527,13 @@ Removal of baggage on transfer
 ## PART V
 
 INITIATION AND PROCESSING OF LEGISLATION
-70.
-71.
-72.
-73.
-74.
-75.
-76.
+70\.
+71\.
+72\.
+73\.
+74\.
+75\.
+76\.
 
 Promotion of new or amending existing legislation
 Authority to draft legislation
@@ -3546,16 +3546,16 @@ Final draft legislation
 ## PART VI
 
 QUARTERS, FURNITURE, ETC.
-77.
-78.
-79.
-80.
-81.
-82.
-83.
-84.
-85.
-86.
+77\.
+78\.
+79\.
+80\.
+81\.
+82\.
+83\.
+84\.
+85\.
+86\.
 
 Free quarters
 Reduced rent quarters
@@ -3568,9 +3568,9 @@ Duties of Chief Personnel Officer
 Handing over and taking over of Government quarters and furniture
 Officer’s liability for deficiencies or damage
 
-87.
-88.
-89.
+87\.
+88\.
+89\.
 
 Public Service Act
 
@@ -3581,18 +3581,18 @@ Termination of tenancy
 ## PART VII
 
 GENERAL PROVISIONS
-90.
-91.
-92.
-93.
-94.
-95.
-96.
-97.
-98.
-99.
-100.
-101.
+90\.
+91\.
+92\.
+93\.
+94\.
+95\.
+96\.
+97\.
+98\.
+99\.
+100\.
+101\.
 
 Channels of communication
 Annual confidential reports
@@ -3618,13 +3618,13 @@ PUBLIC SERVICE STANDING ORDERS
 PRELIMINARY
 Citation.
 
-1.
+1\.
 
 These Orders may be cited as the Public Service Standing Orders.
 
 Interpretation.
 
-2.
+2\.
 
 (1) In these Standing Orders, unless the context otherwise requires—
 
@@ -3665,25 +3665,25 @@ Constitution of Saint Christopher and Nevis.
 assigned to it by the Act.
 Application of Standing Orders.
 
-3.
+3\.
 These Standing Orders shall apply to all public officers except in cases where,
 by virtue of the Constitution or any other law in force in Saint Christopher and Nevis,
 specific provision is made with respect to a particular public office or category of
 public office.
 Duty of Head of Department to make copies of Standing Orders available.
 
-4.
+4\.
 The Head of Department or Permanent Secretary shall ensure that a sufficient
 number of copies of these Orders are readily available for consultation by all public
 officers within the Department and to meet the needs of the Department.
 Duty of officers to familiarize themselves with the Standing Orders.
 
-5.
+5\.
 A public officer shall familiarize himself or herself with these Orders and any
 amendments made to these Orders.
 Acquaintance with Government notices and orders.
 
-6.
+6\.
 (1) A public officer shall acquaint himself or herself with all Government
 notices and Orders whether published in the Official Gazette or conveyed by circular
 or other means of communication.
@@ -3692,7 +3692,7 @@ for the circulation of the notices and Orders referred to in subsection (1) to t
 officers under their direction and control.
 Liability of officer to disciplinary action.
 
-7.
+7\.
 A public officer shall be liable to disciplinary action in respect of a breach of
 any provision of these Standing Orders.
 
@@ -4962,10 +4962,10 @@ __________
 
 (Section 32(1))
 VACATION ENTITLEMENT OR ACCRUALS
-1.
+1\.
 Vacations shall be fixed according to an officer’s substantive salary scale,
 which is listed on a K scale.
-2.
+2\.
 
 The following rules shall govern the vacation leave process, that is to say—
 (a) leave for all officers accrues on a monthly basis;
@@ -4980,7 +4980,7 @@ exigencies of the position prevent an officer from taking the vacation
 leave, and which request shall be approved by the Chief Personnel
 Officer.
 
-3.
+3\.
 The entitlement or accruals for existing officers and new officers shall be as
 set out hereunder:
 EXISTING OFFICERS
@@ -5096,11 +5096,11 @@ PROCEDURE FOR INITIATION AND PROCESSING OF LEGISLATION
 ## PART I
 
 GENERAL
-1.
+1\.
 The contents of this Schedule are intended to assist Government Ministries and
 Agencies in the preparation of appropriate instructions to the Attorney-General’s
 Chambers for the drafting of legislation.
-2.
+2\.
 (1) The Chief Parliamentary Counsel’s Department in the Ministry of the
 Attorney-General, Justice and Legal Affairs is charged with the duty of drafting both
 principal and subsidiary legislation.
@@ -5109,7 +5109,7 @@ Government policy into Bills for enactment into laws by the National Assembly.
 (3) The drafting of legislation can only be embarked upon on the instructions
 of the Permanent Secretary of a Ministry addressed to the Attorney-General, except
 that such instructions shall only be given following a Cabinet decision on the matter.
-3.
+3\.
 In order to ensure speedy and effective service to every Ministry, Statutory
 Corporation, and Statutory body by the Chief Parliamentary Counsel’s Department it
 is important that instructions for the drafting of any legislation (whether principle
@@ -5119,7 +5119,7 @@ legislation or subsidiary legislation) be as adequate and as specific as possibl
 
 INITIATION OF PROPOSALS FOR LEGISLATION
 Responsibility for initiating legislation
-4.
+4\.
 
 (1) The responsibility for initiating legislation within—
 (a) a Ministry vests in the Minister holding the portfolio of that Ministry;
@@ -5138,7 +5138,7 @@ a Cabinet Memorandum seeking for Cabinet approval in principle shall be submitte
 by the Minister to the Cabinet.
 
 Seeking Cabinet approval in principle
-5.
+5\.
 (1) The Cabinet Memorandum shall set out the principles of the policy
 intended to be carried into effect by the proposed legislation, and the reasons and the
 reasons why it is considered necessary, but should not enter on the detailed changes
@@ -5163,13 +5163,13 @@ principle.
 soon as possible, accordingly notify the sponsoring Ministry, Department, Statutory
 Corporation, or Statutory body, as the case may be.
 Preparation of Green and White Papers
-6.
+6\.
 In case of any proposed legislation which is likely to be controversial, the
 sponsoring Ministry, Department, Statutory Corporation, or Statutory body shall,
 with the approval of Cabinet, prepare a Green Paper containing a general outline of
 the policy to which legislative enactment is being sought and circulate the paper to
 the public for the purpose of receiving comments on the proposed legislation.
-7.
+7\.
 (1) After the comments are received from the public, the sponsoring Ministry,
 Department, Statutory Corporation, or Statutory body shall forward the comments to
 Cabinet which shall review the same and determine what is to be included in the
@@ -5177,7 +5177,7 @@ proposed legislation.
 (2) Thereafter, the sponsoring Ministry, Department, Statutory Corporation, or
 Statutory body shall prepare a White Paper outlining what Government intends to put
 in the proposed legislation.
-8.
+8\.
 The White Paper shall, after it is discussed by the relevant stakeholders as
 Cabinet may determine, form the basis of instructions to the Attorney-General, and it
 may be circulated to the public.
@@ -5185,12 +5185,12 @@ may be circulated to the public.
 ## PART III
 
 DRAFTING INSTRUCTIONS
-9.
+9\.
 Once cabinet approval is obtained for the drafting of any proposed legislation,
 the Permanent Secretary of the Ministry concerned shall, under his or her hand,
 forward to the Attorney-General’s Chambers instructions for the drafting of the
 proposed legislation.
-10.
+10\.
 
 (1) Drafting instructions shall contain the following information—
 (a) full details of the policy intended to be carried into effect by the
@@ -5278,9 +5278,9 @@ FOREIGN SERVICE REGULATIONS
 ## PART I
 
 PRELIMINARY
-1.
-2.
-3.
+1\.
+2\.
+3\.
 
 Citation
 Interpretation
@@ -5289,15 +5289,15 @@ Application
 ## PART II
 
 FOREIGN SERVICE AND APPOINTMENTS THERETO
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
+4\.
+5\.
+6\.
+7\.
+8\.
+9\.
+10\.
+11\.
+12\.
 
 Foreign Service
 Structure of Foreign Service
@@ -5312,16 +5312,16 @@ Work programme
 ## PART III
 
 POSTING OF OFFICER
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
+13\.
+14\.
+15\.
+16\.
+17\.
+18\.
+19\.
+20\.
+21\.
+22\.
 
 Posting
 Notice of posting or transfer
@@ -5337,10 +5337,10 @@ Secondment
 ## PART IV
 
 ALLOWANCES
-23.
-24.
-25.
-26.
+23\.
+24\.
+25\.
+26\.
 
 Foreign Service allowance
 Spouse and children allowance
@@ -5350,17 +5350,17 @@ Wardrobe allowance
 ## PART V
 
 ACCOMMODATION FOR OFFICERS
-27.
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
+27\.
+28\.
+29\.
+30\.
+31\.
+32\.
+33\.
+34\.
+35\.
+36\.
+37\.
 
 Setting-up grant
 Accommodation for Heads of Mission
@@ -5377,9 +5377,9 @@ Accommodation in Saint Christopher and Nevis
 ## PART VI
 
 OVERSEAS ALLOWANCE
-38.
-39.
-40.
+38\.
+39\.
+40\.
 
 Allowances while overseas
 Rates for overseas allowance
@@ -5388,9 +5388,9 @@ Temporary assignment
 ## PART VII
 
 ENTERTAINMENT ALLOWANCE
-41.
-42.
-43.
+41\.
+42\.
+43\.
 
 Entertainment allowance for official entertainment
 Entertainment allowance while on vacation
@@ -5399,13 +5399,13 @@ Entertainment allowance while on special duties
 ## PART VIII
 
 TRAVELLING ON OFFICIAL BUSINESS
-44.
-45.
-46.
-47.
-48.
-49.
-50.
+44\.
+45\.
+46\.
+47\.
+48\.
+49\.
+50\.
 
 Transportation for Head of Mission or Consular post
 Travelling posts
@@ -5418,12 +5418,12 @@ Absence from country of posting
 ## PART IX
 
 LEAVE AND HOME LEAVE PASSAGES
-51.
-52.
-53.
-54.
-55.
-56.
+51\.
+52\.
+53\.
+54\.
+55\.
+56\.
 
 Leave entitlement
 Vacation leave
@@ -5432,12 +5432,12 @@ Leave outside country of posting
 Monthly details of leave
 Leave between posting
 
-57.
-58.
-59.
-60.
-61.
-62.
+57\.
+58\.
+59\.
+60\.
+61\.
+62\.
 
 CAP. 22.09
 
@@ -5458,11 +5458,11 @@ Temporary assignment
 ## PART X
 
 NON-REPRESENTATIONAL OR CONTRACT STAFF
-63.
-64.
-65.
-66.
-67.
+63\.
+64\.
+65\.
+66\.
+67\.
 
 Employment at Mission or Consular post
 Comparable salaries
@@ -5473,11 +5473,11 @@ Permanent employment not as of right
 ## PART XI
 
 GOVERNANCE, CONDUCT AND DISCIPLINE OF OFFICERS
-68.
-69.
-70.
-71.
-72.
+68\.
+69\.
+70\.
+71\.
+72\.
 
 Conduct and discipline of officers
 Employment of spouse of officer
@@ -5488,9 +5488,9 @@ Foreign honour, decoration or medal
 ## PART XII
 
 FINANCIAL MANAGEMENT
-73.
-74.
-75.
+73\.
+74\.
+75\.
 
 Public Service Financial rules to apply
 Audit investigation
@@ -5499,7 +5499,7 @@ Correction of deficiencies
 ## PART XIII
 
 MISCELLANEOUS
-76.
+76\.
 
 Insurance
 
@@ -5523,13 +5523,13 @@ FOREIGN SERVICE REGULATIONS
 PRELIMINARY
 Citation.
 
-1.
+1\.
 
 These Regulations may be cited as the Foreign Service Regulations.
 
 Interpretation.
 
-2.
+2\.
 
 In these Regulations—
 
@@ -5577,7 +5577,7 @@ the Missions of the Government;
 Ministries, other than between the Ministry and its Missions.
 Application.
 
-3.
+3\.
 (1) These Regulations apply to officers of the Saint Christopher and Nevis
 Foreign Service in respect of the matters specially covered by them.
 (2) Notwithstanding subsection (1), where no specific provision has been
@@ -5593,7 +5593,7 @@ from the date it comes into force.
 FOREIGN SERVICE AND APPOINTMENTS THERETO
 Foreign Service.
 
-4.
+4\.
 (1) The Saint Christopher and Nevis Foreign Service is an integral part of the
 Saint Christopher and Nevis Public Service.
 (2) The Saint Christopher and Nevis Foreign Service is an instrument of the
@@ -5610,7 +5610,7 @@ staff; and
 collaboration with the Human Resources Management Department.
 Structure of Foreign Service.
 
-5.
+5\.
 
 The Foreign Service shall comprise—
 (a) the Head Office;
@@ -5618,20 +5618,20 @@ The Foreign Service shall comprise—
 (b) the Overseas Missions.
 Foreign Service officers.
 
-6.
+6\.
 
 (1) Officers of the Foreign Service may be classified as—
 (a) representational officers;
 (b) non-representational officers; and
 (c) locally recruited officers.
 
-3.
+3\.
 
 (2) The officers classified in regulation 6(1) are set out in Schedules 1, 2 and
 
 Appointment of officers.
 
-7.
+7\.
 (1) Appointments to the offices of Ambassador, High Commissioner or other
 principal representatives of Saint Christopher and Nevis in any other country or
 accredited to any international organization or to any office, shall be made in
@@ -5644,10 +5644,10 @@ appointed otherwise than in accordance with regulation 7(2).
 (4) Appointments to offices other than those specified in subsections (1), (2)
 and (3) are made on the recommendation of the Public Service Commission in
 accordance with the requirements of the Constitution of Saint Christopher and Nevis
-1983.
+1983\.
 Qualifications.
 
-8.
+8\.
 (1) Representational officers and non-representational officers who are
 members of the Public Service, shall be citizens of Saint Christopher and Nevis who
 possess the necessary qualifications, one of which should be a degree from an
@@ -5665,7 +5665,7 @@ Caribbean countries; or
 other requirements in respect of these offices.
 Vacant posts.
 
-9.
+9\.
 Positions of non-representational and locally recruited officers which may
 become vacant from time to time may be advertised.
 
@@ -5695,7 +5695,7 @@ approval of the Permanent Secretary.
 POSTING OF OFFICER
 Posting.
 
-13.
+13\.
 
 An officer may be posted to a Mission, a Consular post or to Head Office.
 
@@ -6124,7 +6124,7 @@ permission to an officer to travel on official business.
 LEAVE AND HOME LEAVE PASSAGES
 Leave entitlement.
 
-51.
+51\.
 
 An officer is eligible for leave in accordance with the provisions of—
 (a) the general rules and regulations of the Public Service; or
@@ -6132,7 +6132,7 @@ An officer is eligible for leave in accordance with the provisions of—
 
 Vacation leave.
 
-52.
+52\.
 
 Vacation leave may be granted—
 (a) in the case of Head of Mission, by the Permanent Secretary on the
@@ -6342,40 +6342,40 @@ Representational officers are such as may be accredited to represent Saint
 Christopher and Nevis before a foreign Government or International Organizations as
 –
 Diplomatic and Consular
-1.
+1\.
 
 Ambassador (Permanent Representative) or High Commissioner
 
-2.
+2\.
 
 Deputy High Commissioner or Deputy Permanent Representative (this
 person may also be at the rank of an Ambassador)
 
-3.
+3\.
 
 Minister Plenipotentiary
 
-4.
+4\.
 
 Minister Counsellor
 
-5.
+5\.
 
 Counsellor
 
-6.
+6\.
 
 First Secretary
 
-7.
+7\.
 
 Second Secretary
 
-8.
+8\.
 
 Third Secretary
 
-9.
+9\.
 
 Attaché (the level of the Attaché will be reliant on the rank of the
 individual so deployed: Legal, defence, military, commercial, cultural,
@@ -6393,11 +6393,11 @@ __________
 NON-REPRESENTATIONAL OFFICERS
 Non-Representational officers are officers who do not hold diplomatic or
 consular rank and may be—
-1.
+1\.
 
 Accountant
 
-2.
+2\.
 
 Secretary or Executive Officer
 
@@ -6410,27 +6410,27 @@ __________
 LOCALLY RECRUITED OFFICERS
 Locally recruited staff comprises officers who do not hold diplomatic rank and are
 normally recruited in the host country and include—
-1.
+1\.
 
 Clerical Officers
 
-2.
+2\.
 
 Secretaries
 
-3.
+3\.
 
 Stenographers
 
-4.
+4\.
 
 Typists
 
-5.
+5\.
 
 Chauffeurs
 
-6.
+6\.
 
 Messengers
 
@@ -6442,7 +6442,7 @@ Guards
 
 Janitors
 
-9.
+9\.
 
 Maids
 
@@ -6453,7 +6453,7 @@ __________
 (Regulation 76)
 INSURANCE COVERAGE FOR PERSONNEL DEPLOYED
 Administrative Instructions
-1.
+1\.
 
 Aim of Administrative Instructions.
 
@@ -6462,7 +6462,7 @@ comprehensive coverage through a health insurance policy for diplomatic and
 consular representatives and immediate members of their family as well as locally
 employed staff in the host country of accreditation of the diplomatic and consular
 missions of the Federation of St Kitts and Nevis.
-2.
+2\.
 
 Definitions.
 For purposes of the present Administrative Instruction—
@@ -6482,7 +6482,7 @@ employed staff.
 (e) “Kittitian/Nevisian Citizen” means a natural person holding
 citizenship of the Federation of St Kitts and Nevis as defined by the
 Constitution and/or any legislation covering Citizenship.
-3.
+3\.
 
 Eligibility—
 (a) The Ministry shall pay for a health insurance policy for diplomatic or
@@ -6506,14 +6506,14 @@ enjoy health insurance services covered by the Ministry any longer;
 except in instances where the individual agrees to offset costs
 associated with continued coverage.
 
-4.
+4\.
 
 Notifications
 
 The Head of Mission shall be advised by all officers of the names and specific
 information of spouses, and/or dependents who are to be included on the health
 insurance policy.
-5.
+5\.
 
 List of Health Services
 
@@ -6523,13 +6523,13 @@ cover health services provided in the general broad areas—
 (b) Services for non-hospitalised care;
 (c) Health services when travelling;
 (d) Other services including diagnosis when required.
-6.
+6\.
 
 Budget
 
 The health insurances shall be paid by the annual budget allocated to
 diplomatic and consular missions.
-7.
+7\.
 
 Procedures—
 (a) The Head of a Diplomatic Mission shall be authorised to perform

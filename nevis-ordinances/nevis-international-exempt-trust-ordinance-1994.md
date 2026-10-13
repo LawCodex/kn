@@ -100,13 +100,13 @@ Repealed
 
 POWERS OF THE COURT
 
-25.
-26.
-27.
-28.
-29.
-30.
-31.
+25\.
+26\.
+27\.
+28\.
+29\.
+30\.
+31\.
 
 Jurisdiction of the court
 General powers of the court
@@ -124,11 +124,11 @@ Payment of costs
 
 TRUSTEES, PROTECTORS AND BENEFICIARIES
 
-32.
-33.
-34.
-35.
-36.
+32\.
+33\.
+34\.
+35\.
+36\.
 
 Beneficiaries of trusts
 Disclaimer of beneficial interest
@@ -140,12 +140,12 @@ Corporate trustees
 
 REGISTRATION OF INTERNATIONAL TRUSTS
 
-37.
-38.
-39.
-40.
-41.
-42.
+37\.
+38\.
+39\.
+40\.
+41\.
+42\.
 
 Registration of trusts
 Annual certificate of Registration
@@ -164,17 +164,17 @@ Exemption from taxes and duties
 
 MISCELLANEOUS
 
-48.
-49.
-50.
-51.
-52.
-53.
-54.
-55.
-56.
-57.
-58.
+48\.
+49\.
+50\.
+51\.
+52\.
+53\.
+54\.
+55\.
+56\.
+57\.
+58\.
 
 Commencement of proceedings
 Investments
@@ -196,21 +196,21 @@ Regulations
 
 MISCELLANEOUS
 
-59.
-60.
-61.
-62.
-63.
-64.
-65.
-66.
-67.
-68.
-69.
-70.
-71.
-72.
-73.
+59\.
+60\.
+61\.
+62\.
+63\.
+64\.
+65\.
+66\.
+67\.
+68\.
+69\.
+70\.
+71\.
+72\.
+73\.
 
 Commencement of proceedings
 Investments
@@ -347,7 +347,7 @@ Proper law of
 International
 trusts
 
-4.
+4\.
 
 (1) Subject to sub-section (4) below, the proper law of
 an international trust shall be (a) the law expressed by the terms of the trust or
@@ -398,7 +398,7 @@ trusts and of
 accumulation
 of income
 
-5.
+5\.
 
 (1) Subject to sub-section (2), the maximum duration of an
 international trust shall be one hundred years from the date of its
@@ -457,7 +457,7 @@ is a beneficiary is hereby abolished.
 Charitable
 Trusts
 
-7.
+7\.
 
 (1) For the purposes of this Ordinance and subject to subsections
 (2) and (3) below, the following purposes shall be regarded as
@@ -482,7 +482,7 @@ Trusts for
 non-charitable
 purposes
 
-8.
+8\.
 
 (1) An international trust may be created for a purpose which is
 non-charitable provided that
@@ -502,7 +502,7 @@ date of appointment exercise the functions of the trust.
 Protector of
 a trust
 
-9.
+9\.
 
 (1) The terms of an international trust may provide for the office
 of protector of the trust.
@@ -534,7 +534,7 @@ Failure or
 lapse of
 interest
 
-10.
+10\.
 
 (l) Subject to the terms of the international trust and to any order
 of the Court, where (a) an interest lapses;
@@ -551,7 +551,7 @@ established for a charitable purpose to which section 11 applies.
 Failure of
 charitable trust
 
-11.
+11\.
 
 (1) Where international trust property is held for a charitable
 purpose and(a) the purpose has been, as far as may be, fulfilled;
@@ -597,7 +597,7 @@ Termination of
 international
 trust
 
-12.
+12\.
 
 (1) On the termination of an international trust the trust property
 shall, subject to sub-section (2), be distributed by the trustee
@@ -627,7 +627,7 @@ Liability
 for breach
 of trust
 
-14.
+14\.
 
 (1) Subject to the provisions of this Ordinance and to the terms
 of the trust, a trustee who commits or concurs in a breach of
@@ -680,7 +680,7 @@ Beneficiary may
 relieve or
 indemnify trust
 
-17.
+17\.
 
 (1) A beneficiary may relieve a trustee of liability to him for a
 breach of trust or indemnify a trustee against liability for a
