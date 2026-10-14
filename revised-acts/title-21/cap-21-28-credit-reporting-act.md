@@ -1,0 +1,3865 @@
+---
+title: "Credit Reporting Act"
+identifier: "Cap. 21.28"
+type: act
+jurisdiction: kn
+language: en
+last_amended: 2020-12-31
+status: in_force
+edition: "Revised Edition, 2020 Supplement (as at 31 December 2020)"
+source: "https://lawcommission.gov.kn/wp-content/documents/Revised-Acts-of-St-Kitts-and-Nevis/Revised-Acts-of-St-Kitts-and-Nevis-2020/Ch-21_28-Credit-Reporting-Act.pdf"
+retrieved: 2026-10-15
+---
+
+# Credit Reporting Act
+
+ST. CHRISTOPHER AND NEVIS
+
+## CHAPTER 21.28
+
+CREDIT REPORTING ACT
+and Subsidiary Legislation
+
+Revised Edition
+showing the law as at 31 December 2020
+This is a revised edition of the law, prepared by the Law Commission under the authority of the
+Law Commission Act, Cap. 1.03.
+This edition contains a consolidation of the following laws—
+
+CREDIT REPORTING ACT
+
+Page
+3
+
+Act 11 of 2018 … in force 21st February 2019 (S.R.O. 15/2019)
+
+CREDIT REPORTING REGULATIONS — Section 56
+S.R.O. 13/2019
+
+Printed under Authority by
+The Regional Law Revision Centre Inc.
+ANGUILLA
+
+This booklet is published in
+Consolidated, Revised and Prepared under the Authority of the Law Commission Act,
+on behalf of the Government of Saint Christopher and Nevis
+By
+The Regional Law Revision Centre Inc.
+P.O. Box 1626, 5 Mar Building,
+The Valley, AI-2640, Anguilla
+
+Available for purchase from—
+Attorney General’s Chambers
+Government Headquarters, P.O.Box 164,
+Church Street, Basseterre, St.Kitts, West Indies
+
+Tel: (869) 465-2521
+Ext. 1013
+Tel: (869) 465-2127
+Fax: (869) 465-5040
+Email: attorneygeneral@gov.kn
+
+Printed on the authority and on behalf of the Government of Saint Christopher and Nevis
+
+## CHAPTER 21.28
+
+CREDIT REPORTING ACT
+
+## ARRANGEMENT OF SECTIONS
+
+## PART I
+
+PRELIMINARY
+1\.
+2\.
+
+Short title
+Interpretation
+
+## PART II
+
+ADMINISTRATION
+3\.
+
+Powers, duties and functions of Central Bank
+
+## PART III
+
+LICENSING OF CREDIT BUREAUS
+4\.
+5\.
+6\.
+7\.
+8\.
+9\.
+10\.
+11\.
+12\.
+13\.
+14\.
+15\.
+16\.
+
+Requirement for licence
+Application for licence
+Evaluation of application
+Grant of licence
+Refusal to grant licence
+Terms and conditions of licence
+Display of license
+Restrictions on transfer of licence, etc.
+Restrictions on employment of certain persons
+Payment of fees
+Material changes in circumstances affecting credit bureau, etc.
+Suspension and revocation of licence
+Publication of grant of licences, etc.
+
+## PART IV
+
+CREDIT REPORTING
+17\.
+18\.
+19\.
+20\.
+21\.
+22\.
+23\.
+24\.
+25\.
+26\.
+
+Activities of credit bureau
+Requirement for consent
+Credit reports
+Permissible purposes
+Data management and quality control
+Security and control measures
+Data subjects’ right of access and correction
+Duty to maintain records and credit information
+Restrictions regarding disclosure of data subject information
+Supplying false information prohibited
+
+27\.
+28\.
+29\.
+30\.
+31\.
+32\.
+
+Credit Reporting Act
+
+Credit information providers
+Adverse actions against data subjects
+Void agreements
+Resolution of disputes and complaints
+Cross-border data flow
+Periodic returns
+
+## PART V
+
+SUPERVISION BY THE CENTRAL BANK
+33\.
+34\.
+35\.
+36\.
+37\.
+38\.
+39\.
+
+Information gathering powers
+Inspections
+Entry and search of premises
+Order by Central Bank
+Costs of inspections
+Auditors and annual reports
+Court order
+
+## PART VI
+
+CIVIL LIABILITY
+40\.
+
+Civil liability for non-compliance
+
+## PART VII
+
+CREDIT REPORTING REVIEW COMMISSION
+41\.
+42\.
+43\.
+44\.
+
+Appointment of Review Commission
+Right to review
+Review proceedings
+Decisions of Review Commission
+
+## PART VIII
+
+APPEALS
+45\.
+46\.
+
+Appeals to High Court
+Appeals to Court of Appeal
+
+## PART IX
+
+MISCELLANEOUS PROVISIONS
+47\.
+48\.
+49\.
+50\.
+51\.
+
+Agreements with other bodies, etc.
+Confidentiality
+Evidence regarding certificate of Central Bank
+General offences and penalties
+Fixed penalties
+
+52\.
+53\.
+54\.
+55\.
+56\.
+57\.
+
+Credit Reporting Act
+
+CAP. 21.28
+
+Offences by credit bureau or other entity
+Defences in criminal proceedings
+Immunity
+Protection of databases upon liquidation
+Regulations
+Amendment of Schedules
+
+## FIRST SCHEDULE:
+
+Public Registries
+SECOND SCHEDULE: Constitution, Operations and Procedures of the
+Review Commission
+
+## THIRD SCHEDULE:
+
+Credit Reporting Regulations
+
+## CHAPTER 21.28
+
+CREDIT REPORTING ACT
+AN ACT TO PROVIDE FOR A FAIR AND AN ACCURATE CREDIT REPORTING SYSTEM WITHIN
+THE FINANCIAL SYSTEM IN ORDER TO ASSURE OBJECTIVE CREDIT DECISIONS; TO ENABLE
+CREDIT INFORMATION SHARING AND REPORTING; TO PROVIDE FOR THE REGULATION OF
+THE CONDUCT OF CREDIT REPORTING AND CREDIT REPORTING SERVICES; TO PROVIDE
+SAFEGUARD FOR DATA PROTECTION FOR CUSTOMERS OF CREDIT PROVIDERS; TO PROVIDE
+FOR A SINGLE SPACE IN THE REGULATION OF CREDIT REPORTING AND FOR RELATED
+MATTERS.
+
+## PART I
+
+PRELIMINARY
+Short title.
+
+### 1.
+
+This Act may be cited as the Credit Reporting Act.
+
+Interpretation.
+
+### 2.
+
+In this Act unless the context otherwise requires—
+
+“access log” means a record of every access gained to the credit information of a data
+subject held by a credit bureau, other than access that is automatically
+generated by the credit bureau;
+“adverse action” in relation to a data subject, means a decision based on data subject
+information that is obtained from a credit bureau—
+(a) to charge a higher interest rate payable by the data subject in respect of
+a loan;
+(b) to deny the data subject a loan;
+(c) to cancel a loan made to the data subject; or
+(d) that otherwise negatively affects a transaction between the data subject
+and a credit provider;
+“adverse action notice” means a written notice issued under section 28;
+“applicant” means a person who makes an application, under section 5, for a licence;
+“Central Bank” means the Eastern Caribbean Central Bank established under Article
+3 of the Eastern Caribbean Central Bank Agreement 1983;
+“chief executive officer” means the most senior decision making officer in a credit
+bureau who is responsible for—
+(a) carrying out the policies of the board of directors; and
+(b) reporting to the board of directors,
+whether or not that person is formally designated as the chief executive
+officer;
+
+“Civil Procedure Rules” means the Eastern Caribbean Supreme Court Civil
+Procedure Rules 2000; “credit” includes—
+(a) any money lent or made available to a person for which immediate
+payment is not demanded but an obligation of repayment exists as of a
+future date; and
+(b) a contract, an agreement or an undertaking to provide a loan, property
+or service to a person, while deferring payment;
+“credit bureau” means an entity incorporated under the Companies Act, Cap. 21.03
+that—
+(a) is licensed under section 7 to carry out the activities listed in section
+17; and
+(b) may operate for gain or profit or on a regular, cooperative, non-profit
+basis;
+“credit file” means the information about the data subject’s credit, identification and
+other information collected, kept, maintained or otherwise processed, in
+electronic form or otherwise, by a credit bureau from which a credit report is
+generated;
+“credit information” means any positive or negative information bearing on a data
+subject’s credit worthiness, credit standing, credit capacity, character, general
+reputation, personal characteristics or mode of living including, but not limited
+to, the history or profile of the data subject with regard to credit, assets or
+financial obligations;
+“credit information provider” means a person specified in section 27 that gives, to a
+credit bureau, credit information on a data subject;
+“credit provider” includes—
+(a) a person that carries on a business involving—
+(i) the provision of credit to another person; and
+(ii) the selling of goods on hire purchase or credit sales under the Sale
+of Goods Act, Cap. 18.30; and
+(b) any other entity designated as a credit information provider under
+section 27(3);
+“credit report” means a comprehensive account prepared by a credit bureau, in
+electronic or hard copy format, that includes personal identification and credit
+information on a data subject;
+“credit reporting service” means any activity listed in section 17(2);
+“credit score” means information processed by a credit bureau that is used for
+evaluating the probability of a data subject fulfilling its financial obligations
+associated with a loan;
+“Currency Union” refers collectively to the territories of Anguilla, Antigua and
+Barbuda, The Commonwealth of Dominica, Grenada, Montserrat, Saint
+Christopher and Nevis, Saint Lucia and Saint Vincent and the Grenadines
+which use the Eastern Caribbean currency as their official currency;
+“database” means a collection of data subject information compiled, maintained or
+otherwise processed by a credit bureau;
+“data subject” includes any person—
+
+(a) whose information has, or may have, been furnished to the credit
+bureau by reason of a contractual relationship with a credit provider, a
+loan application signed by the person, or any other legitimate purpose;
+(b) who is a guarantor of a person referred to in paragraph (a);
+“data subject information” includes any information relating to the credit information
+or personal information of a data subject, whether such information is obtained
+from the data subject, a third party or specified public register, that may be
+processed under this Act or the Regulations;
+“director” means a member of the board of directors of a credit bureau;
+“Eastern Caribbean Central Bank Agreement” means the Agreement establishing the
+Eastern Caribbean Central Bank made on the 5th day of July, 1983, the text of
+which is set out in the Schedule to the Eastern Caribbean Central Bank
+Agreement Act, Cap. 21.06 and any revisions made thereto;
+“entity” means a body corporate and any unincorporated association or organisation,
+but does not include an individual;
+“law enforcement agency” means a legally authorised body with responsibility for the
+enforcement of any law;
+“licence” means a licence granted under Section 7;
+“loan” includes—
+(a) direct, indirect or contingent obligations incurred by a data subject
+with a third party;
+(b) any discount, advance or overdraft;
+(c) export bills purchased or other bills receivable purchased;
+(d) import bills, or data subjects’ liability on off-balance sheet items; and
+(e) any other credit facilities extended to a data subject by a credit
+provider;
+“material change in circumstances” has the meaning assigned to it in section 14;
+“Minister” means the Minister with responsibility for Finance;
+“Monetary Council” means the Monetary Council established under Article 7 of the
+Eastern Caribbean Central Bank Agreement 1983;
+“negative information” in relation to the delinquent status of a credit transaction
+between a data subject and a credit provider, includes—
+(a) credit defaults, collections and late payments;
+(b) accounts compulsorily closed other than for administrative reasons;
+(c) voluntary or mandatory surrender of assets;
+(d) conviction for the offence of fraud or forgery;
+(e) receiverships, bankruptcies and liquidations;
+(f) liens, garnishment or judgments;
+(g) cheque kiting activity;
+(h) refusal to provide business financial statements; and
+
+(i) any other act or information which could cause a credit application to
+be declined or restricted according to a credit provider’s policy
+relating to the overdue, past due, charge off, or delinquent status of the
+credit transaction between the data subject and the credit provider;
+“officer” includes the chief executive officer, chief financial officer, treasurer and
+chief internal auditor of a credit bureau;
+“operations systems” includes the design of the data collection systems of an
+applicant;
+“payment history” in relation to a data subject, means a detailed compilation of the
+past and current payment behaviour of the data subject;
+“personal information” in relation to a data subject, means—
+(a) in the case of an individual—
+(i) the full name;
+(ii) an alias or previous name;
+(iii) the gender;
+(iv) the date of birth;
+(v) the Social Security number;
+(vi) the passport number;
+(vii) the driving licence number;
+(viii) past and current addresses; and
+(ix) any other contact information of the individual; and
+(b) in the case of an entity—
+(i) the full business name;
+(ii) any previous business name;
+(iii) the registration number;
+(iv) the Social Security registration number;
+(v) the tax identification number, where relevant;
+(vi) the current registered address;
+(vii) the past registered addresses, if any;
+(viii)names of the directors and significant shareholders; and
+(ix) any other contact information of the entity;
+“positive information” means any information relating to the current or historical
+status of a credit transaction between a data subject and a credit provider
+including, but not limited to—
+(a) the date on which an account was opened;
+(b) the amount of the loan;
+(c) the date of the last payment;
+(d) any outstanding credit;
+(e) any high credit approved;
+
+(f) the amount of payments;
+(g) the payment history;
+(h) the current balance;
+(i) the repayment patterns;
+(j) the utilization of credit; and
+(k) any collateral pledged;
+“process” means to—
+(a) collect, keep, maintain, hold or store the credit information; or
+(b) carry out any operation or set of operations on the credit information,
+including—
+(i) the organisation or adaptation of the credit information;
+(ii) the retrieval, consultation or use of the credit information;
+(iii) the disclosure of the credit information by transmission, transfer
+or dissemination; and
+(iv) the alignment, combination, correction, erasure or destruction of
+the credit information;
+“record” means any book, paper or document, whether in electronic form or
+otherwise, that contains or may contain information regarding the finances or
+business of the credit bureau;
+“Regulations” means regulations made under this Act;
+“Review Commission” means the Review Commission appointed under section 41 of
+this Act;
+“specified public register” means a public register kept and maintained in a public
+registry listed in the First Schedule;
+“subscriber” means any person who is entitled—
+(a) pursuant to a subscriber agreement; or
+(b) under this Act,
+to receive from a credit bureau credit reports or value added products;
+“subscriber agreement” means a written agreement that provides a credit information
+provider or a subscriber with the terms and conditions upon which data subject
+information may be disclosed to, or may be accessed from, a credit bureau;
+“value added product” means a credit score or any other product that a credit bureau
+develops, within the limits imposed by this Act, to increase the value of the
+credit reporting services that the credit bureau provides;
+“writing” includes communicating by facsimile transmission, electronic mail and any
+other mode of representing or reproducing words in visible form.
+
+## PART II
+
+ADMINISTRATION
+Powers, duties and functions of Central Bank.
+
+### 3.
+
+(1) The Central Bank shall be responsible for—
+(a) the overall management of this Act; and
+(b) the day-to-day administration, supervision and implementation of this
+Act and the Regulations.
+
+(2) Without prejudice to the generality of subsection (1), the Central Bank
+shall—
+(a) regulate and supervise the permissible activities of credit bureaus,
+credit information providers, subscribers and their agents in the
+Currency Union under this Act;
+(b) issue standards and targets regarding the provision of credit reporting
+services under this Act and the Regulations;
+(c) maintain proper standards of conduct and acceptable credit reporting
+practices;
+(d) protect the integrity of the credit reporting system in St. Christopher
+and Nevis, against abuses; and
+(e) take measures to protect the rights and interests of data subjects.
+(3) In the exercise of its duties and functions under subsections (1) and (2), the
+Central Bank may—
+(a) grant licences to credit bureaus in the Currency Union;
+(b) in accordance with this Act and the Regulations—
+(i) evaluate every application for a licence to operate or carry on the
+business of a credit bureau;
+(ii) issue guidelines for operating a credit bureau; and
+(iii) inspect the premises, systems and operations of a credit bureau;
+(c) impose any one penalty or a combination of the penalties and
+sanctions set out in subsection (4) for contravention of this Act and the
+Regulations;
+(d) undertake any other activity necessary or expedient to give full effect
+to the provisions of this Act; or
+(e) exercise such other duties and functions as may be conferred upon or
+assigned to the Central Bank by or under this Act and the Regulations.
+(4) The penalties and sanctions referred to in subsection (3)(c) are—
+(a) a warning or reprimand to the credit bureau;
+(b) a fixed penalty in accordance with section 51;
+(c) any directive that the Central Bank considers appropriate; and
+(d) the suspension or revocation of the licence granted to the credit bureau
+in accordance with section 15.
+
+(5) The Central Bank shall make every decision respecting the exercise of its
+supervisory and regulatory responsibilities, powers, duties and functions under this
+Act in accordance with the principles of natural justice.
+
+## PART III
+
+LICENSING OF CREDIT BUREAUS
+Requirement for licence.
+
+### 4.
+
+(1) No person other than an entity which is incorporated, registered or
+continued under the Companies Act, Cap. 21.03 and licensed under this Act shall—
+(a) operate, or carry on the business of, a credit bureau in the Currency
+Union; or
+(b) use a name or description implying that the person is a credit bureau.
+(2) A person who contravenes subsection (1) commits an offence and is liable,
+on summary conviction, to a fine of not less than ten thousand dollars but not
+exceeding one hundred thousand dollars, and in the case of a continuing offence, to
+an additional fine of five thousand dollars for each day during which the offence
+continues after conviction.
+Application for licence.
+
+### 5.
+
+(1) A person who wishes to obtain a licence to operate, or carry on the
+business of, a credit bureau shall—
+(a) apply to the Central Bank in the prescribed form;
+(b) provide the Central Bank with—
+(i) an address for service in the Currency Union;
+(ii) a statement of the address of its head office and the locations of
+the principal and other places of business where the applicant
+proposes to do business in the Currency Union;
+(iii) information, to the satisfaction of the Central Bank, regarding the
+start up capital of the credit bureau specified in section 9(2);
+(iv) the prescribed particulars regarding the directors and officers of
+the applicant;
+(v) the prescribed documents and information; and
+(c) submit to the Central Bank the prescribed non-refundable application
+processing fee.
+(2) Where the Central Bank is not satisfied with the adequacy of any
+information submitted by the applicant for purposes of processing an application; the
+Central Bank may request additional information before making a final
+determination.
+Evaluation of application.
+
+### 6.
+
+(1) When evaluating an application for a licence to operate or carry on the
+business of a credit bureau in the Currency Union the Central Bank shall take into
+account all relevant matters within its discretion including—
+
+(a) the background, reputation, integrity, experience and capacity of the
+proposed directors, managers and other officers of the applicant as
+evidenced by, among other things, the curriculum vitae and
+professional qualifications of the proposed directors, managers and
+other officers of the applicant;
+(b) the business plan of the applicant, including a mechanism to integrate,
+gather, update and validate the data; and
+(c) the design of data collection for data subject information and
+flexibility in structuring the information in accordance with the Act
+and Regulations.
+(2) Without prejudice to the generality of subsection (1)(a), a person shall not
+be qualified to hold office as a director, a manager or an officer of a credit bureau if
+the person—
+(a) is a minor or is under a legal disability;
+(b) has been convicted of an offence involving theft, fraud, forgery,
+causing financial loss or perjury;
+(c) has been removed from an office of trust on account of misconduct,
+abuse of office, corruption or incompetence in the immediate
+preceding ten years from the date of the application; or
+(d) is an auditor of a credit bureau or any company associated with a
+credit bureau.
+(3) The Central Bank may, in accordance with the Act and the Regulations,
+require an applicant to provide evidence to its satisfaction regarding the professional
+and moral suitability of any proposed director, officer or significant shareholder of
+the applicant.
+(4) For the purpose of subsection (3), the Central Bank—
+(a) shall have regard to the following qualities, in so far as the qualities
+are reasonably determinable—
+(i) the general probity of the proposed director, officer or significant
+shareholder of the applicant;
+(ii) the competence and soundness of judgment of the proposed
+director, officer or significant shareholder of the applicant for the
+fulfilment of the responsibilities of the office in question; and
+(iii) the diligence with which the proposed director, officer or
+significant shareholder of the applicant is likely to fulfil the
+responsibilities referred to in sub-paragraph (ii); and
+(b) may have regard to the past conduct and activities of the proposed
+director, officer or significant shareholder of the applicant in the credit
+reporting business, and in particular, to any evidence that the person
+concerned—
+(i) has been convicted of an offence of fraud or any other offence of
+which dishonesty is an element;
+(ii) has contravened the provisions of any law designed for the
+protection of members of the public against financial loss due to
+the dishonesty or incompetence of, or malpractices by persons
+engaged in the provision of banking, insurance, investment,
+
+money services, credit union or similar cooperative institution,
+micro-finance institution or other financial services;
+(iii) was a director or an officer of a credit provider that has been
+liquidated or is under liquidation or statutory management;
+(iv) has taken part in any business practices that in the opinion of the
+Central Bank were fraudulent, prejudicial or otherwise improper
+(whether unlawful or not) or which otherwise discredited his
+method of conducting business;
+(v) has taken part in or has been associated with any other business
+practices as would cast doubt on his competence and soundness of
+judgment; or
+(vi) has otherwise conducted himself in such a manner so as to cast
+doubt on his competence and soundness of judgment.
+(5) Where the Central Bank has reason to believe that a person has relevant
+information on any proposed director, officer or significant shareholder of an
+applicant, the Central Bank may request the person having such information to
+furnish the information.
+(6) In subsection (5), “relevant information” means information in respect of
+any proposed director, officer or significant shareholder of an applicant as may be
+necessary for the purposes of this section.
+Grant of licence.
+
+### 7.
+
+(1) Subject to section 8, the Central Bank may grant to an applicant a licence
+upon—
+(a) the evaluation of an application made under section 5; and
+(b) the inspection of the premises and systems of the applicant in
+accordance with this Act and the Regulations.
+(2) A licence granted under this Part is valid from the date of the grant of the
+licence unless it is suspended or revoked in accordance with section 14.
+(3) An applicant granted a licence under this section shall pay the prescribed
+licence fee in the amount and within the time specified by the Central Bank.
+Refusal to grant licence.
+
+### 8.
+
+(1) The Central Bank may refuse to grant a licence to an applicant if—
+(a) the application is not made in accordance with this Act and the
+Regulations;
+(b) the applicant fails to meet the capital requirements specified under
+section 9(2);
+(c) the Central Bank is not satisfied that—
+(i) the applicant complied with the licensing requirements of this Act
+and the Regulations;
+(ii) the applicant and its mode of operation are suitable and are in the
+best interest of the Currency Union; and
+(iii) the applicant has paid the prescribed fees; or
+(d) the Central Bank has reasonable grounds to believe that—
+
+(i) based on the past conduct of the applicant, or any director, officer
+or representative of the applicant, the applicant is not likely to
+operate or carry on the business of a credit bureau with honesty
+and integrity and in accordance with this Act, the Regulations or
+any term or condition of the licence;
+(ii) the applicant made a false or misleading statement, with respect to
+any matter that the Central Bank considers material, in the
+application or in any of the information, particulars, declarations,
+documents or other materials submitted to the Central Bank in
+support of the application; or
+(iii) it is not in the public interest to grant the licence.
+(2) Before the Central Bank refuses to grant a licence, the Central Bank
+shall—
+(a) provide a written notice to the applicant of its intention to refuse to
+grant the licence;
+(b) where applicable, give the applicant a reasonable opportunity to make
+representations; and
+(c) where the applicant makes representations under paragraph (b), take
+the representations into consideration before making the decision.
+(3) Where the Central Bank refuses to grant a licence to an applicant, the
+Central Bank shall, in writing, promptly notify the applicant of—
+(a) the refusal and the reasons for the refusal; and
+(b) the right of review of the applicant under Part VII and the right of
+appeal under Part VIII.
+Terms and conditions of licence.
+
+### 9.
+
+(1) Subject to sections 7, 11, 12 and 14, the Central Bank may at any time—
+(a) impose upon the licence such terms and conditions as the Central Bank
+sees fit; or
+(b) amend the terms and conditions referred to in paragraph (a).
+
+(2) The Minister may, upon recommendation of the Central Bank, prescribe
+the minimum start-up capital requirements for a credit bureau.
+(3) A credit bureau shall—
+(a) adhere to the prescribed start-up capital requirements specified in
+subsection (2); and
+(b) notify the Central Bank of the fees respecting the provision of its
+credit reporting services including the value added products and any
+change in the fees.
+(4) Where a credit information provider or a beneficial owner of a credit
+information provider as the case may be is permitted to acquire shares in a credit
+bureau, the credit bureau shall restrict the aggregate share ownership in the credit
+bureau by the credit information provider or the beneficial owner of the credit
+information provider as the case may be to a maximum of forty-nine percent; but any
+such single shareholder shall hold no more than five percent of the shares of the
+credit bureau.
+
+(5) Before the Central Bank amends the terms and conditions imposed in
+respect of a licence, the Central Bank shall—
+(a) not less than fourteen working days before the commencement date of
+the proposed amendment, provide a written notice to the credit bureau
+of its intention to amend the terms and conditions of the licence and
+the reason for the proposed amendment; and
+(b) give the credit bureau not less than seven days within which to make
+representations respecting the proposed amendment of the terms and
+conditions.
+(6) A credit bureau shall comply with the terms and conditions of the licence
+granted to it by the Central Bank.
+(7) A credit bureau which fails to comply with subsection (6) commits an
+offence and is liable, on summary conviction, to a fine of ten thousand dollars.
+Display of licence.
+
+### 10.
+
+A copy of any licence granted under this Act shall be displayed conspicuously in
+the public part of any place of business of the licensed credit bureau.
+Restrictions on transfer of licence, etc.
+
+### 11.
+
+(1) A credit bureau shall not, without first obtaining, the written approval of
+the Central Bank—
+(a) transfer any licence granted to the credit bureau or reinstated under
+this Part; or
+(b) sell, lease or transfer title of any of its credit files to another credit
+bureau licensed under this Act.
+(2) A credit bureau who fails to comply with this section commits an offence
+and is liable, on summary conviction, to a fine of ten thousand dollars; and in the case
+of a continuing offence is liable to a further fine of two thousand dollars for everyday
+that the failure to comply continues after conviction.
+Restrictions on employment of certain persons.
+
+### 12.
+
+(1) A credit bureau shall not employ any person who—
+(a) is an undischarged bankrupt;
+(b) entered into a composition or scheme of arrangement with his creditor;
+(c) was convicted of an offence involving fraud or dishonesty; or
+(d) was removed from office under the provisions of this Act and the
+Regulations.
+
+(2) Where a person referred to in subsection (1) is employed by a credit
+bureau, such a person—
+(a) is disqualified from holding any post in the credit bureau; and
+(b) upon such disqualification, that person shall be ineligible to hold office
+in, or continue in the employment of, any credit bureau.
+(3) Where a credit bureau allows a disqualified person to continue acting as an
+officer or being in employment or is otherwise in breach of this section—
+
+(a) the credit bureau commits an offence and is liable, on summary
+conviction, to a fine of ten thousand dollars and in the case of a
+continuing offence is liable to a further fine of two thousand dollars
+for everyday that the breach continues after conviction; and
+(b) the disqualified person acting as an officer or employee of the credit
+bureau commits an offence and is liable, on summary conviction, to a
+fine of ten thousand dollars or to imprisonment for a term of six
+months.
+Payment of fees.
+
+### 13.
+
+(1) A credit bureau shall pay a fee to the Central Bank in the amount
+prescribed by the Minister on the recommendation of the Central Bank—
+(a) upon the grant of a licence under section 7(2);
+(b) for the annual licence fee; or
+(c) the reinstatement of a licence under section 15(5).
+(2) The Minister may by order and on the recommendation of the Central
+Bank, vary—
+(a) the application processing fee under section 5(1)(c);
+(b) the fee payable upon the grant of a licence under section 7(2);
+(c) the annual licence fee under subsection (1); or
+(d) the reinstatement fee under subsection 15(5).
+(3) Where a licence is granted after the first quarter in any year, the fee
+payable upon the grant of the licence shall be calculated on a pro rata basis.
+year.
+
+(4) The annual licence fee shall be paid before the 1st day of February in each
+
+(5) Where a credit bureau fails to pay the annual licence fee before the 1st day
+of February in any year, the credit bureau shall pay double the annual licence fee if
+the payment of the annual licence fee is made before the 1st day of May in that year.
+(6) If, a credit bureau fails to pay the annual licence fee before the 1st day of
+May in any year in accordance with subsection (5) the Central Bank may, in
+accordance with section 15, suspend or revoke the licence of the credit bureau.
+Material change in circumstances affecting credit bureau, etc.
+
+### 14.
+
+(1) An applicant or a credit bureau shall first obtain the written approval of the
+Central Bank before the credit bureau or applicant implements or initiates any of the
+following material change in its circumstances—
+(a) merger or consolidation with another credit bureau;
+(b) a change of the name of the applicant or the credit bureau;
+(c) an amendment of the Memorandum or Articles of Association or any
+other constituent document under which the credit bureau is
+incorporated, registered or continued;
+(d) engaging in any business other than that of a credit bureau;
+(e) a change of majority shareholding or ownership;
+(f) a relocation;
+
+(g) any change in system of the credit bureau that would—
+(i) cause credit information providers to incur significant additional
+cost; or
+(ii) put the security of data processed by the credit bureau at risk; and
+(h) a change in the directors, chief executive officer or manager.
+(2) An applicant or, as the case may be, the credit bureau shall, in writing and
+within seven days of the occurrence of the change, notify the Central Bank of any of
+the following—
+(a) a change in the directors, chief executive officer or managers of the
+applicant or credit bureau due to any reason including death,
+retirement, resignation or termination; or
+(b) a change in circumstances affecting an applicant or a credit bureau due
+to the occurrence of an event over which an applicant or credit bureau
+has no control.
+(3) Where an applicant or a credit bureau as the case may be fails to comply
+with subsection (1) or (2) the Central Bank may—
+(a) in accordance with section 8, refuse to grant a licence to the applicant
+or, to renew the licence of the credit bureau as the case may be;
+(b) in accordance with section 9, amend the terms and conditions of the
+licence of the credit bureau; or
+(c) suspend or revoke the licence of the credit bureau in accordance with
+section 15.
+(4) Where the Central Bank receives information that, by reason of death,
+retirement, resignation or termination, there has been a change in the directors, chief
+executive officer or managers of an applicant or a credit bureau, the Central Bank
+may—
+(a) in accordance with section 8, refuse to grant a licence to the applicant
+or, to renew the licence of the credit bureau as the case may be;
+(b) in accordance with section 9, amend the terms and conditions of the
+licence of the credit bureau; or
+(c) suspend or revoke the licence of the credit bureau in accordance with
+section 15.
+(5) Where, by reason of the act of a director, the chief executive officer or a
+manager of a credit bureau, the credit bureau engages in any business other than that
+of a credit bureau or the security of data held and maintained by the credit bureau is
+put at risk, the Central Bank may require the removal of the director, chief executive
+officer or manager, as the case may be.
+Suspension and revocation of licence, etc.
+
+### 15.
+
+(1) The Central Bank may suspend or revoke a licence granted to a credit
+bureau—
+(a) if the credit bureau—
+(i) provides the Central Bank with false or inaccurate information;
+
+(ii) does not commence operations within twelve months from the
+date of the grant of the licence, or a longer period as may be
+agreed between the Central Bank and the credit bureau;
+(iii) is in breach of any duty or obligation imposed upon it by this Act
+or the Regulations;
+(iv) has committed an offence of misrepresentation or fraud or other
+dishonest act in relation to business; or
+(v) demonstrates incompetence or untrustworthiness in the operation
+of its business;
+(b) if the credit bureau fails to comply with—
+(i) any term or condition imposed on it in respect of the licence
+granted to it;
+(ii) any provision of this Act or any other law to which it is subject; or
+(iii) any direction issued under this Act or the Regulations within the
+time specified;
+(c) if the Central Bank reasonably believes that—
+(i) the carrying on of business by the credit bureau is no longer in the
+interest of the public; or
+(ii) the rights and interests of the subscribers or the data subjects of
+the credit bureau are threatened; or
+(d) on any ground on which the Central Bank might have refused to grant
+the licence under section 8.
+(2) Before the Central Bank suspends or revokes a licence granted to a credit
+bureau, the Central Bank shall—
+(a) provide to the credit bureau a notice in the prescribed form of its
+intention to suspend or revoke the licence and the reason for the
+intended suspension or revocation; and
+(b) give the credit bureau a reasonable opportunity to make representation
+regarding the intended suspension or revocation of the licence.
+(3) Where a credit bureau makes any representation under this section in
+respect of the intended suspension or revocation of its licence, the Central Bank
+shall—
+(a) upon consideration of the representation, make a decision; and
+(b) in accordance with subsection (4), notify the credit bureau of its
+decision.
+(4) Where the Central Bank suspends or revokes a licence under this section—
+(a) the Central Bank shall give to the credit bureau a notice in writing of
+its decision—
+(i) stating the reasons for the decision; and
+(ii) informing the credit bureau of its right of review under Part VII
+and the right of appeal under Part VIII; and
+(b) the credit bureau shall, as of the date of receipt of the notice referred to
+in paragraph (a), cease to carry on the business of a credit bureau.
+
+(5) The Central Bank may—
+(a) at any time after the period of suspension ends; and
+(b) upon receipt of the prescribed reinstatement fee,
+reinstate a licence that was suspended if the Central Bank considers it appropriate to
+do so.
+Publication of grant of licences, etc.
+
+### 16.
+
+The Central Bank shall cause notice of the grant, suspension, revocation or
+reinstatement of every licence to be published in the Gazette.
+
+## PART IV
+
+CREDIT REPORTING
+Activities of credit bureau.
+
+### 17.
+
+(1) A credit bureau shall not engage in activities other than activities specified
+in subsection (2) and the Regulations or as approved by the Central Bank in
+accordance with this Act.
+(2) A credit bureau shall engage in the following activities—
+(a) compile and maintain databases in respect of data subject information
+and generate reports from such databases;
+(b) store, manage, evaluate, update and disseminate data subject
+information to subscribers in accordance with this Act and the
+Regulations;
+(c) where applicable, provide a credit information provider a reasonable
+opportunity to correct any inaccurate, illegal, incomplete or otherwise
+deficient information contained in the credit file of a data subject kept
+and maintained by the credit information provider;
+(d) develop and make available to subscribers value added products in
+relation to credit reporting services;
+(e) carry out market and statistical research relating to matters set out
+under this Act and the Regulations;
+(f) provide, on a consistent basis, consultancy and training regarding
+credit reporting including the publication of educational material;
+(g) obtain or otherwise process credit information from any specified
+public register under the First Schedule; and
+(h) carry out such other activity as the Central Bank may, from time to
+time, approve in accordance with this Act and the Regulations.
+(3) A credit bureau shall implement appropriate business continuity measures
+for the purpose of ensuring that its credit reporting services are available to its
+subscribers without any disruption that causes harm or is likely to cause harm to the
+rights or interests of its subscribers.
+
+Requirement for consent.
+
+### 18.
+
+(1) A person may not inquire on the credit information respecting any data
+subject without first obtaining the consent of the data subject.
+(2) A credit information provider may disclose to a credit bureau both
+negative and positive credit information without first obtaining consent from a data
+subject if the credit information provider provides notice to the data subject that
+credit and personal information may be disclosed to a credit bureau.
+(3) The notice in subsection (2) may be given by the credit information
+provider through posting a notice—
+(a) at its place of business;
+(b) on the website of the credit information provider;
+(c) or by any method that the credit information provider deems
+appropriate.
+(4) Subject to subsection (8) and the Regulations, a person other than a data
+subject may, with the consent of the data subject, obtain a credit report in respect of
+the data subject for a permissible purpose referred to in section 20.
+(5) The consent of the data subject—
+(a) may be obtained by electronic means or by any method that permits a
+subscriber to produce valid evidence respecting the consent of the data
+subject, including prominently displaying the information regarding
+the consent in a clear and comprehensible manner in an application for
+credit, insurance, employment or tenancy or any other contract or
+agreement; and
+(b) expires when the contract respecting the credit relationship between
+the credit provider, subscriber or credit information provider and the
+data subject is terminated; but the credit information respecting the
+data subject shall remain in the database of the credit bureau in
+accordance with section 25.
+(6) Subject to subsection (4) a credit bureau shall, in releasing or transmitting
+data subject information to a person—
+(a) verify and validate the identity and consent of the data subject; and
+(b) use reasonable means of transmission that ensures that the data subject
+information is not altered, modified or corrupted during the
+transmission.
+(7) Any person who obtains information regarding a data subject from a credit
+bureau under false pretences commits an offence and is liable, on summary
+conviction, to a fine of not less than ten thousand dollars but not exceeding one
+hundred thousand dollars.
+(8) Subsection (4) does not apply if the data subject information is required—
+(a) in response to an order of a court of competent jurisdiction;
+(b) to avoid prejudice to the administration of justice including the
+prevention, detection, investigation, prosecution or punishment of
+offences by any public sector agency;
+(c) to enable an insurer to investigate any allegation of insurance fraud;
+(d) for the enforcement of any law imposing a pecuniary penalty;
+
+(e) for the protection of the public revenue;
+(f) for the conduct of proceedings before any court or tribunal;
+(g) to be used in a form in which the identity of the data subject concerned
+is protected; or
+(h) for statistical or research purposes and is not to be published in a form
+that could reasonably be expected to identify the data subject
+concerned.
+Credit reports.
+
+### 19.
+
+(1) A person may—
+(a) request from a credit bureau a credit report or any value added product
+in respect of a data subject; or
+(b) inquire from a credit bureau credit information in respect of a data
+subject.
+
+(2) Subject to subsection (3) and in accordance with the Regulations, every
+credit report in respect of a data subject issued by a credit bureau shall contain
+information that—
+(a) is processed from credit information furnished by the appropriate
+credit information providers in accordance with this Act; and
+(b) is valid, up-to-date, fit-for the purpose, accurate and relevant.
+(3) A credit bureau shall not include, in a credit report-—
+(a) information relating to any judgment against a data subject in relation
+to a judgment creditor unless mention is made of—
+(i) the amount of the judgment;
+(ii) the age of the judgment; and
+(iii) the name and, if available, the address of the judgment creditor or
+the agent of the judgment creditor at the date of entry of the
+judgment;
+(b) information regarding the race, religion, creed, colour, medical
+information, ancestry, ethnic origin or political affiliation of a data
+subject or any other sensitive or personal information of a data subject;
+or
+(c) information retained in contravention of section 25.
+(4) A credit bureau shall not—
+(a) provide any report that lists all data subjects with good payment
+history unless there is a permissible purpose regarding such listing; or
+(b) omit from any credit report of a data subject any information that can
+impact the ability of the data subject to access credit.
+(5) A credit bureau shall—
+(a) adopt all reasonable procedures to ensure that every credit report
+issued by that credit bureau is accurate, timely and sufficient; and
+(b) have rigorous standards of security and reliability regarding the credit
+report.
+
+(6) A credit bureau commits an offence if the credit bureau fails to comply
+with subsection (3), (4) or (5) and is liable, on summary conviction, to a fine not less
+than ten thousand dollars but not exceeding one hundred thousand dollars.
+Permissible purposes.
+
+### 20.
+
+(1) A credit bureau may not knowingly provide to any person any information
+from the credit files of a data subject except for a permissible purpose specified in
+subsection (2).
+(2) A credit bureau may, with the consent of a data subject, provide to a
+subscriber a credit report or value added product in respect of the data subject, on the
+basis of information contained in the credit file of the data subject for—
+(a) the consideration of—
+(i) an application for credit; or
+(ii) an offer to act as a guarantor of an application for credit;
+(b) use in connection with—
+(i) the purchase or collection of a debt of a data subject;
+(ii) the entering into or renewal of a tenancy agreement with a data
+subject; or
+(iii) the underwriting of insurance involving a data subject;
+(c) use relating to the pre-employment check of a data subject for a
+position that entails significant financial responsibilities;
+(d) periodic portfolio monitoring and risk assessment purposes, collection
+and skip tracing; or
+(e) any other permissible purpose as may be provided by Regulations.
+(3) Where a person requires, from a credit bureau, data subject information for
+any permissible purpose under this Act—
+(a) the person shall—
+(i) submit sufficient information to the credit bureau to enable the
+credit bureau to confirm and validate the identity of the data
+subject and the identity of the person requesting the information;
+(ii) submit evidence of data subject consent;
+(iii) agree to properly dispose of data subject information so that the
+data subject information cannot reasonably be read or
+reconstructed; and
+(iv) demonstrate adequate level of security and control in its systems
+to ensure that data received by it is protected;
+(b) the credit bureau shall, before releasing the information required—
+(i) confirm that the consent of the data subject is obtained;
+(ii) confirm and validate the identity of both the data subject and the
+person requiring the information; and
+(iii) ensure that the integrity of the information provided is not altered
+during the transmission of the data subject information.
+
+(4) A person who obtains data subject information under this section shall
+ensure that the information is used only for the purpose for which it was obtained.
+(5) A credit bureau may provide a data subject with a copy of the data’s
+subject’s own credit report, provided it confirms and validates the identity of the data
+subject prior to disclosing this information.
+(6) A credit bureau commits an offence if the credit bureau wilfully discloses
+data subject information in contravention of the provisions of this section and is
+liable, on summary conviction, to a fine not less than ten thousand dollars but not
+exceeding one hundred thousand dollars.
+Data management and quality control.
+
+### 21.
+
+(1) A credit bureau shall—
+(a) establish, implement and maintain protocols and procedures to ensure
+that the credit information registered in its database or otherwise
+processed by it is securely stored and complete and up to date at all
+times;
+(b) implement strict quality control procedures to ensure the maximum
+possible accuracy and completeness of its database;
+(c) take all such steps as are necessary to ensure that the data subject
+information that it processes is up to date, reliable, accurate and
+comprehensive;
+(d) implement any other procedures necessary to ensure compliance with
+this Act;
+(e) ensure that the measures, procedures, and steps taken under this
+subsection are fair, adequate, relevant, and reasonable; and
+(f) ensure that the data subject information is disclosed only in
+accordance with a permissible purpose provided for under section 20.
+
+(2) A credit bureau that contravenes subsection (1) commits an offence and is
+liable, on summary conviction, to a fine not less than ten thousand dollars but not
+exceeding one hundred thousand dollars.
+Security and control measures.
+
+### 22.
+
+(1) A credit bureau shall, in respect of data subject information processed by
+it, have in place the appropriate, technical, and institutional data security measures
+and safeguards to protect the data subject information in its custody or control.
+(2) Without limiting the generality of subsection (1), a credit bureau shall, in
+respect of data subject information processed by it—
+(a) put in place suitable physical and electronic data security and control
+measures;
+(b) implement the necessary managerial procedures and commercially
+reasonable data security safeguards for the purpose of safeguarding the
+data subject information against—
+(i) misuse or unauthorised access to, and disclosure of, the data
+subject information;
+(ii) illegal interception or interruption of the data subject information
+during exchange or otherwise processing of the information;
+
+(iii) loss, destruction, corruption, inappropriate alteration or
+modification, or inappropriate disclosure of the data subject
+information; or
+(iv) other misuse regarding the data subject information, including
+misuse by anyone with authorised access to the data subject
+information;
+(c) keep and maintain or cause to be maintained an access log regarding—
+(i) access by any person authorised to access the data subject
+information; and
+(ii) every procedure performed by any person referred to in
+subparagraph (i); and
+(d) make available, upon request, to the data subject the name of every
+subscriber who obtains access to the data subject information and the
+date of access.
+(3) In accordance with subsections (2)(a) and (b), every credit bureau shall,
+for the purpose of safeguarding the data subject information which it processes
+against misuse or unauthorised access—
+(a) develop written policies and procedures, to be followed by its
+employees, agents and contractors, respecting the provision of credit
+reporting services under this Act and the Regulations;
+(b) ensure that a person accesses data subject information processed by
+that credit bureau only by using a password, credential token or other
+access authentication control mechanism;
+(c) ensure that data subject information is disclosed to a subscriber only in
+accordance with this Act and the terms of a subscriber agreement;
+(d) provide training to its employees, agents and contractors so as to
+ensure compliance with the policies and procedures referred to in
+paragraph (a);
+(e) monitor usage of, and regularly check compliance with—
+(i) the subscriber agreement, policies, procedures and control
+mechanisms under paragraphs (a), (b) and (c); and
+(ii) the requirements of this Act and the Regulations;
+(f) identify and investigate possible breaches of—
+(i) the subscriber agreement, policies, procedures and control
+mechanisms specified under paragraphs (a), (b) and (c); and
+(ii) the requirements of this Act and the Regulations;
+(g) take prompt and effective action in respect of any breach identified
+under paragraph (f); and
+(h) systematically review the effectiveness of the policies, procedures and
+authentication control mechanisms specified under paragraphs (a) and
+(b) and, where applicable, promptly remedy any deficiencies observed
+or detected.
+(4) Subject to the approval of the Central Bank, every agreement between the
+credit bureau and a credit information provider or subscriber shall make provision
+with respect to—
+
+(a) the modalities for the submission of information by the credit
+information provider including the manner and form in which the
+information is submitted;
+(b) the delivery of credit reports and value added products by a credit
+bureau to a credit information provider or subscriber;
+(c) the type of information to be provided under section 27(9); and
+(d) the termination of the agreement.
+(5) Notwithstanding the termination of an agreement referred to in subsection
+(4), the credit information provider shall, for such time as the Central Bank specifies
+but not to exceed one year, continue to supply to the credit bureau, data subject
+information regarding any data subject who was previously part of the periodic
+update under the terms and conditions of the agreement as if the agreement were not
+terminated.
+(6) A credit bureau commits an offence if it fails to adopt security and control
+measures that are necessary to prevent the unauthorised access to, or wrongful use or
+management of information by its staff, technology provider or contractors and is
+liable, on summary conviction, to a fine not less than ten thousand dollars but not
+exceeding one hundred thousand dollars.
+(7) The Minister may, by Regulations, provide for the matters to be included
+in the provisions of a subscriber agreement.
+Data subjects’ rights of access and correction.
+
+### 23.
+
+(1) A data subject is entitled—
+(a) to be informed by a credit bureau of the type of information with
+respect to that data subject that a credit bureau supplies to a
+subscriber;
+(b) to challenge a credit bureau regarding any inaccurate data respecting
+the data subject held in the credit bureau database and request
+correction, by the credit bureau, of the inaccurate data; and
+(c) to receive from a credit bureau a copy of the credit report of the data
+subject held by that credit bureau, without cost to the data subject,
+once a year.
+
+(2) Where a data subject requests from a credit bureau, a credit report or other
+data subject information processed in respect of a data subject under this Act, the
+credit bureau shall, promptly but no later than three days after receipt of the request,
+furnish to the data subject the credit report or other information in accordance with
+this Act and the Regulations.
+(3) A credit bureau shall provide to every data subject detailed information
+regarding the rights of the data subject and the procedures for accessing or correcting
+data kept and maintained by that credit bureau in relation to the data subject.
+(4) The Minister may, by Regulations, provide for the correction of
+incomplete, obsolete, misleading, erroneous or inaccurate credit information
+processed by a credit bureau in relation to data subjects.
+Duty to maintain records and credit information.
+
+### 24.
+
+(1) A credit bureau shall ensure that it keeps and maintains complete and
+accurate records regarding the credit information required for the provision of—
+
+(a) credit reports under section 19; and
+(b) value added products under this Act.
+(2) A credit bureau commits an offence if the credit bureau—
+(a) contravenes subsection (1); or
+(b) wrongfully or unlawfully alters, modifies, deletes or otherwise
+processes any data subject information or record in its database,
+and is liable, on summary conviction, to a fine not less than ten thousand dollars but
+not exceeding one hundred thousand dollars.
+Restrictions regarding disclosure of data subject information.
+
+### 25.
+
+(1) On the recommendation of the Central Bank, the Minister may, by
+Regulations, make provision with respect to the disclosure and protection of data
+subject information under this Act.
+(2) Where a credit bureau obtains credit information regarding credit extended
+to or in respect of a data subject, the credit bureau shall not disclose such information
+for a period longer than seven years after the date of termination or settlement of such
+credit.
+(3) Notwithstanding subsection (2) a credit bureau may, for historical,
+statistical or research purposes, retain data subject information for a period in excess
+of seven years.
+(4) The Central Bank may issue guidelines with respect to the term of
+retention of negative information and the calculation of the period of retention.
+(5) A credit bureau that contravenes subsection (2) commits an offence and is
+liable on summary conviction to a fine not less than ten thousand dollars but not
+exceeding one hundred thousand dollars.
+Supplying false information prohibited.
+
+### 26.
+
+(1) A person shall not supply false or misleading information regarding a data
+subject to any credit bureau.
+(2) A person who contravenes subsection (1) commits an offence and is liable,
+on summary conviction, to a fine not less than ten thousand dollars but not exceeding
+one hundred thousand dollars.
+Credit information providers.
+
+### 27.
+
+(1) A credit information provider shall, upon providing credit to a data subject
+or entering into a credit or loan agreement with a data subject, furnish to a credit
+bureau, information with respect to the data subject—
+(a) from the date of the provision of the credit to the data subject; and
+(b) within the time specified in the subscriber agreement with the credit
+bureau.
+(2) A credit information provider is any credit provider that is—
+(a) a bank or financial institution licensed under the Banking Act;
+(b) a money services business licensed under the Money Services
+Business Act;
+
+(c) a credit union or similar co-operative institution registered under the
+Co-operative Societies Act;
+(d) an insurance company licensed under the Insurance Act; or
+(e) a micro-finance institution licensed under Act regulating microfinance institutions.
+(3) The Central Bank may, by written notice published in the Gazette,
+designate any of the following entities as a credit information provider for the
+purposes of this Act if the Central Bank considers that it is in the public interest for
+the entity to be so designated—
+(a) a telecommunications provider licensed under the
+Telecommunications Act or any enactment replacing that Act;
+(b) the St. Kitts Electricity Supply Company and any other person
+licensed under the Saint Christopher Electricity Supply Act, Cap.
+16.01 or any other enactment;
+(c) the Watercourses and Waterworks Act, Cap. 11.06 or any other
+enactment; or
+(d) the Development Bank of St. Kitts and Nevis Act, Cap. 21.05; or
+(e) a person carrying on the business of selling goods under hire purchase
+or credit sales under the Sale of Goods Act, Cap. 18.30.
+(4) An entity designated under subsection (3) may, with the consent of a data
+subject, furnish to a credit bureau the data subject information respecting the data
+subject within the time specified by the credit bureau.
+(5) Before the Central Bank designates an entity under subsection (3) as a
+credit information provider for the purposes of this Act, the Central Bank shall
+consult the relevant Minister and the regulator of the entity.
+(6) Where an entity designated as a credit information provider opts to furnish
+to a credit bureau credit information with respect to a data subject, the credit
+information provider shall enter into a subscriber agreement with the credit bureau.
+(7) A credit information provider shall—
+(a) furnish to a credit bureau data subject information required to be
+furnished in the standard data format specified by the credit bureau
+after consultation with the Central Bank;
+(b) upon receipt of any new credit information about the data subject
+furnish the new information to the credit bureau within the time
+specified in the subscriber agreement with the credit bureau;
+(c) be responsible for providing to a credit bureau timely, sufficient and
+accurate credit information respecting data subjects;
+(d) be obligated to submit and update all data subject information to the
+credit bureau in accordance with this Act and these Regulations; and
+(e) comply with the security standards and measures prescribed in respect
+of the data credit information it keeps and maintains in respect of data
+subjects including taking all the necessary actions to safeguard the
+data subject information that it keeps and maintains in accordance
+with this Act and the Regulations.
+
+(8) Notwithstanding subsection (7)(c), a credit information provider shall, on a
+monthly basis, provide information to a credit bureau on the status of performance of
+the obligations of the data subject under the credit or loan agreement.
+(9) The information respecting a data subject that a credit information
+provider shall furnish to a credit bureau includes but is not limited to—
+(a) the personal information of the data subject;
+(b) in the case of a loan from a credit provider—
+(i) the type, nature and amount of the loan or other facility granted to
+the data subject from the credit provider;
+(ii) all outstanding loans including contingent liabilities extended to
+the data subject by the credit provider;
+(iii) the date on which the loan account was opened and the dates for
+payment of the principal and the interest as agreed;
+(iv) information on the composition and the types of collateral or
+security provided by any data subject which secured the debt
+obligation;
+(v) the loan balance and the maximum balance on the loan;
+(vi) the account status and the liability of the data subject on the
+account including the date of the last activity respecting the loan
+obligations; and
+(vii) the nature of any guarantee or other non-fund based facility to any
+data subject by the provider.
+(c) in the case of an entity that sells goods or offers services on a credit
+basis or with delayed payment terms—
+(i) the amount of the goods and services provided on a credit basis
+together with contingent and possible obligations;
+(ii) the dates on which the goods or services were provided;
+(iii) the agreed schedule of payment for the goods or services; and
+(iv) information on the composition and the types of collateral that
+secured the payment obligations;
+(d) any comments made in respect of the loan obligations of the data
+subject;
+(e) the amount past due;
+(f) the minimum payment due;
+(g) the amount of the last payment;
+(h) credit information about any data subject’s income, creditworthiness
+or history of financial transactions including antecedents and adverse
+court judgments obtained by the credit information provider in relation
+to transactions involving the credit provider;
+(i) other credit information required to be disclosed under this Act; or
+(j) any other credit information as the Central Bank—
+(i) considers appropriate to include as credit information for the
+purposes of this Act and the Regulations; and
+
+(ii) specifies by notice published in the Gazette and one newspaper of
+general circulation in Saint Christopher and Nevis.
+(10) Notwithstanding the provisions of this section, the Minister may, on the
+recommendation of the Central Bank by Regulations, provide for additional
+obligations of credit information providers.
+Adverse actions against data subjects.
+
+### 28.
+
+(1) Where, as a result of any data subject information contained in a credit
+report a credit provider—
+(a) takes any adverse action against the data subject;
+(b) denies credit to a data subject, in whole or in part; or
+(c) changes the terms and conditions of an existing credit with adverse
+impact on a data subject,
+the credit provider shall, within thirty days after taking the action and in writing,
+provide an adverse action notice to the data subject.
+(2) An adverse action notice under subsection (1) shall inform the data subject
+of the following—
+(a) the adverse action and the reasons for the action; and
+(b) the name, address and phone number of the credit bureau that provided
+the data subject information; and
+(c) the data subject’s right—
+(i) to dispute the data subject information with the credit bureau; and
+(ii) if the data subject information is erroneous or outdated, to have
+the erroneous or outdated information corrected.
+(3) A credit provider is deemed to have notified the data subject under
+subsection (1) if the credit provider sends the adverse action notice to the data
+subject’s last known address by registered mail, certified mail or electronic means.
+(4) Notwithstanding section 23(1)(c), a data subject is entitled to a copy of the
+credit report without cost to the data subject every time an adverse action is taken
+against the data subject by reason of negative information in a credit report.
+Void agreements.
+
+### 29.
+
+An agreement referred to in section 22(4) or 47 is void if the agreement states or
+implies that—
+(a) any provision of this Act or the Regulations or any right or remedy
+provided by or under this Act or the Regulations does not apply to the
+agreement; or
+(b) any right or remedy provided by or under this Act or the Regulations is
+in any way limited, modified or abrogated by the agreement.
+Resolution of disputes and complaints.
+
+### 30.
+
+(1) On the recommendation of the Central Bank the Minister may, by
+Regulations, provide for the resolution of disputes or complaints regarding credit
+bureaus, subscribers and data subjects.
+
+(2) In accordance with the Regulations referred to in subsection (1), a data
+subject may dispute the accuracy of information produced in a credit report regarding
+the data subject from data kept and maintained by the credit bureau.
+(3) The Regulations referred to in subsection (1) may provide for the use of
+conciliation, mediation and other alternative dispute resolution techniques or
+processes by a credit bureau in resolving disputes and complaints made to it by data
+subjects.
+(4) The Central Bank may apply conciliation, mediation or other alternative
+dispute resolution techniques or processes in resolving disputes or complaints.
+(5) During an investigation of a dispute under this section, the credit bureau
+shall make a notation in the credit report or credit file of the relevant data subject that
+the credit information has been challenged or is being investigated.
+Cross-border data flow.
+
+### 31.
+
+(1) With the approval of the Central Bank, a credit bureau may, in accordance
+with the Regulations, outsource or otherwise sub-contract the processing of credit
+information in its possession or control to an entity based or operating outside the
+Currency Union.
+(2) The Central Bank shall not approve the transfer of personal data from the
+Currency Union to a place outside the Currency Union, if the Central Bank
+reasonably believes that the credit information is not protected or is not likely to be
+protected in a like or similar manner or an otherwise equivalent manner as provided
+under this Act.
+Periodic returns.
+
+### 32.
+
+(1) Every credit bureau shall furnish the Central Bank with periodic returns
+regarding its business operations, in such form and time as may be prescribed by
+regulation.
+(2) A credit bureau commits an offence if the credit bureau wilfully—
+(a) fails or refuses to comply with subsection (1); or
+(b) furnishes the Central Bank with an incomplete, inadequate, inaccurate
+or late periodic return.
+(3) Where a credit bureau commits an offence under subsection (2), the credit
+bureau—
+(a) is liable, on summary conviction, to a fine not exceeding ten thousand
+dollars; and
+(b) in the case of a continuing offence, is liable to an additional fine of
+two thousand dollars for each day that the failure to comply continues
+after conviction.
+
+## PART V
+
+SUPERVISION BY THE CENTRAL BANK
+Information gathering powers.
+
+### 33.
+
+(1) For the purposes of carrying out any investigation or inquiry under this Act
+and the Regulations in respect of a credit bureau, the Central Bank—
+(a) may request from the credit bureau any information that the Central
+Bank may require in order to evaluate any matter arising—
+(i) under this Act and the Regulations; or
+(ii) from the operations of the credit bureau;
+(b) may issue such guidelines, rules or directives as the Central Bank
+considers appropriate;
+(c) may require access to the books, records, accounts, vouchers, minutes
+of meetings and any other document of the credit bureau;
+(d) may demand the production of, and inspect, any record of the credit
+bureau or a person with respect to whom an inspection or inquiry is
+being made or conducted under this Part; and
+(e) shall exercise such other information gathering and enforcement
+powers set out in this Part and the Regulations.
+(2) Where the Central Bank demands the production of any record under
+subsection (1)(d), any person who has the custody, possession or control of the record
+referred to in that subsection shall produce such record and permit inspection of the
+record by the Central Bank.
+(3) Every credit bureau shall comply with any guidelines, rules or directives
+issued by the Central Bank under this section.
+(4) A credit bureau commits an offence if the credit bureau fails or refuses to
+comply with any guidelines, rules or directives issued by the Central Bank under
+subsection (1)(b) and is liable, on summary conviction, to a fine not less than ten
+thousand dollars but not exceeding one hundred thousand dollars.
+Inspections.
+
+### 34.
+
+(1) To ensure compliance with this Act and the Regulations, the Central Bank
+may on its own initiative conduct inspections of a credit bureau and its operations.
+(2) Where the Central Bank intends to conduct an inspection, the Central Bank
+shall—
+(a) appoint inspectors in that regard with the powers, functions and duties
+specified in this Part; and
+(b) require the credit bureau to give such information or assistance as may
+be necessary to permit the inspectors to exercise their powers,
+functions or duties under this Part.
+(3) An inspector appointed under subsection (2) may, in the conduct of an
+inspection—
+(a) enter upon the premises of the credit bureau;
+(b) inspect the whole or part of the premises or the operations of the credit
+bureau;
+
+(c) conduct a review of the operations of the credit bureau;
+(d) where applicable, identify and record any operation of the credit
+bureau that is being conducted—
+(i) in accordance with the provisions of this Act and the Regulations;
+(ii) in an unlawful manner or in breach of this Act or the Regulations;
+or
+(iii) in a manner that places, or is likely to place, the credit bureau in a
+condition that endangers or is likely to endanger the credit
+worthiness, credit standing, credit capacity, character, general
+reputation or personal characteristics of the data subject; and
+(e) do any or all such things as that inspector considers necessary for the
+conduct of the inspection.
+(4) Where, upon an inspection of a credit bureau, the Central Bank reasonably
+believes that the credit bureau is—
+(a) conducting its business in an unlawful manner or in breach of this Act
+or the Regulations; or
+(b) in a condition, that endangers, or is likely to endanger, the credit
+worthiness, credit standing, credit capacity, character, general
+reputation or personal characteristics of the data subject,
+the Central Bank shall direct the credit bureau to take measures to rectify the
+situation, immediately or within such time as the Central Bank specifies.
+(5) The Central Bank may inquire into and examine—
+(a) the business affairs of the credit bureau with respect to whom the
+inspection is being made;
+(b) any record of the credit bureau and any payments to, by or on behalf
+of, in relation to or in connection with that credit bureau; and
+(c) any property or assets of, or things owned, acquired or alienated in
+whole or in part by the credit bureau or person acting on behalf of, or
+as agent of, the credit bureau.
+(6) Where the Central Bank requires—
+(a) at any reasonable time, access to the books, records, accounts,
+vouchers, minutes of meetings and any other document of any credit
+bureau; or
+(b) a credit bureau to submit to the Central Bank such further information
+or material as the Central Bank may reasonably require for the
+purposes of this Act or the Regulations; or
+(c) a credit bureau to provide verification, by affidavit or otherwise, of
+any information or material submitted to the Central Bank under
+paragraph (b) or subsection (5),
+the credit bureau shall comply with that request within the period specified by the
+Central Bank.
+(7) Where the Central Bank requires any director, auditor or other officer of a
+credit bureau to provide such information or explanation as the Central Bank may
+require for the purposes of this Act or the Regulations, the Central Bank shall give
+that director, auditor or other officer of a credit bureau a reasonable time to comply
+
+with the request and the director, auditor or other officer of the credit bureau shall
+comply with that request within the period specified by the Central Bank.
+(8) A person who fails or refuses to comply with a request of the Central Bank
+under subsection (2)(b), (6) or (7) commits an offence and is liable on summary
+conviction to a fine of fifty thousand dollars or to a term of imprisonment of two
+years or to both.
+Entry and search of premises.
+
+### 35.
+
+(1) Where a person fails or neglects to produce the records required to be
+produced under this Part to the Central Bank, the Central Bank may make an ex parte
+application to the High Court for an order authorising an officer of the Central Bank
+with a police officer, to—
+(a) enter and search any premises named in the order for the records that
+the person failed or neglected to produce;
+(b) seize and take possession of the records; and
+(c) where applicable, make copies of any records seized.
+(2) The High Court may issue the order, if satisfied on oath of an officer of the
+Central Bank that—
+(a) the Central Bank requires a person to produce any records under this
+Act; and
+(b) the person from whom the production of the records is required has
+failed or neglected to produce the records.
+Order by Central Bank.
+
+### 36.
+
+(1) Where, as a result of an inquiry, the Central Bank reasonably believes that
+any information contained in a file of a credit bureau, a credit information provider or
+a subscriber is inaccurate, incomplete, or does not comply with this Act or the
+Regulations, the Central Bank may make an order—
+(a) directing the credit bureau, credit information provider or subscriber to
+amend or delete the information; or
+(b) restricting or prohibiting the credit bureau, credit information provider
+or subscriber from using the information.
+(2) Every order made under subsection (1)—
+(a) shall specify the time within which the credit bureau, credit
+information provider or subscriber, as the case may be, shall take the
+action specified in that order; and
+(b) may provide for penalties, of ten thousand dollars, for failure to
+comply with the order.
+(3) Where the Central Bank issues an order under subsection (1), the Central
+Bank may direct the credit bureau, credit information provider or subscriber, as the
+case may be, to submit, in writing, evidence respecting its compliance with the
+direction, restriction or prohibition made under subsection (1).
+(4) Where a credit bureau is directed to submit evidence under subsection (3),
+the evidence submitted by the credit bureau shall include actions taken by any
+subscriber that received a credit report from the credit bureau within three months
+immediately preceding the commencement of the inquiry.
+
+Costs of inspections.
+
+### 37.
+
+Where the Central Bank conducts an inspection or inquiry under this Part, the
+person on behalf of whom the inspection or inquiry is conducted shall pay all
+reasonable fees and costs for the inspection or inquiry, including all reasonable costs
+of any travel undertaken in the course of the conduct of the inspection or inquiry.
+Auditors and annual reports.
+
+### 38.
+
+(1) A credit bureau shall appoint an independent auditor to conduct an annual
+audit and compliance review of the credit bureau in accordance with this Act and
+applicable best practice standards.
+(2) The auditor shall, as part of the auditor’s annual audit, obtain from the
+credit bureau a copy of—
+(a) the most recent report respecting the inspection of the credit bureau
+prepared by the Central Bank; and
+(b) any order, direction, notice or other action issued or taken by the
+Central Bank under this Act or the Regulations to verify compliance.
+(3) Every credit bureau shall, within three months of the end of its financial
+year, deliver to the Central Bank—
+(a) a signed copy of its audited financial statements;
+(b) a signed management letter;
+(c) a signed compliance report; and
+(d) a list of the shareholders of the credit bureau specifying the share
+holdings of each shareholder.
+(4) A credit bureau shall, no later than three months after the end of its
+financial year, publish its audited financial statements in the Gazette, in a newspaper
+of general circulation in Saint Christopher and Nevis and on its website.
+Court order.
+
+### 39.
+
+(1) The Central Bank may apply to the High Court for any order or all of the
+orders specified in subsection (2) if the Central Bank reasonably believes that a
+person has failed to comply with—
+(a) this Act or the Regulations; or
+(b) an order, a direction or a notice of the Central Bank.
+(2) The orders referred to in subsection (1) are—
+(a) an order directing the person to comply with this Act, the Regulations
+or the order, direction or notice of the Central Bank;
+(b) an order restraining the person from contravening this Act, the
+Regulations or the order, direction or notice of the Central Bank;
+(c) in the case of an entity, an order—
+(i) directing the directors and officers of the entity to comply with
+this Act, the Regulations or the order, direction or notice of the
+Central Bank; or
+
+(ii) restraining the directors and officers of the entity from
+contravening this Act, the Regulations or the order, direction or
+notice of the Central Bank; and
+(d) any other order, relief or remedy that the High Court may grant.
+(3) On hearing an application under subsection (1), the High Court may make
+such order as the High Court considers appropriate.
+
+## PART VI
+
+CIVIL LIABILITY
+Civil liability for non-compliance.
+
+### 40.
+
+(1) Where a data subject suffers injury by reason of the failure of a person to
+comply with any requirement imposed under this Act or the Regulations, the person
+is liable to the data subject in an amount equal to the sum of—
+(a) the actual damages sustained by the data subject by reason of the
+failure; and
+(b) in the case of a successful action to enforce liability under this section,
+the cost of the action as the High Court may determine.
+(2) Where two or more directors or officers of a credit bureau or other entity
+are liable in respect of a failure under subsection (1), their liability shall be joint and
+several.
+(3) In any civil proceeding under this Act against a credit bureau or a credit
+information provider in respect of an error respecting the credit information of a data
+subject, it shall be a defence for the credit bureau or, as the case may be, the credit
+information provider to show that the credit bureau or a credit information provider is
+not the source of the error.
+
+## PART VII
+
+CREDIT REPORTING REVIEW COMMISSION
+Appointment of Review Commission.
+
+### 41.
+
+(1) The Minister may, appoint a Review Commission for the purposes of
+hearing and determining applications for review under this Part.
+(2) Subject to section 43, the Second Schedule shall have effect with regard to
+the constitution, operations and procedures of the Review Commission.
+Right to review.
+
+### 42.
+
+(1) Without prejudice to the provisions of Part VI—
+(a) where a credit bureau does not issue a decision within the prescribed
+time for resolving a dispute respecting a data subject, the aggrieved
+data subject may seek a review of the action or conduct of the credit
+bureau;
+
+(b) where a data subject is not satisfied with the decision of a credit
+bureau in relation to a dispute under this Act, the aggrieved data
+subject may seek a review of a decision of the credit bureau; or
+(c) an aggrieved credit bureau may seek a review of the action or decision
+of the Central Bank.
+(2) The aggrieved data subject or the aggrieved credit bureau seeking the
+review shall within twenty days of the date of failure to make the decision or, as the
+case may be, the receipt of the decision, file an application for review with the
+secretary to the Review Commission.
+(3) Where payment of a deposit is required in respect of the application for
+review, the aggrieved data subject or, as the case may be, the aggrieved credit bureau
+shall make the payment to the Review Commission.
+(4) The application for review shall be in the English language and shall be
+accompanied by—
+(a) the decision or conduct in respect of which the application is filed;
+(b) the written statement of the grounds for the review;
+(c) all documents and materials respecting the decision or conduct in
+respect of which the application is filed; and
+(d) where applicable, documentary evidence with respect to payment of
+the deposit referred to in subsection (3).
+(5) The deposit made under this section is liable to be forfeited if the Review
+Commission determines that the application for review is frivolous or irrelevant or is
+not made in good faith.
+(6) For the purposes of this section—
+“aggrieved credit bureau” means any credit bureau that claims to have suffered or is
+likely to suffer loss or injury by reason of a decision of the Central Bank under
+this Act or the Regulations; and
+“aggrieved data subject” means any data subject that claims to have suffered or is
+likely to suffer loss or injury by reason of a decision or the conduct of, or a
+breach of a duty imposed on, a credit bureau by or under this Act or the
+Regulations.
+Review proceedings.
+
+### 43.
+
+(1) Where an application for review is filed the secretary to the Review
+Commission shall, without delay, inform the credit bureau and, as the case may be,
+the Central Bank of that fact.
+(2) The aggrieved credit bureau or as the case may be, the aggrieved data
+subject may cite a person whose interests are affected or are likely to be affected by
+the review proceedings as a party to the review proceedings; however that person
+shall not file a subsequent application for review on the same facts and grounds in
+respect of the same matter if the person is not cited as a party to the review
+proceedings.
+(3) The Review Commission shall expeditiously consider every application
+for review submitted to it.
+(4) In considering an application for review of a decision or the conduct of the
+Central Bank or a credit bureau, the Review Commission—
+
+(a) shall consider the materials contained in the administrative record kept
+and maintained by the Central Bank or credit bureau, as the case may
+be;
+(b) may not consider information or events that occurred after the date on
+which the action or decision which is the subject of the application
+was taken or made; and
+(c) may by notice, in writing, require any person—
+(i) to attend before it to give, under oath or on affirmation, evidence
+with respect to any matter related to the review;
+(ii) to produce any records regarding the matter referred to in
+subparagraph (i); and
+(iii) to present to it the arguments or submissions of the person in
+writing within such time as the Review Commission may specify
+in the notice.
+(5) Where a person fails or refuses to comply with a notice under subsection
+4(c), the High Court may, on the application of the Review Commission, issue an
+order requiring the person to attend before the Review Commission in compliance
+with the notice.
+(6) Where a person fails or refuses—
+(a) to comply with an order issued under subsection (4);
+(b) to answer questions before the Review Commission under the notice;
+or
+(c) to produce any records referred to in the notice which are in the
+possession of the person,
+the High Court may, on an application by the Review Commission, commit the
+person for contempt in accordance with the Civil Procedure Rules or any other
+enactment.
+(7) Nothing in this Part shall be construed as limiting the power of the Review
+Commission to apply conciliation, mediation or other alternative dispute resolution
+technique or process in the exercise of its powers, duties and functions under this
+Part.
+Decisions of Review Commission.
+
+### 44.
+
+(1) The Review Commission shall—
+(a) within twenty-eight days of the date of submission of an application
+for review, issue a written decision concerning the application, stating
+the reasons for the decision and the remedies granted, if any; and
+(b) no later than seven days from the date of the decision, give notice, in
+writing to—
+(i) the applicant of the decision of the Review Commission, the
+reasons for the decision and the right of the applicant to appeal the
+decision under Part VIII; and
+(ii) any other person who participated in the review proceedings of
+the decision of the Review Commission and the reasons for the
+decision.
+
+(2) After giving notice under subsection (1), the Review Commission may
+make the decision and the reasons for the decision available for inspection by
+members of the public; but no information shall be disclosed if such disclosure—
+(a) is contrary to law;
+(b) is not in the public interest; or
+(c) is likely to prejudice the legitimate commercial interests of the credit
+bureau which is a party to the review proceedings.
+(3) The Review Commission may, after making or causing to be made such
+inquiry or investigation as it thinks necessary, grant one or more of the following
+remedies—
+(a) direct the Central Bank or the credit bureau as the case may be, to act
+or to proceed in a lawful manner or to reach a lawful decision;
+(b) annul, in whole or in part, an unlawful act or decision of the Central
+Bank or credit bureau as the case may be;
+(c) subject to subsection (5), reverse an unlawful decision of the Central
+Bank or credit bureau as the case may be;
+(d) substitute its own decision for an unlawful decision of the Central
+Bank or credit bureau as the case may be.
+(4) The Review Commission may dismiss the application if the Review
+Commission is of the opinion that the application—
+(a) is frivolous or irrelevant;
+(b) was not made in good faith;
+(c) is devoid of sufficient grounds for a hearing;
+(d) is not supported by evidence of probative value; or
+(e) does not pertain to a matter which the Review Commission is
+empowered to deal with under this Act or the Regulations.
+(5) The Review Commission may annul, reverse or substitute the decision of
+the Central Bank only if—
+(a) the Central Bank failed to follow the prescribed procedure;
+(b) the Central Bank’s decision is contrary to law;
+(c) there was no factual basis for the decision of the Central Bank; or
+(d) based on a review of the records, the Central Bank—
+(i) committed a manifest error in its assessment of facts; or
+(ii) abused its discretion.
+(6) The Review Commission shall, in writing, promptly notify the parties to
+the review proceedings of the decision of the Review Commission and the reason for
+its decision.
+(7) Unless appeal proceedings are instituted under Part VIII, the decision of
+the Review Commission is final and binding.
+
+## PART VIII
+
+APPEALS
+Appeals to High Court.
+
+### 45.
+
+(1) A person who is aggrieved by a decision or order of the Central Bank or
+Review Commission may, within twenty-eight days of the date of the decision or
+order, appeal the decision or order to the High Court.
+(2) An appellant shall serve a notice of appeal on the Central Bank or Review
+Commission and any other person that the High Court may order.
+(3) On receipt of a notice of appeal under subsection (2), the Central Bank or,
+as the case may be, the Review Commission shall file with the High Court true copies
+of—
+(a) all documents and materials respecting the decision or order appealed
+against that were before the Central Bank or Review Commission
+when the Central Bank or, as the case may be, Review Commission
+made its decision or order;
+(b) the decision or order appealed against; and
+(c) the written reasons for the decision or order of the Central Bank or, as
+the case may be, the Review Commission.
+(4) The commencement of an appeal under this section does not stay the effect
+of the decision or order appealed from, unless a judge of the High Court orders
+otherwise.
+Appeals to Court of Appeal.
+
+### 46.
+
+(1) The Central Bank, a Review Commission or a person who is the subject of
+a decision or order of the High Court may, in accordance with the Civil Procedure
+Rules, lodge an appeal from the decision or order of the High Court to the Court of
+Appeal on a question of law only.
+(2) The commencement of an appeal under this section does not stay the effect
+of the decision or order appealed against, unless the Court of Appeal orders
+otherwise.
+
+## PART IX
+
+MISCELLANEOUS PROVISIONS
+Agreements with other bodies, etc.
+
+### 47.
+
+(1) The Central Bank may enter into an agreement with any government,
+regulatory, law enforcement agency, investigative body or person inside or outside
+Saint Christopher and Nevis—
+(a) for the purpose of administering or enforcing this Act or any
+enactment of the other jurisdiction that is similar to this Act; or
+(b) for any other purpose respecting credit reporting services that the
+Central Bank believes is in the public interest.
+
+(2) For the purposes of subsection (1) “agreement” shall be construed to
+include a reference to an agreement authorising—
+(a) the Central Bank to perform responsibilities and exercise powers
+respecting credit reporting services on behalf of any government,
+regulatory authority, law enforcement agency, investigative body or
+person; and
+(b) any government, regulatory authority, law enforcement agency,
+investigative body or person to perform responsibilities and exercise
+powers respecting credit reporting services on behalf of the Central
+Bank.
+Confidentiality.
+
+### 48.
+
+(1) Any information obtained by the Central Bank as a result of an inspection
+under this Act is not available for access to any person except—
+(a) directors, officers or employees of the Central Bank whose
+responsibilities require or allow them to have access to the
+information; or
+(b) such persons as authorised, in writing, by the Central Bank to have
+access to the information.
+(2) Unless authorised by this Act or by any other law or with the consent of
+the data subject to whom any information relates, no authorised person or director,
+officer or employee of the Central Bank shall—
+(a) communicate or allow to be communicated any information obtained
+under this Act to any person who is not legally entitled to the
+information; or
+(b) allow any person referred to in paragraph (a) to have access to such
+information.
+(3) Notwithstanding subsections (1) and (2), the Central Bank may authorize
+the release of, or access to, the information mentioned in those subsections to or by
+any person employed by a government agency, regulatory authority, law enforcement
+agency or investigative body inside or outside Saint Christopher and Nevis if—
+(a) the information is to be used solely for the purpose of administering or
+enforcing an enactment or other law of Saint Christopher and Nevis or
+of a foreign country; or
+(b) the release, inspection or access is—
+(i) in accordance with an agreement made under section 47 or
+(ii) in the public interest.
+(4) A person who is given or permitted access to information under this
+section is not compellable to give evidence concerning that information unless—
+(a) the data subject to whom the information relates consents; or
+(b) a court, on an application, orders the evidence to be given.
+(5) On an application for an order under subsection (4)(b)—
+(a) the Central Bank and the person to whom the information relates are
+entitled to appear before the court and to make submissions; and
+
+(b) the person seeking the order to compel the giving of the evidence must
+prove to the satisfaction of the court that it is in the public interest to
+make the order.
+(6) In this section, “authorised” means authorised by the Central Bank to
+inspect, or to have access to, information obtained by the Central Bank as a result of
+an inspection under this Act.
+Evidence regarding certificate of central bank.
+
+### 49.
+
+In a prosecution for an offence under this Act or the Regulations, a certificate of
+the Central Bank is admissible in evidence and, in the absence of evidence to the
+contrary, is prima facie evidence of the facts stated in it if it certifies that—
+(a) a person named in the certificate was licensed or was not licensed;
+(b) a licence was granted to a person named in the certificate on a date set
+out in the certificate; or
+(c) a licence granted to a person named in the certificate was suspended or
+revoked or made subject to terms and conditions.
+General offences and penalties.
+
+### 50.
+
+(1) A person commits an offence if the person—
+(a) makes a false or misleading statement in any application or in any
+proceeding or in response to any inspection under this Act or the
+Regulations; or
+(b) fails to comply with any order or direction made under this Act or the
+Regulations
+
+(2) Where a person commits an offence under this Act for which no penalty is
+specified or provided, the person is liable, on summary conviction, to a fine not less
+than ten thousand dollars but not exceeding one hundred thousand dollars.
+Fixed penalties.
+
+### 51.
+
+(1) Notwithstanding section 50(2), if the Central Bank reasonably believes
+that a person has committed an offence under this Act or the Regulations, the Central
+Bank may issue to the person a notice, in the prescribed form informing the person of
+the option to discharge any liability to conviction in respect of the offence by
+payment of a fixed penalty of ten thousand dollars within ten working days from the
+date of receipt of the notice.
+(2) A person is not liable to conviction for an offence if he pays the fixed
+penalty in accordance with subsection (1).
+(3) If a person opts to pay a fixed penalty under this Act or the Regulations,
+the person shall pay the fixed penalty to the Accountant General within the period set
+out in the notice referred to in subsection (1).
+(4) Where the person under subsection (1) is a credit bureau and it fails to
+comply with subsection (3), the Central Bank may revoke the licence of the credit
+bureau in accordance with section 15.
+(5) In any proceedings in which the Accountant General issues a certificate
+indicating that a person paid, or did not pay, to the Accountant General the fixed
+penalty by the date specified, the certificate shall, in the absence of evidence to the
+contrary, be sufficient proof of the facts stated in the certificate.
+
+(6) The Minister on the recommendation of the Central Bank may, by Order
+published in the Gazette, amend the fixed penalty set out under subsection (1).
+(7) An Order made under subsection (6) is subject to negative resolution of the
+National Assembly.
+Offences by credit bureau or other entity.
+
+### 52.
+
+(1) Without prejudice to section 40 and any action which may be instituted
+under this Act, where a credit bureau or any other entity commits an offence under
+this Act, every director, partner or other senior officer of the credit bureau or other
+entity who had knowledge of and consented to the commission of the offence, or who
+caused the commission of the offence by reason of his negligence, default, or breach
+of duty or trust—
+(a) shall, subject to subsection (2), be proceeded against as if the director,
+partner or other senior officer committed the offence; and
+(b) is liable, on summary conviction, to a fine of ten thousand dollars
+whether or not any action has been instituted against the credit bureau
+or other entity.
+(2) A director, partner or other senior officer of a credit bureau or any other
+entity does not commit an offence under subsection (1) if the director, partner or
+other senior officer can show that he neither knew nor connived in the commission of
+the offence or that he exercised all due diligence to prevent the commission of the
+offence.
+Defences in criminal proceedings.
+
+### 53.
+
+(1) Subject to the provisions of subsection (2), in any criminal proceedings
+under this Act, it shall be a defence if the defendant establishes—
+(a) that the contravention in respect of which the proceedings are
+instituted was due to—
+(i) a mistake;
+(ii) an accident or some other cause beyond his control which
+accident or other cause may or may not involve another person; or
+(iii) the act or default of another person; and
+(b) that he took reasonable precautions and exercised due diligence to
+avoid the contravention.
+(2) Where a defendant relies on any defence under subsection (1)(a)(ii) or if
+applicable under subsection (1)(a)(iii) the defendant shall first obtain leave of the
+court in order to rely on the defence, unless before the day on which the hearing of
+the proceedings commences, the defendant serves on the person who instituted the
+proceedings a notice in writing giving such information, as was then in his
+possession, that would identify or assist in the identification of the other person.
+Immunity.
+
+### 54.
+
+(1) No action or proceeding lies or shall be commenced against the Crown, the
+Minister or any authorised person for anything done, caused or permitted or
+authorised to be done, attempted to be done or omitted to be done in good faith under
+this Act or the Regulations by that person unless that person is grossly negligent or
+reckless—
+
+(a) in the exercise or purported exercise of any power conferred by this
+Act or the Regulations; or
+(b) in the carrying out or purported carrying out of any order made under
+this Act or any duty imposed by this Act or the Regulations.
+(2) In this section, “authorised person” means a person acting under the
+authority of this Act or the Regulations.
+Protection of databases upon liquidation.
+
+### 55.
+
+(1) Notwithstanding anything to the contrary in the Companies Act, Cap.
+21.03—
+(a) where a credit bureau is being wound up or liquidated—
+(i) the database of the credit bureau containing data subject
+information related to the credit history of the data subjects shall
+be transferred to the Central Bank;
+(ii) the Central Bank shall determine whether the credit bureau’s
+activities are to continue; and
+(iii) for a period not exceeding twelve months, the Central Bank shall
+retain the right to use the credit bureau’s platform until the
+evaluation and selection process to grant a new credit bureau
+licence is completed;
+(b) a credit bureau shall not, except with the approval of the Central Bank,
+pass any resolution for the suspension of its activity or the voluntary
+winding up of its business; and
+(c) the Central Bank shall take measures to properly dispose of or destroy
+the database where no new license is issued.
+(2) Where the database of the credit bureau is transferred to the Central Bank
+under subsection (1)(a), the Central Bank shall employ such data security measures
+and safeguards as it considers reasonable to protect the database.
+(3) Notwithstanding section 12(1), where a credit bureau ceases to operate or
+carry on business of a credit bureau, the Central Bank shall revoke the licence granted
+to the credit bureau.
+Regulations.
+
+### 56.
+
+(1) The Minister on the recommendation of the Central Bank may make
+Regulations—
+(a) for the purpose of implementing the provisions of this Act; or
+(b) respecting any other matter that the Minister considers necessary to
+carry out the intent or purposes of this Act.
+(2) Without limiting the generality of subsection (1), the Minister on the
+recommendation of the Central Bank may make Regulations prescribing—
+(a) the fees to be paid for the grant of licences, the continuation of
+licences and the reinstatement of licences that have been suspended;
+(b) the requirements regarding applicants for licences including
+qualification of directors and officers of the applicants;
+
+(c) the obligations and duties of credit bureaus including disclosure of
+information to data subjects and submission of periodic returns to the
+Central Bank;
+(d) the obligations of credit information providers and subscribers;
+(e) the procedures for the resolution of complaints and disputes respecting
+data subjects and breaches of this Act and the Regulations;
+(f) for the purposes of section 21(1), prescribing the records to be kept
+and maintained; or
+(g) any other matter that is required or authorised by this Act to be
+prescribed.
+(3) The Minister on the recommendation of the Central Bank may, by
+Regulations, provide for offences and prescribe for such offences penalties not
+exceeding ten thousand dollars.
+(4) Regulations made under this Act are subject to negative resolution of the
+National Assembly.
+Amendment of Schedules.
+
+### 57.
+
+The Minister, on the recommendation of the Central Bank, may amend the
+Schedules by Order published in the Gazette.
+__________
+
+## FIRST SCHEDULE
+
+(Section 2)
+PUBLIC REGISTRIES
+1\.
+
+[Social Security Board Registry] [National Insurance Board Registry]
+
+2\.
+
+Companies and Intellectual Property Office Registry
+
+3\.
+
+The Titles Registry
+
+4\.
+
+The Registry of Births and Deaths
+
+_________
+
+## SECOND SCHEDULE
+
+(Section 41(2))
+CONSTITUTION, OPERATIONS AND PROCEDURES
+OF THE REVIEW COMMISSION
+Constitution of Review Commission
+
+1\. A Review Commission shall consist of three members appointed by the Minister
+as follows —
+(a) a chairperson who shall be an attorney-at-law of not less than seven
+years standing; and
+(b) two other members from among persons who appear to the Minister to
+have wide experience in legal, administrative, economic or financial
+matters.
+Terms of office for Review Commission
+
+2\. The members of the Review Commission shall hold office for a period not
+exceeding three years as specified in the instrument of appointment and are eligible
+for re-appointment.
+Disqualification
+
+3\. A person is not qualified to be appointed, or to remain, a member of a Review
+Commission if the person—
+(a) has a direct or indirect personal interest in a matter being considered or
+to be considered by the Review Commission;
+(b) is convicted of an offence involving dishonesty or an offence under
+this Act;
+(c) does not possess the experience and qualifications specified in
+paragraph 1(b) of this Schedule;
+(d) is a member of the Senate or the House of Representatives; or
+(e) is a director, an officer, an employee or an auditor of a credit bureau or
+credit information provider.
+
+Secretary to Review Commission
+
+4\.
+(1) The Minister shall appoint a suitably qualified person to act as secretary to
+the Review Commission.
+(2) The secretary shall provide administrative support to the Review
+Commission and is responsible for—
+(a) preparing the agenda for each sitting of the Review Commission;
+(b) giving notice of sittings which includes the agenda, the day, time and
+place of such sittings to members and other persons whose attendance
+is necessary or advisable;
+(c) recording the proceedings of the Review Commission;
+(d) providing copies of the records of the proceedings to members;
+(e) preparing the correspondence and reports of the Review Commission;
+and
+(f) carrying out such other tasks as are assigned to the secretary by the
+Review Commission.
+Decision of Review Commission
+
+5\.
+(1) Decisions of the Review Commission shall be by a majority of the
+members present and voting, and in the event of an equality of votes, the chairperson
+has a second or casting vote.
+(2) A decision of the majority of the members of the Review Commission is a
+decision of the Review Commission.
+Sittings of Review Commission
+
+6\.
+(1) The Review Commission shall sit as often as may be necessary to perform
+its duties and exercise its powers in an expeditious manner.
+(2) A sitting of the Review Commission shall be held on the days and at the
+times as the chairperson determines.
+(3) Subject to section 41 of this Act, the Review Commission shall determine
+its own procedure; but the Review Commission shall give full opportunity to the
+parties to present evidence and make representations.
+Notice of sittings
+
+7\.
+(1) The chairperson shall cause written notice of the place, day and time of
+every sitting of the Review Commission to be given to the relevant parties, not less
+than seventy-two hours before the time scheduled for the sitting.
+(2) Notice of the sittings of a Review Commission shall be given to a member
+or a relevant party by—
+(a) in the case of an individual—
+(i) handing a copy of the notice to the individual;
+(ii) sending by facsimile transmission a copy of the notice to the
+individual at the fax number of the individual; or
+(iii) sending by electronic mail a copy of the notice to the individual at
+the electronic address of the individual;
+
+(b) in the case of a credit bureau—
+(i) leaving a copy with an employee at the office of the credit bureau;
+(ii) sending by facsimile transmission a copy of the notice to the
+credit bureau at the fax number of the credit bureau; or
+(iii) sending by electronic mail a copy of the notice to the credit
+bureau at the e-mail address of the credit bureau; or
+(c) any other means approved by resolution of the Review Commission.
+Resignations
+
+8\.
+(1) Any member of the Review Commission other than the Chairperson may
+at any time resign his office by instrument in writing addressed to the Minister and
+transmitted through the Chairperson, and from the date of the receipt by the Minister
+of the instrument that member shall cease to be a member of the Review
+Commission.
+(2) The Chairperson of the Review Commission may, at any time, resign his
+office by instrument in writing addressed to the Minister and the resignation shall
+take effect one month after the date of the receipt by the Minister of the instrument.
+Publication of membership
+
+9\. The Minister shall cause to be published in the Gazette the names of all
+members of the Review Commission as first constituted and every change in
+membership thereof.
+Remuneration
+
+10\. Subject to the approval of the Minister, the members of a Review Commission
+may, in respect of a review, be paid such remuneration, whether by way of
+honorarium, salaries, fees or allowances.
+Disclosure of personal interest
+
+11\. (1) A member of the Review Commission who has a direct or indirect
+personal interest in a matter being considered or to be considered by the Review
+Commission shall, as soon as reasonably practicable after the relevant facts
+concerning the matter come to his knowledge, disclose the nature of his interest to the
+Review Commission.
+(2) A disclosure of interest in a matter shall be noted in the relevant records of
+the proceedings of the Review Commission.
+(3) Where a member discloses any personal interest in a matter being
+considered or to be considered by the Review Commission, the member shall not—
+(a) be present at the sitting of the Review Commission while that matter is
+being dealt with by the Review Commission; nor
+(b) take part in any deliberations or vote relating to the matter.
+General authority of Chairperson
+
+12\. (1) Where any doubt, dispute or difference arises with respect to the
+interpretation of any provision of this Schedule, the decision of the chairperson of the
+Review Commission in this regard shall be final and binding.
+
+(2) Subject to Part VII of this Act, the chairperson of a Review Commission
+has the power and authority to regulate the conduct of the proceedings of the Review
+Commission to which the provisions of this Schedule apply in all matters not
+provided for in this Schedule.
+________
+
+## THIRD SCHEDULE
+
+(Section 56)
+
+CREDIT REPORTING REGULATIONS
+
+## ARRANGEMENT OF REGULATIONS
+
+## PART I
+
+PRELIMINARY
+1\.
+2\.
+
+Short title
+Interpretation
+
+## PART II
+
+LICENSING OF CREDIT BUREAUS
+3\.
+4\.
+5\.
+6\.
+7\.
+
+Application for licence
+Operations manuals
+Fees respecting licences, etc.
+Premises and systems of applicant
+Place of business
+
+## PART III
+
+CREDIT REPORTING SERVICES
+8\.
+9\.
+10\.
+11\.
+
+Nature of information exchanged, shared, etc.
+Obligations of credit information providers, subscribers, etc.
+Disclosure by credit bureau to data subject
+Limits on disclosure
+
+## PART IV
+
+COMPLAINTS AND DISPUTE RESOLUTION
+12\.
+13\.
+14\.
+15\.
+
+Resolution of complaints and disputes
+Disputes regarding data subject information
+Investigations by credit bureau, etc.
+Central Bank may issue directions respecting resolution of disputes, etc.
+
+## PART V
+
+MISCELLANEOUS PROVISIONS
+16\.
+17\.
+18\.
+19\.
+
+Application respecting cross-border data flow
+Start up capital
+Credit bureau may charge fees for services
+Subscriber agreement
+SCHEDULE 1: Subscriber Agreement
+SCHEDULE 2: Form – Application for Licence
+SCHEDULE 3: Personal Declaration Form for proposed Officers
+and Significant Shareholders of Credit Bureaus
+
+## SCHEDULE 4:
+
+Statutory Declaration
+
+## SCHEDULE 5:
+
+Fees Respecting Credit Bureau Licences
+
+## SCHEDULE 6:
+
+Summary of Rights
+
+CREDIT REPORTING REGULATIONS
+
+## PART I
+
+PRELIMINARY
+Short title.
+
+1\.
+
+These Regulations may be cited as the Credit Reporting Regulations.
+
+Interpretation.
+
+2\.
+
+In these Regulations, unless the context otherwise requires—
+
+“Act” means the Credit Reporting Act, Cap. 21.28;
+“complainant” means a person who submits a complaint under regulation 12(3);
+“debt collector” means a person who is in the business of collecting debts;
+“default” in relation to a loan, means failure to repay the loan according to the terms
+and conditions of an agreement respecting the loan;
+“non-performing” in relation to a loan, means a loan that is ninety days or more in
+arrears;
+“notice of change” has the meaning assigned to it in regulation 13(6);
+“notice of dispute” has the meaning assigned to it in regulation 13(2);
+“notice of resolution” in relation to complaints and disputes, means a statement
+advising of the results of an investigation into a complaint or dispute under
+these Regulations;
+“performing” in relation to a loan, means not in default;
+“place of business” in relation to a credit bureau, means the premises occupied by the
+credit bureau to carry on its credit reporting business;
+“significant shareholder” means a person, who—
+(a) holds directly or indirectly, or otherwise has a beneficial interest in,
+more than ten percent of the share capital of a credit bureau; or
+(b) on a proposal, is likely to hold or have the beneficial interest referred
+to in paragraph (a);
+“statement of dispute” has the meaning assigned to it in regulation 14;
+“Summary of Rights” means the summary of the rights of data subjects under the
+Credit Reporting Act, set out in Schedule 6.
+
+## PART II
+
+LICENSING OF CREDIT BUREAUS
+Application for licence.
+
+3\.
+(1) An application for a licence to operate, or carry on the business of, a credit
+bureau in the Currency Union shall be made to the Central Bank in the form set out in
+Schedule 2.
+
+(2) The application shall be accompanied by the following information and
+supporting documents—
+(a) a statutory declaration of the proposed chief executive officer in the
+form set out in Schedule 4;
+(b) a statutory declaration of the proposed directors, officers and
+significant shareholders in the form set out in Schedule 3;
+(c) the documentary evidence regarding the payment to the Central Bank
+of the non-refundable application processing fee set out in Schedule 5;
+(d) a certified copy of the applicant’s Certificate of Incorporation and
+Articles of Incorporation;
+(e) a feasibility study by the applicant, showing the nature of the proposed
+business, organisational structure and internal control systems and
+monitoring procedures of the applicant;
+(f) documentary evidence respecting—
+(i) the market analysis for the provision of credit reporting services;
+(ii) the ownership structure, governance and management structure of
+the applicant;
+(iii) the business plan, including the business continuity plan, of the
+applicant;
+(iv) the administrative policies of the applicant;
+(v) the development schedule of the software required for the
+operations of the applicant;
+(vi) the features or description of the credit reporting products and
+services intended to be provided to subscribers;
+(vii) the policy and procedures manual in relation to the supply of
+credit reporting services; and
+(viii) the proposed security and control measures aimed at preventing
+misuse or improper management of data subject information;
+(g) an overview of the operations systems of the applicant including the
+unique identification systems in relation to the collection and
+processing of data;
+(h) the operations manuals specified in Regulation 4 containing
+information and guidelines respecting the best procedures and
+practices in relation to the processing of data subject information by
+the applicant;
+(i) a description of the applicant’s premises and the security measures that
+will be adopted in respect of the premises;
+(j) a report respecting the suitability of the premises of the applicant for
+the provision of credit reporting services;
+(k) the draft proposal respecting fees for credit reporting services to be
+provided under the Act and these Regulations;
+(l) a prototype of the final product that demonstrates the principal features
+and functions of the operations systems;
+
+(m) any other information or document that the Central Bank considers
+necessary or may require.
+Operations manuals.
+
+4\.
+(1) The operations manuals referred to in Regulation 3(2)(h) shall include the
+following—
+(a) a query module manual containing detailed information as possible
+respecting the internal procedures for handling complaints and
+disputes respecting data subject information;
+(b) a data loading module manual containing sufficient and relevant
+information to allow for an accurate and positive correlation between
+the data subject and the data;
+(c) a source quality control manual containing detailed information with
+respect to the frequency of updating data, and the identification
+information of a data subject;
+(d) a maintenance module manual containing detailed information with
+respect to the installation, operation, inspection and maintenance of
+the operating systems or plant of the applicant;
+(e) a security module manual containing detailed information with respect
+to risk management controls of the applicant, that would allow the
+applicant to assess risks in a consistent, systematic and cost effective
+manner;
+(f) an operations module manual containing detailed information with
+respect to the governance procedures and internal controls; and
+(g) a subscriber manual containing detailed information with respect to the
+policy and rules for data subject information collection, consultation,
+distribution and storage including the procedure which the data subject
+may follow in order to challenge errors or inaccuracies related to his
+or her data.
+(2) An operations manual shall be structured in such a manner so as to
+ensure—
+(a) the accuracy of the information contained in the database of the
+applicant; and
+(b) the timely updating of the information, through the signing of
+contracts with credit information providers approved by the Central
+Bank.
+Fees respecting licences, etc.
+
+5\.
+
+The fees set out in Schedule 5 are the fees payable by—
+(a) an applicant in respect of an application for a credit bureau licence;
+(b) a credit bureau upon the grant of a licence;
+(c) a credit bureau for renewal of a licence; and
+(d) a credit bureau for the reinstatement of a licence.
+
+Premises and systems of applicant.
+
+6\.
+(1) The Central Bank shall carry out or cause to be carried out an on-site
+inspection of the premises of the applicant in accordance with this regulation to—
+(a) determine the adequacy of the applicant’s safety and security systems;
+and
+(b) examine—
+(i) the suitability of the premises for credit bureau operations;
+(ii) the adequacy of the information management system,
+administrative and operational processes and the internal control
+system of the applicant;
+(iii) the suitability and adequacy of the security control of the
+applicant; and
+(iv) any other area of operations the Central Bank may consider
+necessary.
+(2) An applicant shall submit to the Central Bank a security audit prepared by
+a registered audit firm giving expert opinion on—
+(a) the suitability of the premises of the applicant;
+(b) the adequacy of the management information systems of the applicant;
+and
+(c) any other aspect regarding the premises or systems of the applicant
+that may be considered relevant with respect to the operations of a
+credit bureau.
+Place of business.
+
+7\.
+
+(1) A credit bureau shall ensure that—
+(a) the activities conducted in any office of the credit bureau comply with
+the Act and these Regulations;
+(b) the credit bureau maintains a claims and inquiry service to attend to
+any data subject who—
+(i) is affected by the data subject information contained in the
+database of the credit bureau; and
+(ii) alleges that the information regarding the data subject contained
+in the database of the credit bureau is illegal, inaccurate,
+erroneous or outdated; and
+(c) the credit bureau has adequate staff—
+(i) to undertake the functions of the credit bureau; and
+(ii) to sufficiently meet data subject demands under the Act and these
+Regulations.
+(2) Where a credit bureau intends to—
+(a) relocate its place of business or open a branch of the credit bureau, the
+credit bureau shall obtain the requisite approval from the Central Bank
+before relocating its place of business or opening a branch of the credit
+bureau; or
+
+(b) close its place of business, the credit bureau shall seek approval from
+the Central Bank not less than three months before the date of closing
+of its place of business.
+(3) Nothing in this regulation empowers a credit bureau to address any matter
+in a claim or inquiry that is not provided for or specified in this regulation.
+
+## PART III
+
+CREDIT REPORTING SERVICES
+Nature of information exchanged, shared, etc.
+
+8\.
+(1) A credit information provider and a credit bureau shall exchange, share or
+otherwise process data subject information under the Act and these Regulations
+which may contain—
+(a) personal identification information of the data subject;
+(b) the credit history of the data subject including the nature and amount
+of loan granted or to be granted, to the data subject;
+(c) any security taken or proposed to be taken by a credit provider as
+security for the loans mentioned in paragraph (b);
+(d) the patterns of payments regarding the loans by the data subject;
+(e) any debt restructuring or other action taken by the credit provider to
+recover any unpaid amount including realisation of securities, legal
+proceedings and related matters; and
+(f) any other information concerning a data subject’s loans, whether
+performing or non-performing.
+(2) The nature of information to be exchanged, shared or otherwise processed
+between a credit information provider and a credit bureau under the Act and these
+Regulations shall not adversely affect the rights of the data subject to access and seek
+correction of data subject information.
+Obligations of credit information providers, subscribers, etc.
+
+9\.
+
+(1) A credit information provider shall—
+(a) provide accurate data subject information to a credit bureau;
+(b) submit and update all data subject information to the credit bureau in
+accordance with the Act and these Regulations; and
+(c) comply with the security standards and measures prescribed in respect
+of the credit information it keeps and maintains in respect of the data
+subject.
+
+(2) A credit information provider shall not provide credit information in
+respect of a data subject to any other person unless the credit information provider is
+satisfied, after undertaking all reasonable enquiries and investigations, that the
+information meets the requirements of the Act.
+(3) Where a credit information provider becomes aware that data subject
+information which it has provided to a credit bureau was inaccurate at the time such
+information was provided, the credit information provider shall, within five working
+
+days from the day on which the credit information provider becomes aware of the
+inaccuracy—
+(a) inform the credit bureau and the data subject of the inaccuracy; and
+(b) furnish the credit bureau with the accurate information and a notice
+instructing the credit bureau to—
+(i) delete the inaccurate information; and
+(ii) replace the inaccurate information with the accurate information.
+(4) A credit bureau shall, on receipt of the accurate information and notice
+under subregulation (3), promptly—
+(a) make the necessary correction or change to the credit information; and
+(b) inform the credit information provider and the data subject of the
+correction or change.
+(5) A subscriber shall not—
+(a) use information received from a credit bureau for any purpose other
+than for reaching decisions on the business of the subscriber in the
+ordinary course of such business; or
+(b) release information received from a credit bureau to any third party
+other than the subscriber’s appointed agent for the purpose of assisting
+the subscriber in the recovery of any of its debts.
+(6) A credit information provider that contravenes subregulation (2) or (3)
+commits an offence and is liable on summary conviction to a fine not exceeding ten
+thousand dollars.
+(7) A credit bureau that contravenes subregulation (4) commits an offence and
+is liable on summary conviction to a fine not exceeding ten thousand dollars.
+(8) A subscriber who fails or refuses to comply with subregulation (5)
+commits an offence and is liable on summary conviction, to a fine not exceeding ten
+thousand dollars.
+Disclosure by credit bureau to data subject.
+
+10\. (1) Where a data subject requires a credit report from a credit bureau the data
+subject shall, in writing, submit to a credit bureau a request for the credit report
+containing such particulars as the credit bureau may reasonably require to enable it to
+identify the data subject.
+(2) The credit bureau shall, within three working days of receiving the
+request—
+(a) provide to the data subject a credit report based on all data subject
+information relating to the data subject held by the credit bureau which
+clearly and accurately disclose to the data subject—
+(i) the nature and substance of all information in its files regarding
+the data subject at the time of the request;
+(ii) the sources of the information referred to in sub-paragraph (i),
+unless the data subject is able to readily ascertain such sources;
+and
+
+(iii) the names of all persons to whom a credit report regarding the
+data subject has been provided within the twelve-month period
+immediately preceding the date of the request;
+(b) inform the data subject of his right to dispute the accuracy of the
+information produced in a credit report regarding the data subject from
+data kept and maintained by the credit bureau and the manner in which
+the dispute may be made under Part 4 of these Regulations.
+(3) A credit bureau shall make the disclosures required under subregulation
+(2) to the data subject by mail including electronic mail, or otherwise in accordance
+with the written request for disclosure by the data subject.
+(4) Every credit bureau shall provide trained personnel to explain to a data
+subject any information provided to the data subject under this regulation.
+(5) A credit bureau which fails or refuses to comply with subregulations (1) to
+(4) commits an offence and is liable, on summary conviction, to a fine not exceeding
+ten thousand dollars.
+Limits on disclosure.
+
+11\. (1) Where a credit bureau holds or otherwise processes credit information that
+consists solely of information sourced from a publicly available source, the credit
+bureau may disclose such credit information without requiring consent.
+(2) A credit bureau may disclose supplementary identification information
+regarding the data subject if the disclosure is to confirm identical information
+supplied by a subscriber.
+(3) A credit bureau may, in accordance with these Regulations, make available
+credit information that has been sorted or combined with other information sourced
+from any specified public register.
+
+## PART IV
+
+COMPLAINTS AND DISPUTE RESOLUTION
+Resolution of complaints and disputes.
+
+12\.
+
+(1) Every credit bureau and credit information provider—
+(a) shall take steps to resolve every dispute as expeditiously as practical
+having regard to—
+(i) the matters in dispute; and
+(ii) the time limit for resolving that dispute as set out in these
+Regulations; and
+(b) subject to subregulation (2)(c), may use such alternative dispute
+resolution process wherever practical in resolving disputes.
+
+(2) For the purpose of facilitating the fair, simple, speedy and efficient
+resolution of complaints and disputes, every credit bureau and credit information
+provider shall—
+(a) designate a person to deal with complaints and disputes respecting—
+
+(i) the completeness, accuracy, nature and quality of data information
+processed by a credit bureau; and
+(ii) breaches of the Act or these Regulations;
+(b) establish a tracking process respecting the resolution of complaints and
+disputes; and
+(c) in addressing or resolving any complaint or dispute, endeavour to first
+use mediation where it is appropriate.
+(3) Where a person is not satisfied with the conduct of a credit bureau or has
+reason to believe that a credit bureau is conducting its business in breach of the Act or
+these Regulations, the person shall submit a complaint to the credit bureau providing
+as much of the following information as possible—
+(a) the name, address, telephone number, e-mail and key contact
+information of the complainant;
+(b) where available, the name, address, telephone number, e-mail and key
+contact information of the credit information provider;
+(c) a list of the complaints or disputes numbered in order so as to enable
+the credit bureau to address each complaint or dispute separately;
+(d) a brief description of the basic facts surrounding each complaint or
+dispute;
+(e) as far as practicable, the supporting information for each complaint or
+dispute; and
+(f) a statement of the desired resolution requested for each dispute.
+(4) Where a credit bureau receives a complaint under subregulation (3), the
+credit bureau shall—
+(a) promptly acknowledge receipt of the complaint and, in the case of a
+complaint by a data subject, furnish the data subject with a copy of the
+summary of rights set out in Schedule 6;
+(b) within ten working days of acknowledging the receipt of the
+complaint, inform the complainant—
+(i) whether or not the complaint is justified;
+(ii) of the reasons for the decision; and
+(iii) of any action that the credit bureau proposes to take;
+(c) subject to subregulation (5)(b), as soon as practical after taking the
+actions referred to in paragraph (b)(iii), inform the complainant of—
+(i) the results of the action taken;
+(ii) any internal review procedure which the credit bureau has in
+place; and
+(iii) the right to review under Part VII of the Act.
+(5) Where a credit bureau—
+(a) determines that a complaint is not justified, the credit bureau shall
+inform the complainant of—
+(i) any internal review procedure which the credit bureau has in
+place; and
+
+(ii) the right to review under Part VII of the Act; or
+(b) requires a period of time in excess of ten working days to investigate a
+complaint or resolve a dispute, the credit bureau shall inform the
+complainant of the additional time required and the reasons for
+additional time.
+Disputes regarding data subject information.
+
+13\. (1) For the purpose of disputing the completeness, accuracy, nature or quality
+of any data subject information kept, maintained or processed by a credit bureau, the
+data subject to whom the data subject information relates shall submit to the credit
+bureau a notice of dispute in accordance with subregulation (2).
+(2) The notice of dispute referred to in subregulation (1)—
+(a) shall contain the details regarding the disputed information;
+(b) shall specify the action required to be taken by the credit bureau; and
+(c) may be submitted by electronic means or any other means.
+(3) The credit bureau shall, within five working days of the receipt of the
+notice of dispute—
+(a) attach a note to the credit report, warning that the disputed information
+is being investigated;
+(b) give to the credit information provider a copy of the notice of dispute;
+and
+(c) request confirmation from the credit information provider as to the
+completeness, accuracy or nature and quality of the information.
+(4) A credit information provider shall, within ten working days of the date of
+receipt of a notice of dispute under subregulation (3)—
+(a) complete all necessary investigations into the disputed information;
+(b) make the necessary recommendation respecting any amendment,
+deletion or other measures to be taken in order to resolve or correct the
+disputed information, if the information is found to be inaccurate; and
+(c) upon completion of the actions referred to in paragraphs (a) and (b),
+promptly submit to the credit bureau and the data subject a report
+containing—
+(i) a notice of resolution in respect of the measures recommended to
+be taken in order to resolve the dispute in accordance with
+subregulation (5); and
+(ii) the actions taken by the credit information provider to resolve the
+dispute respecting the information contained in the data subject
+file.
+(5) Where, upon receipt of a notice of resolution from a credit information
+provider, a change is required to be made to the disputed information, the credit
+bureau shall, within five working days of the receipt of the notice of resolution—
+(a) make the changes to the data subject information, if required; and
+(b) send a notice of change to the data subject and every subscriber
+specified in subregulation (6)(c) confirming the action taken by the
+credit information provider and the credit bureau.
+
+(6) The notice of change shall—
+(a) contain information respecting the actions taken by the credit bureau
+to resolve or correct the disputed information;
+(b) be accompanied by evidence respecting the corrected information; and
+(c) be sent to every subscriber that has, at any time within the period of
+twelve months immediately preceding the date of receipt of the notice
+of resolution, obtained a credit report from the credit bureau
+containing the disputed information.
+(7) Where the data subject is not satisfied with the resolution respecting the
+disputed information, the data subject may request the credit bureau to attach a
+statement of not more than one hundred words to the data subject’s credit report,
+setting out the data subject’s claim that the information is not correct or accurate.
+(8) If a credit bureau receives a statement referred to in paragraph (a), the
+credit bureau shall take reasonable steps to comply with the data subject’s request
+under that paragraph.
+Investigations by credit bureau, etc.
+
+14\. (1) Where a credit bureau receives a notice of dispute under regulation 13, the
+credit bureau shall—
+(a) investigate the claims of the data subject within a reasonable time, but
+no later than fifteen working days from the date of receipt of the notice
+of dispute;
+(b) subject to subregulation (2)(b), take measures to confirm, correct or
+complete the information as the case may be, to ensure the accuracy
+and completeness of the information and, in particular, promptly
+remedy any error as requested by the data subject if the investigation
+reveals that error;
+(c) retain or cause to be retained a copy of the notice of dispute on the file
+of the data subject until the dispute is resolved if the credit bureau
+does not complete its investigation within fifteen days from the date of
+receipt of the notice of dispute; and
+(d) ensure that any credit information about the data subject disclosed by
+the credit bureau is accompanied by a copy of the notice of dispute if
+the credit bureau has not completed the measures required under
+paragraph (b).
+(2) If, as a result of an investigation under subregulation (1)—
+(a) the credit bureau is of the opinion that the information in the file
+regarding the data subject is complete, accurate and verified, the credit
+bureau shall advise the data subject in writing of his right to file a
+statement of dispute setting out the nature of his dispute regarding the
+information; or
+(b) any information in the file regarding the data subject is found to be
+incomplete or inaccurate, erroneous, obsolete or can no longer be
+verified, the credit bureau shall, promptly—
+(i) update the information by completing or correcting the
+information and deleting any erroneous or obsolete information or
+any information that cannot be verified;
+
+(ii) notify the data subject in writing of any remedial action taken
+under subparagraph (i); and
+(iii) notify, in writing, any person who received a credit report
+regarding the data subject within twelve months immediately
+preceding the date of the remedial action taken under subparagraph (i), unless the data subject directs otherwise.
+(3) Where a statement of dispute is filed by a data subject under subregulation
+(2)(a), the credit bureau shall—
+(a) provide a copy of the statement of dispute to any person who received
+a credit report regarding the data subject within twelve months
+immediately preceding the date on which the data subject filed a
+notice of dispute under regulation 16, unless the data subject directs
+otherwise; and
+(b) attach a copy of the statement of dispute in any subsequent credit
+report containing the information that the data subject disputes.
+(4) For the purposes of this regulation “statement of dispute” means a
+statement of one hundred words or less that is provided by the data subject and which
+sets out in detail the reasons why the data subject does not agree with the information
+held by the credit bureau on that data subject.
+Central Bank may issue directions respecting resolution of disputes, etc.
+
+15\. (1) Notwithstanding the provisions of this Part, the Central Bank may, on the
+application of a party to a dispute or by its own motion, direct a credit bureau and a
+data subject to resolve a dispute within a time specified by the Central Bank if the
+Central Bank determines it necessary to a fair resolution of the dispute and in the best
+interests of the public.
+(2) The Central Bank shall set out—
+(a) the reasons for the direction;
+(b) the actions to be taken so as to encourage efficiency; and
+(c) the steps to be taken if agreement is not reached by means of an
+alternative dispute resolution process.
+
+## PART V
+
+MISCELLANEOUS PROVISIONS
+Application respecting cross-border data flow.
+
+16\. (1) Where a credit bureau intends to off-shore its database or outsource or
+otherwise sub-contract the processing of credit information in its possession or
+control to an organisation based or operating outside of the Currency Union, the
+credit bureau shall apply in writing to the Central Bank.
+(2) Every application referred to in subregulation (1) shall be accompanied by
+information respecting—
+(a) the country of destination of the data;
+(b) the regulatory and legislative regime in the country of destination of
+the data;
+
+(c) the terms and conditions of any cooperation agreement between the
+credit bureau and the organisation based or operating outside of the
+Currency Union; and
+(d) any previous authorisation or approval given to the organisation based
+or operating outside of the Currency Union respecting the processing
+of credit information.
+(3) Where the Central Bank—
+(a) receives an application under this regulation, the Central Bank shall, in
+writing and within sixty days of the receipt of the application, inform
+the applicant of its decision; or
+(b) does not approve the transfer of personal data from the Currency
+Union to a place outside the Currency Union, the Central Bank shall
+inform the applicant of the reason for its decision.
+Start up capital.
+
+17\. The start up capital required in respect of a credit bureau under the Act shall be
+one million five hundred thousand Eastern Caribbean Dollars.
+Credit bureau may charge fees for services.
+
+18\. (1) A credit bureau may, with the approval of the Central Bank, charge fees
+for the provision of services under the Act and these Regulations.
+(2) The credit bureau shall submit to the Central Bank a proposal respecting
+the fees it intends to charge for the provision of credit reporting services under the
+Act and these Regulations.
+(3) The proposal respecting the fees shall be accompanied by adequate
+information that will permit the Central Bank to make a decision respecting the
+proposal within thirty days of its receipt.
+(4) The Central Bank shall, upon receipt of the proposal referred to in
+subregulation (2), promptly but not later than thirty days after the receipt of the
+proposal—
+(a) inform the credit bureau of its decision; and
+(b) if any fee is not approved, inform the credit bureau of the reason for
+the non-approval.
+(5) A credit bureau shall not charge any fees for—
+(a) providing to a data subject a credit report under section 23(1)(c) of the
+Act;
+(b) conducting an investigation of disputed data subject information under
+regulation 14;
+(c) correcting any credit information disputed under regulation 14; or
+(d) providing a copy of any information corrected or otherwise remedied
+under regulation 14(1)(b).
+(6) Where the Central Bank fails to inform the credit bureau of its decision
+within thirty days from the date of receipt of a proposal respecting the fees, the
+proposal respecting the fees is deemed to have been approved by the Central Bank.
+
+(7) Subregulation (5)(b) does not apply if the information disputed by the data
+subject is correct; but the credit bureau may only charge the data subject for the
+reasonable cost of its service in conducting the investigation.
+Subscriber agreement.
+
+19\. A subscriber agreement shall provide for the matters set out in Schedule 1.
+_________
+
+## SCHEDULE 1
+
+(Regulation 19)
+SUBSCRIBER AGREEMENT
+
+A subscriber agreement shall include provisions imposing the following obligations
+upon the credit information provider or subscriber—
+1\.
+
+Where the credit information provider collects credit information directly or
+indirectly from the data subject concerned for disclosure to the credit bureau, it
+shall inform the data subject of the purposes for which the credit bureau is
+collecting the information and the purposes for which the information will be
+used and disclosed.
+
+2\.
+
+The credit information provider shall not disclose information to the credit
+bureau without taking such steps as are, in the circumstances, reasonable to
+ensure that the information is accurate, up to date, complete, relevant, and not
+misleading.
+
+3\.
+
+The credit information provider shall, as soon as reasonably practicable, update
+any credit default information previously disclosed to the credit bureau and
+ensure that the information remains accurate, up to date, complete, relevant, and
+not misleading.
+
+4\.
+
+The subscriber shall nominate the relevant purpose or purposes under Part 2 of
+the Credit Reporting Regulations for which access may be sought, and confirm
+the relevant purpose at the time of each access.
+
+5\.
+
+The credit information provider shall co-operate with all reasonable compliance
+checks conducted by the credit bureau and, for that purpose, shall supply, upon
+request, evidence to confirm compliance with the requirements of Part 2 of the
+Credit Reporting Regulations or evidence to substantiate any credit default
+information disclosed to the credit bureau by the credit information provider.
+
+6\.
+
+The credit information provider shall promptly cooperate with the credit bureau
+in its efforts to investigate and resolve complaints and requests for correction of
+credit information and shall, for those purposes, supply, upon request, evidence
+to confirm compliance with the requirements of regulation 16 of the Credit
+Reporting Regulations or evidence to substantiate any credit default information
+disclosed to the credit bureau by the credit information provider.
+
+7\.
+
+The subscriber shall take appropriate measures, including the following, to
+safeguard the credit information held by the credit bureau against improper
+access—
+
+(a) develop written policies and procedures to be followed by its
+employees, agents and contractors;
+(b) establish controls, including—
+(i) the use of passwords, credential tokens or other mechanisms; and
+(ii) subscriber identification;
+(c) provide information and training to ensure compliance with the
+policies and controls;
+(d) monitor usage and regularly check compliance with the policies and
+controls; and
+(e) take appropriate action in relation to identified breaches of the policies
+and controls.
+_________
+
+## SCHEDULE 2
+
+(Regulation 3(1))
+FORM
+APPLICATION FOR LICENCE
+1\.
+
+Name of applicant .................................................................................................................
+
+2\.
+Former name(s) (if any) by which the applicant has been known:
+..........................................................................................................................................................
+3\.
+
+Head/main office:
+(a) Address: .......................................................................................................................
+(b) Telephone No.(s): ........................................................................................................
+(c) Telefax No.(s): .............................................................................................................
+(d) E-mail address: ............................................................................................................
+
+4\.
+
+Name(s) and contact of person(s) conducting the application on behalf of the applicant:
+
+..........................................................................................................................................................
+..........................................................................................................................................................
+5\.
+
+Relationship of contact person(s) to applicant: .......................................................................
+
+..........................................................................................................................................................
+6\.
+
+Branches (including physical location): ..................................................................................
+
+7\.
+Subsidiaries and affiliates
+Name and type of business
+______________________
+______________________
+______________________
+______________________
+8\.
+
+Management:
+
+Amount of shares held % of
+shares held in total
+______________________
+______________________
+
+(a) Board of Directors:
+Name:
+Designation
+_______________
+___________
+_______________
+___________
+
+Present term
+___________
+___________
+
+Revision Date: 31 Dec 2020
+
+No. of years as board member
+_______________________
+_______________________
+
+(b) Board committees
+Name and purpose of committee(s):
+___________________________________________
+
+Name of members:
+_______________________
+
+(c) Officers
+Name:
+______________________
+______________________
+9\.
+
+Position
+__________________
+__________________
+
+No. of years as officer
+_________________________
+_________________________
+
+Ownership profile:
+
+Name
+Country of citizenship
+1.________________ _______________
+
+Residence
+Paid up capital % Ownership
+______________
+__________________
+
+2.________________
+
+______________
+
+_______________
+
+__________________
+
+Other shareholders owning less than 5% of share capital of applicant (Number_______________)
+10\.
+
+Organisation profile—
+
+TOTAL ______________
+
+__________________
+
+(a) Organisation chart- Attach one indicating major departments or divisions
+with names, position and titles of officers heading each department or
+division;
+(b) Functions-Attach a list of functions or responsibilities for each department
+or division listed in the organisation chart indicating the number of
+personnel or staff for each;
+(c) Qualifications of significant shareholders, directors and officers;
+(d) Annex personal declaration form of each significant shareholder and
+officer and information sheet for each significant corporate shareholder;
+and
+(e) Powers and purposes-attach to the latest copies of the Memorandum or
+Articles of Incorporation if not previously submitted to the Central Bank.
+11\. Shareholder in any other financial institution:
+Name of Institution
+
+Shares owned
+
+Number
+
+% of capital amount
+
+___________________
+
+______________
+
+____________
+
+____________
+
+___________________
+
+______________
+
+____________
+
+____________
+
+12\. Name(s) and address(es) of the applicant’s bankers within the last 10 years.
+(Please also indicate the applicant’s principal bankers)..............................................
+......................................................................................................................................
+13\.
+
+Name and address of the applicant’s external auditors
+
+......................................................................................................................................
+......................................................................................................................................
+
+14\. Does the applicant hold, or has it ever held, any authority from a supervisory
+body to carry on any business activity in a member state of the Currency Union or
+elsewhere? If yes, give particulars. If any such authority has been revoked, give
+particulars.....................................................................................................................
+......................................................................................................................................
+......................................................................................................................................
+15\. Has the applicant ever applied for any authority from a supervisory body to
+carry on any business in the Currency Union or elsewhere other than the authority
+mentioned in answer to question 14? ...........................................................................
+If yes, give particulars ..................................................................................................
+......................................................................................................................................
+If any such application was for any reason refused or withdrawn after it was made,
+give particulars .............................................................................................................
+......................................................................................................................................
+16\. Has the applicant or any company in the same group within the last ten years
+failed to satisfy a judgment debt under a court in any member state of the Currency
+Union or elsewhere within a year of the making of the order? ....................................
+......................................................................................................................................
+If yes, give particulars ..................................................................................................
+......................................................................................................................................
+17\. Has the applicant or any company in the same group made any compromise or
+arrangement with its creditors within the last ten years or otherwise failed to satisfy
+its creditors in full?
+......................................................................................................................................
+If yes, give particulars ..................................................................................................
+......................................................................................................................................
+18\. Has a receiver or an administrative receiver of any property of the applicant or
+any company in the same group been appointed in any member state of the Currency
+Union, or has a substantial equivalent of any such person been appointed in any other
+jurisdiction, in the last ten years? .................................................................................
+......................................................................................................................................
+If yes, give particulars, including whether the receiver is still acting under the
+appointment..................................................................................................................
+......................................................................................................................................
+19\. Has a petition been served in any member state of the Currency Union for an
+administrative order in relation to the applicant or company in the same group, or has
+the substantial equivalent of such a petition been served in any other jurisdiction, in
+the last ten years?
+If yes, give particulars ..................................................................................................
+......................................................................................................................................
+20\. Has a notice of resolution for the voluntary liquidation of the applicant or any
+company in the same group been given in any member state of the Currency Union,
+or has the substantial equivalent of such a petition been served in any other
+jurisdiction, in the last ten years? .................................................................................
+......................................................................................................................................
+
+If yes, give particulars ..................................................................................................
+......................................................................................................................................
+21\. Has a petition been served in any member state of the Currency Union for the
+compulsory liquidation of the applicant or any company in the same group, or has the
+substantial equivalent of such a petition been served in any other jurisdiction, in the
+last ten years?
+If yes, give particulars ................................................................................................
+....................................................................................................................................
+....................................................................................................................................
+22\. State whether the applicant company has ever been under any criminal
+investigation, prosecution, disciplinary action, public criticism or trade sanction in
+connection with banking and financial services in any member state of the Currency
+Union or elsewhere ....................................................................................................
+....................................................................................................................................
+23\. Are there any material matters in dispute between the applicant and the
+Comptroller of Inland Revenue or any equivalent tax authority in any other
+jurisdiction?
+If yes, give particulars ................................................................................................
+24\. Is the applicant engaged or does it expect to be engaged, in any member state of
+the Currency Union or elsewhere, in any litigation which may have a material effect
+on the resources of the institution? ............................................................................
+If yes, give particulars ................................................................................................
+....................................................................................................................................
+25\. Is the applicant engaged, or does it expect to be engaged, in any business
+relationship with any of its (prospective) officers? ....................................................
+If yes, give particulars ................................................................................................
+....................................................................................................................................
+26\. Is the business of the applicant officers or of companies connected with the
+applicant guaranteed or otherwise underwritten or secured, or expected to be
+guaranteed or underwritten or secured, by the applicant? .........................................
+If yes, give particulars ................................................................................................
+....................................................................................................................................
+27\. Please provide any other information which may assist the Central Bank in
+reaching a decision on the application .......................................................................
+....................................................................................................................................
+....................................................................................................................................
+DECLARATION
+We certify that all the information contained in, and accompanying, this form is
+accurate and complete to the best of our knowledge, information and belief and that
+there are no other facts relevant to this application of which the Central Bank should
+be aware. We undertake to inform the Central Bank of any material changes to the
+application which may arise while the Central Bank is considering the application.
+
+We further undertake that, in the event that the institution is granted a licence under
+the Credit Reporting Act and the Credit Reporting Regulations we will notify the
+Central Bank of any material changes to or affecting the completeness or accuracy of
+the answers to the questions above as soon as possible, but in any event not later than
+thirty days after the date that changes come to our attention.
+Sworn at ........................................ this ........................... day of ...............................
+1.........................................................
+
+............................................................
+
+Name .................................................
+
+Position held .....................................
+
+Signed ...............................................
+
+Date...................................................
+
+2.........................................................
+
+............................................................
+
+Name .................................................
+
+Position held .....................................
+
+Signed ...............................................
+
+Date...................................................
+
+Deponents understands the contents of this Declaration
+Before me,
+....................................................................
+A COMMISSIONER FOR OATHS
+Please note that:
+1\.
+2\.
+3\.
+
+All sections of this form shall be filled.
+If any space provided is inadequate, the required information may be supplied as an
+attachment labelled accordingly and reference shall be made to the relevant section of
+the form by placing the words “REFER TO ANNEX . . . . . . . . . . . . . . . . . . . . ”
+Information provided in this form is confidential and cannot be made available without
+the consent of the Governor of the Central Bank.
+_________
+
+## SCHEDULE 3
+
+(Regulation 3(2)(b))
+PERSONAL DECLARATION FORM FOR
+PROPOSED OFFICERSAND SIGNIFICANT
+SHAREHOLDERS OF CREDIT BUREAUS
+Name and capacity of person making this Declaration:
+1\.
+
+Name of credit bureau in connection with which this form is being filled:
+
+.......................................................................................................................................
+2\.
+
+Full names deponent: ............................................................................................
+
+3\.
+
+Former surname(s) and/or forenames by which you may have been known:
+
+.......................................................................................................................................
+.......................................................................................................................................
+4\. Please state the capacity in which you are completing this form (that is to say, as
+a current or prospective officer or any combination of these). Please state your full
+title and describe the particular duties and responsibilities attaching to the position(s)
+which you hold or will hold. If you are completing this form in the capacity of
+director, indicate whether, in your position as director, you have or will have
+executive responsibility for the management of the applicant’s business. In addition,
+please provide a copy of your curriculum vitae unless it is already provided by the
+applicant in response to Schedule 1 to the Credit Reporting Regulations.
+.......................................................................................................................................
+.......................................................................................................................................
+5\.
+
+Date and place of birth: .........................................................................................
+
+6\.
+
+(1) Citizen of: .......................................................... since ................................
+(Country)
+
+(Year)
+
+(2) Resident of: ....................................................... since .................................
+(Country)
+7\.
+
+(Year)
+
+Addresses:
+(a) Present business address:
+(in the Currency Union since ........................................................... )
+(outside the Currency Union since................................................... )
+(b) Present business address:
+(in the Currency Union since .......................................................... )
+(outside the Currency Union since .................................................. )
+
+(c)
+
+71
+
+Last two addresses in the Currency Union, if any, during the past
+ten years:
+(Since .................................. ) (Since............................................ )
+
+8\.
+
+............................................
+
+............................................
+
+............................................
+
+............................................
+
+Professional and academic qualifications:
+
+Particulars
+
+Year obtained
+(a)
+
+Highest academic qualification
+
+......................................................................................................................................
+......................................................................................................................................
+(b)
+
+Special awards or honours (if any)
+
+......................................................................................................................................
+......................................................................................................................................
+(c)
+
+Training courses and seminars
+
+......................................................................................................................................
+......................................................................................................................................
+(d)
+
+Membership in professional organisations
+
+......................................................................................................................................
+......................................................................................................................................
+9\.
+
+Occupation or employment (Present or most recent and for the past ten years)
+
+Name & business of employer
+
+Position held
+
+_______________________
+
+__________________ ____________________
+
+_______________________
+
+_________
+
+_______________________
+
+Inclusive date
+(month & year) from year
+__
+
+____________________
+
+__
+
+____________________
+
+10\. Name and address(es) of your bankers within the last ten years.
+.......................................................................................................................................
+.......................................................................................................................................
+11\. Bodies corporate (other than the applicant) where you are now an officer, a
+shareholder or a manager? Give relevant dates:
+.......................................................................................................................................
+.......................................................................................................................................
+
+12\. Bodies corporate other than the applicant and those listed above where you have
+been a director, shareholder or manager at any time during the last ten years. Give
+relevant dates.
+.......................................................................................................................................
+.......................................................................................................................................
+13\. Have you, in any member state of the Currency Union or elsewhere, been
+dismissed from any office or employment, or been subjected to disciplinary
+proceedings by your employer or barred from entry to any profession or occupation?
+If yes, give particulars:
+.......................................................................................................................................
+.......................................................................................................................................
+14\. Past and present business affiliation (direct and indirect):
+Nature of business
+
+Nature of affiliation i.e. director,
+officer,shareholder with share
+capital of 5% and above
+
+Inclusive date (month
+and form)
+
+15\. Do any of the above business affiliations maintain a business relationship with
+the credit provider? If yes, give particulars:
+.......................................................................................................................................
+.......................................................................................................................................
+16\. Do you hold or have you ever held or applied for a licence or equivalent
+authorisation to carry on any business activities in any member state of the Currency
+Union or any other country? If any such application was refused or withdrawn after it
+was made or any authorisation was revoked, give particulars:
+.......................................................................................................................................
+.......................................................................................................................................
+17\. Does the applicant, with which you are, or have been, associated as a, significant
+shareholder or officer hold, has ever held or applied for a licence or equivalent
+authorisation to carry on any business activity? If yes, give particulars. If any such
+application was refused, or was withdrawn after it was made or any licence revoked,
+give particulars:
+.......................................................................................................................................
+.......................................................................................................................................
+
+18\. State whether in any of your past or current employment or institution with
+which you were affiliated you were a shareholder, officer or significant shareholder.
+Also indicate the nature of the family group member’s relation (that is to say, spouse,
+child, parent, brother or sister) to the applicant.
+Name of business
+
+Nature of family member’s
+affiliation to the business
+
+Nature of the family group members
+relation to the applicant
+
+1
+2
+3
+
+19\. Have you failed to satisfy any debt adjudged due and payable by you as a
+judgment debtor under an order of a court in any member state of the Currency Union
+or elsewhere or made any compromise arrangement with your creditors within the
+last ten years? If yes, give particulars:
+.......................................................................................................................................
+.......................................................................................................................................
+20\. Have you been adjudicated bankrupt by a court in any member state of the
+Currency Union or elsewhere or has a bankruptcy petition ever been served on you?
+If yes, give particulars:
+.......................................................................................................................................
+.......................................................................................................................................
+21\. Have you, in connection with the formation or management of a body corporate,
+a partnership or an unincorporated institution, been adjudged by a court in any
+member state of the Currency Union or elsewhere, civilly liable for any fraud,
+misfeasance or other misconduct by you towards that body corporate, partnership or
+unincorporated institution or towards its members? ......................................
+If yes, give particulars: .................................................................................................
+.......................................................................................................................................
+22\. Has any partnership, body corporate or unincorporated institution with which
+you are associated as a director, shareholder or manager, in any member state of the
+Currency Union or elsewhere, been wound up, made subject to an administrative
+order, otherwise made any compromise or arrangement with its creditors or ceased
+trading either while you were associated with it or within one year after you ceased to
+be associated with it or has anything analogous to any of these events occurred under
+the laws of any other jurisdiction? ...............................
+If yes, give particulars:
+.......................................................................................................................................
+.......................................................................................................................................
+
+23\. Have you been concerned with the management or conduct of affairs of any
+institution which, by reason of any matter relating to a time when you were so
+concerned, has been censured, warned as to future conduct, disciplined or publicly
+criticized by, or made the subject of a court order at the instigation of any regulatory
+authority in any member state of the Currency Union or elsewhere? ..........................
+If yes, give particulars:
+.......................................................................................................................................
+.......................................................................................................................................
+24\. In carrying out your duties will, you be acting on the directions or instructions of
+any individual or credit provider? .................................................................................
+If yes, give particulars:
+.......................................................................................................................................
+.......................................................................................................................................
+25\. Do you, in your private capacity, or does any related party, undertake business
+with the applicant? ....................................................
+If yes, give particulars:
+.......................................................................................................................................
+.......................................................................................................................................
+26\. How many shares in the applicant are registered in your name or the name of a
+related party?
+.......................................................................................................................................
+.......................................................................................................................................
+If applicable, give name(s) in which registered and class of shares .............................
+.......................................................................................................................................
+27\. In how many shares in the applicant (not being registered in your name or that of
+a related party) are you or any party beneficially interested?
+.......................................................................................................................................
+.......................................................................................................................................
+28\. Do you or does any related party, hold any shares in the applicant as trustee or
+nominee? ...................................................................
+If yes, give particulars:
+.......................................................................................................................................
+.......................................................................................................................................
+29\. Are any shares in the applicant mentioned in answer to questions 26, 27, and 28
+above equitable or legally charged or pledged to any party? .......................................
+If yes, give particulars:
+.......................................................................................................................................
+.......................................................................................................................................
+
+30\. What proportion of the voting power at any general meeting of the applicant (or
+another body corporate of which it is subsidiary) are you or any related party entitled
+to exercise or control the exercise of?
+.......................................................................................................................................
+.......................................................................................................................................
+31\. Personal record of court cases or any investigation by governmental,
+professional or any regulatory body (including pending and prospective cases or ongoing investigation):
+.......................................................................................................................................
+.......................................................................................................................................
+
+Name of court or particulars of investigative body
+
+Details of status
+
+32\. Documentary requirements—
+(a) certified statement of assets and liabilities;
+(b) latest tax compliance certificate or certified true copy of income tax
+returns;
+(c) three letters of character references from individuals other than
+relatives who have personally known the undersigned for at least ten
+years; and
+(d) two letters, duly certified from financial institutions with whom the
+undersigned has had dealings for the last two years on the performance
+of past and present accounts such as unauthorised overdraft on deposit
+accounts, past due or delinquent accounts.
+33\. If this questionnaire is submitted in connection with an application for licensing,
+please provide any other information which may assist the Central Bank in reaching a
+decision on the application.
+DECLARATION
+I certify that all the information contained in, and accompanying, this form is
+complete and accurate to the best of my knowledge, information and belief and that
+there are no other facts relevant to this application of which the Central Bank should
+be aware.
+I further undertake that, in the event that the credit bureau is granted a licence under
+the Credit Reporting Act and the Credit Reporting Regulations, I will notify the
+Central Bank of any material change to, or affecting the completeness or accuracy of
+the answers to the questions above as soon as possible, but in any event not later than
+thirty days from the date that the change comes to our attention.
+
+Sworn at ...................................... , this............................day of ..................... , 20 .......
+Name ....................................................................... Position held .............................
+Signed ...............................................................
+
+Date...........................................
+
+I know and understand the contents of this Declaration and that I am making it under
+oath / affirmation.
+Sworn at .......................................... ,
+Saint
+Christopher
+and
+Nevis
+this
+......................................................... day of......................................... , 20 ..................
+Signature of deponent ............................................. (Position) ...................................
+The deponent understands the contents of this Declaration.
+Before me, ................................................................
+A COMMISSIONER FOR OATHS
+N.B.
+1\. All sections of this form shall be filled.
+2\. If any space provided is inadequate, the required information may be supplied as
+an attachment labelled accordingly and reference shall be made to the relevant
+section of the form by placing the word “REFER TO ANNEX ............................... ”.
+3\. Information provided in this form is confidential and cannot be made available
+without the consent of the Governor of the Central Bank.
+_________
+
+## SCHEDULE 4
+
+(Regulation 3(2)(a))
+SAINT CHRISTOPHER AND NEVIS
+IN THE MATTER OF THE STATUTORY DECLARATION ACT
+STATUTORY DECLARATION
+I, .................................................... of ................................................ (Insert address)
+in the .................................................... do hereby make oath and solemnly state as
+follows:
+1\.
+
+THAT I am the deponent herein hence competent to swear this affidavit.
+
+2\.
+
+THAT I am the Chief Executive Officer of......................................................
+(Insert name of credit bureau) hereinafter referred to as the Applicant.
+
+3\.
+
+THAT I am holder of .......................................................................................
+(Insert National registration card/identification documentation details.)
+
+4\.
+
+THAT I make this Statutory Declaration and hereby undertake that the
+applicant shall adhere to the provisions of the Credit Reporting Act, 2018 and
+the Credit Reporting Regulations, 2019 and in particular that the applicant
+will not disclose to any person any information obtained under the applicant’s
+obligations under the Credit Reporting Act, 2018 and the Credit Reporting
+Regulations, 2019 except as provided herein.
+
+5\.
+
+THAT the facts herein deposed to are true to the best of my knowledge,
+information and belief.
+
+Sworn by ..................................................... at ...........................................................
+this ....................................... day of .................................. 20 ............... .
+..........................................................
+DEPONENT
+
+Before me
+...........................................................
+A COMMISSIONER FOR OATHS
+
+_________
+
+## SCHEDULE 5
+
+(Regulations 3(2)(c) and 5)
+FEES
+Description
+Rate ($)
+Non-Refundable application processing fee
+Credit Bureau Licence
+New licence
+Annual renewal of licence
+Reinstatement of licence
+
+__________
+
+10,000
+25,000
+20,000
+25,000
+
+## SCHEDULE 6
+
+(Regulations 2 and 12(4)(a))
+SUMMARY OF RIGHTS
+This Summary of Rights is the summary of the rights of data subjects under the
+Credit Reporting Act, 2018 (the Act) which promotes fairness, accuracy, and
+privacy of information in the files of credit bureaus and in the practice of credit
+reporting. Credit bureaus gather and sell information relating to the current or
+historical status of a credit transaction between you and a credit provider including,
+but not limited to the date a credit account was opened, the date of the last payment,
+credit approved, the amount of payments and non-payments, the current balance,
+repayment patterns, purposes for the credit account, any collateral pledged and
+bankruptcies.
+You can find the complete text of the Act at https://www.eccb-centralbank.org. The
+Act gives you specific rights, many of which are summarised below.
+(1) Limited information can be reported about you.
+(a) A credit report describes your credit history, not simply your current
+debts. Information about a bankruptcy that has been discharged or
+a default that has subsequently been paid in full can continue to be
+reported, provided it is updated to reflect the later developments,
+as it remains an accurate statement of those historical events.
+(b) A credit bureau can only collect certain classes of information, set out
+in the Act, for its credit reporting database. Generally, a credit bureau
+shall not report information for longer than seven years on a credit or a
+loan that has been terminated or settled. Credit bureaus may not report
+outdated negative information. In most cases, a credit bureau may not
+report negative information that is more than seven years old from the
+date of last activity on the credit or loan.
+(2) Only certain people can access your file for certain purposes.
+(a) The Act limits the people who can gain access to your credit
+information that is to say access to your file is limited. These people
+will usually be credit providers who are considering your application
+for credit, but in some strictly defined situations the information may
+be available to prospective landlords, employers or insurers, to debt
+collectors, to those persons involved in court proceedings and to
+certain public sector bodies.
+(b) Accordingly, a credit bureau may provide information about you only
+to people with a valid need, usually to consider an application with a
+creditor, insurer, employer, landlord, or other business. The Act
+specifies those with a valid need for access to your credit information.
+(c) A credit bureau shall take precautions to check the identity of anyone
+making a personal access request. This may involve asking you for
+certain identification details, which cannot be added to the credit
+bureau’s database. You will be required to provide proper
+
+identification, which may include your passport number or Social
+Security number.
+(3) Your right of access to your file.
+(a) You have the right to know what is in your file. You may request and
+obtain all the information about you in the files of a credit bureau. You
+have the right to ask for a credit score. Credit scores are numerical
+summaries of your credit-worthiness based on information from credit
+information providers. You are entitled to request, on an annual basis,
+one free copy of the credit information held about you by a credit
+bureau.
+(b) You are entitled to a free credit report in certain circumstances. For
+example, you are entitled to a free credit report if a person has taken
+adverse action against you because of information in your credit report
+or if your file contains inaccurate information that is subsequently
+rectified.
+(c) Additional requests for credit reports or expedited requests may incur a
+reasonable charge imposed by the credit bureau. For example, if you
+want the information quickly (within five working days) you may be
+required to pay a reasonable charge.
+(4) Your consent is required in most situations.
+(a) In most cases, access to your credit information can only take place
+with your consent. This applies to access by credit providers,
+prospective landlords and prospective employers. Your consent is not
+being required for disclosure of credit and personal information to the
+credit bureau by credit information providers or for access by certain
+public sector agencies involved in court proceedings or by debt
+collectors.
+(b) You must give your consent for reports to be provided to employers. A
+credit bureau may not give out information about you to your
+employer, or a potential employer, without your consent given to the
+employer. The credit bureau is required to log each access that is made
+to your information and will normally disclose this information to you
+on request.
+(5) You can find out what is held about you.
+You must be told if information in your file has been used against you.
+Anyone who uses a credit report to deny your application for credit,
+insurance, or employment – or to take another adverse action against you –
+must tell you, and must give you the name, address, and phone number of
+the credit bureau that provided the information.
+(6) You can dispute inaccurate information with the credit bureau.
+(a) Every credit bureau shall take reasonable steps to ensure the accuracy
+of the information that it holds and shall act promptly to correct any
+errors it becomes aware of. If you tell a credit bureau that your credit
+report contains an inaccuracy, the credit bureau shall take steps to
+
+verify the accuracy of the information and if necessary, correct the
+information. This will usually involve checking the information you
+are querying with the source such as with a creditor. While the
+checking process is under way, the credit bureau shall flag your credit
+report to show that the item has been disputed.
+(b) You have the right to dispute misleading, incomplete or inaccurate
+information. If you identify information in your file that is misleading,
+incomplete or inaccurate, and report it to the credit bureau, the credit
+bureau must investigate unless your dispute is frivolous.
+(c) A credit bureau must correct or delete misleading, inaccurate,
+incomplete, or unverifiable information. The credit bureau shall, as
+soon as reasonably practical, decide whether to make the correction
+you have requested or to confirm the accuracy of the information. The
+misleading, inaccurate, incomplete or unverifiable information must be
+removed or corrected, usually within fifteen days. If the credit bureau
+needs longer than fifteen working days to make a decision, it shall
+notify you of the extension of time and the reasons for the extension of
+time. However, a credit bureau may continue to report information it
+has verified as accurate.
+(d) If the requested correction is not made you shall be told the reason and
+you may ask to have a statement of the correction sought but not made,
+attached to the relevant information. This statement will be included
+with future reports.
+(e) If a correction is made or a correction statement is added, the credit
+bureau shall inform everyone who has recently received your credit
+report of the change. The credit bureau shall tell you what it has done
+and provide you with a copy of the amended report free of charge (that
+is to say, without cost to you).
+(7) You have the right to make a complaint.
+Each credit bureau shall maintain an internal complaints procedure and
+have a designated person to facilitate the fair, simple, speedy and efficient
+resolution of complaints. If you believe that a credit bureau has breached
+any provision of the Act or the Regulations, you should first approach the
+credit bureau directly. If your complaint is not resolved you may complain
+to the Review Commission who has powers to investigate the matter. Other
+civil law remedies may also be available.
+(8) Contact addresses.
+Credit bureau: [Insert details about where to go to exercise access and
+complaint rights]
+The Regulations provide data subjects with specific rights in relation to
+credit information held by the credit bureau.
+(9) Data subject complaints and investigations.
+(a) As a credit bureau and trusted custodian of information, the credit
+bureau is responsible for investigating (i) complaints alleging a breach
+
+of the Regulations and (ii) requests for correction of any information
+held on the credit reporting database.
+(b) The credit bureau shall adhere to the procedures and timeframes for
+investigating complaints and responding to correction requests set out
+in the Regulations. Where the credit bureau asks for your assistance in
+adhering to the procedures and timeframes, you shall promptly cooperate with the credit bureau to facilitate the fair, simple, speedy and
+efficient resolution of complaints and requests for correction.
+(Inserted by S.R.O. 13/2019)
+
+__________

@@ -2,11 +2,12 @@
 title: "The Saint Christopher and Nevis Constitution Order 1983"
 identifier: "S.I. 1983 No. 881"
 type: constitution
+date: 1983-06-22
 jurisdiction: kn
 language: en
 status: in_force
 source: "https://nia.gov.kn/cdl_document/the-constitution-of-st-christopher-and-nevis/"
-retrieved: 2026-10-13
+retrieved: 2026-10-15
 ---
 
 # The Saint Christopher and Nevis Constitution Order 1983
